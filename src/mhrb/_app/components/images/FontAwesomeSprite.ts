@@ -6,10 +6,13 @@
 import React from "react";
 const ele = React.createElement;
 
-import {
+/*import {
     imgFASolidSprites2,
     imgFABrandsSprites2
-} from "../../images";
+} from "../../images";*/
+
+const imgFASolidSprites2  = "../../../../public/images/solid.svg";
+const imgFABrandsSprites2 = "../../../../public/images/brands.svg";
  
 // TODO: Is prop forwarding here a good idea?
 
