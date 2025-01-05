@@ -41,10 +41,8 @@ import React from "react";
 const ele = React.createElement;
 
 // Caminhos dos arquivos de sprite
-const spritesPath = {
-    solid: "./solid.svg",  // Caminho para o arquivo solid.svg
-    brands: "./brands.svg",  // Caminho para o arquivo brands.svg
-};
+const spritesPathSolid =  "./solid.svg";  // Caminho para o arquivo solid.svg
+const spritesPathBrands = "./brands.svg";  // Caminho para o arquivo brands.svg
 
 type Props = {
     readonly style?: "solid" | "brands";  // Estilo do ícone (solid ou brands)
@@ -61,7 +59,7 @@ export function FontAwesomeSprite(props: Props) {
     console.assert(style.length > 0);
     console.assert(fragment.length > 0);
 
-    const spritesPath = (style === "solid") ? solid : brands;
+    const spritesPath = (style === "solid") ? spritesPathSolid : spritesPathBrands;
 
     return ele("svg",
         otherProps,
