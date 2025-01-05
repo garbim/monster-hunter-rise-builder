@@ -51,26 +51,20 @@ type Props = {
     readonly fragment: string;            // Nome do ícone, ex: "discord", "home", etc.
 };
 
-export function FontAwesomeSprite(props: Props): JSX.Element { // Tipagem JSX.Element
+export function FontAwesomeSprite(props: Props) {
     const {
-        style = "solid",  // Valor padrão: "solid"
-        fragment,          // Nome do ícone
+        style = "solid",
+        fragment,
         ...otherProps
     } = props;
 
     console.assert(style.length > 0);
     console.assert(fragment.length > 0);
 
-    // Verifica se o caminho do sprite está correto
-    const spritePath = spritesPath[style];
+    const spritesPath = (style === "solid") ? solid : brands;
 
-    // Retorna um erro se o caminho do ícone não for encontrado
-    if (!spritePath) {
-        return React.createElement("span", null, "Ícone não encontrado"); // Usando React.createElement
-    }
-
-    // Renderiza o ícone do FontAwesome
-    return React.createElement("svg", otherProps, 
-        React.createElement("use", { href: `${spritePath}#${fragment}` })  // Usando o sprite com React.createElement
+    return ele("svg",
+        otherProps,
+        ele("use", {href: `${spritesPath}#${fragment}`}),
     );
 }
