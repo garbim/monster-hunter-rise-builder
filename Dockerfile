@@ -1,45 +1,28 @@
-# syntax = docker/dockerfile:1
+FROM node:18-slim
 
-# Adjust NODE_VERSION as desired
-ARG NODE_VERSION=20.18.0
-FROM node:${NODE_VERSION}-slim as base
-
-LABEL fly_launch_runtime="Node.js"
-
-# Node.js app lives here
 WORKDIR /app
 
-# Set production environment
-ENV NODE_ENV="production"
+COPY package.json yarn.lock .yarnrc.yml ./
+COPY .yarn .yarn
 
+# Modificando esta linha para ser compatível com Yarn 3
+RUN yarn install --immutable --enable-scripts
 
-# Throw-away build stage to reduce size of final image
-FROM base as build
-
-# Install packages needed to build node modules
-RUN apt-get update -qq && \
-    apt-get install --no-install-recommends -y build-essential node-gyp pkg-config python-is-python3
-
-# Install node modules
-COPY .yarnrc package.json ./
-RUN npm install --include=dev
-
-# Copy application code
+# Copy the rest of the application code
 COPY . .
 
-# Build application
-RUN npm run build
+# Build the application
+RUN yarn build
 
-# Remove development dependencies
-RUN npm prune --omit=dev
+# Use a lightweight nginx image to serve the static files
+FROM nginx:alpine
 
+# Copy the built assets from builder stage
+COPY --from=0 ./ /usr/share/nginx/html
 
-# Final stage for app image
-FROM base
+# Copy nginx configuration
+COPY nginx.conf /etc/nginx/conf.d/default.conf
 
-# Copy built application
-COPY --from=build /app /app
+EXPOSE 8080
 
-# Start the server by default, this can be overwritten at runtime
-EXPOSE 3000
-CMD [ "npm", "run", "start" ]
+CMD ["nginx", "-g", "daemon off;"]
