@@ -22,16 +22,15 @@ RUN apt-get update -qq && \
 
 # Install node modules
 COPY .yarnrc package.json ./
-RUN npm install --include=dev
 
 # Copy application code
 COPY . .
 
 # Build application
-RUN npm run build
+RUN yarn build
 
 # Remove development dependencies
-RUN npm prune --omit=dev
+RUN yarn serve
 
 
 # Final stage for app image
