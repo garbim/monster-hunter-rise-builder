@@ -25,7 +25,6 @@ COPY .yarnrc package.json ./
 # Copy application code
 COPY . .
 
-RUN npm install -g yarn
 # Build application
 RUN yarn build
 
