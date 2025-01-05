@@ -48,7 +48,7 @@ type Props = {
     readonly fragment: string;            // Nome do ícone, ex: "discord", "home", etc.
 };
 
-export function FontAwesomeSprite(props: Props) {
+export function FontAwesomeSprite(props: Props): JSX.Element { // Tipagem JSX.Element
     const {
         style = "solid",  // Valor padrão: "solid"
         fragment,          // Nome do ícone
@@ -63,7 +63,7 @@ export function FontAwesomeSprite(props: Props) {
 
     // Retorna um erro se o caminho do ícone não for encontrado
     if (!spritePath) {
-        return <span>Ícone não encontrado</span>;
+        return <span>Ícone não encontrado</span>; // Retorna o componente <span>
     }
 
     // Renderiza o ícone do FontAwesome
