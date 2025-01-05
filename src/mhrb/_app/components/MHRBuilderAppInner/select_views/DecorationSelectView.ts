@@ -22,7 +22,7 @@ class DecorationSelectionTable extends React.Component<any, any> {
 
     static _cspecHeadRowFormat = [
             // [Markup Class, Content]
-            ["deco-selection-table-head-cell-name",    "Name"     ],
+            ["deco-selection-table-head-cell-name",    "Nome"     ],
             ["deco-selection-table-head-cell-numeric", "Slot Size"],
             ["deco-selection-table-head-cell-skills",  "Skills"   ],
         ];

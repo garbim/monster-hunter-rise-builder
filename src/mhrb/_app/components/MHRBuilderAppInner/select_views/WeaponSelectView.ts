@@ -31,10 +31,10 @@ class WeaponSelectionTable extends React.Component<any, any> {
     static _cspecHeadRowFormat = [
             // [Markup Class, Content]
             ["weapon-selection-table-head-cell-category",    ""                  ],
-            ["weapon-selection-table-head-cell-name",        "Name"              ],
-            ["weapon-selection-table-head-cell-numeric",     "Attack"            ],
+            ["weapon-selection-table-head-cell-name",        "Nome"              ],
+            ["weapon-selection-table-head-cell-numeric",     "Ataque"            ],
             ["weapon-selection-table-head-cell-numeric",     "Afinidade"          ],
-            ["weapon-selection-table-head-cell-numeric",     "Defense"           ],
+            ["weapon-selection-table-head-cell-numeric",     "Defesa"           ],
             ["weapon-selection-table-head-cell-elestat",     "Element/Status"    ],
             ["weapon-selection-table-head-cell-deco",        "Slots"             ],
             ["weapon-selection-table-head-cell-specialmech", "Special Mechanics" ],

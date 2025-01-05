@@ -27,7 +27,7 @@ export class EquipIcon extends React.Component<any, any> {
                         className: "equip-remove-button button-common hide-from-buildcard",
                         onClick: (e) => {this.handleRemoveButton(e)},
                         },
-                        "remove",
+                        "remover",
                     );
                 } else {
                     return null;

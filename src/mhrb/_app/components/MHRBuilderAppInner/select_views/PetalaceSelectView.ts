@@ -21,7 +21,7 @@ class PetalaceSelectionTable extends React.Component<any, any> {
     static _cspecHeadRowFormat = [
             // [Markup Class, Content]
             ["petalace-selection-table-head-cell-category", ""],
-            ["petalace-selection-table-head-cell-name"    , "Name"],
+            ["petalace-selection-table-head-cell-name"    , "Nome"],
             ["petalace-selection-table-head-cell-numeric" , "Health Up"],
             ["petalace-selection-table-head-cell-numeric" , "Health Gain"],
             ["petalace-selection-table-head-cell-numeric" , "Stamina Up"],

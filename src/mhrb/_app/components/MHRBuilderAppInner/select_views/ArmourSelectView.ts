@@ -45,7 +45,7 @@ class ArmourSelectionTable extends React.Component<any, any> {
     static _cspecHeadRowFormat = [
             // [Markup Class, Content]
             ["armour-selection-table-head-cell-category", ""                                       ],
-            ["armour-selection-table-head-cell-name",     "Name"                                   ],
+            ["armour-selection-table-head-cell-name",     "Nome"                                   ],
             ["armour-selection-table-head-cell-numeric",  headRowIconElement("defense_icon")       ],
             ["armour-selection-table-head-cell-numeric",  headRowIconElement("eleres_fire_icon")   ],
             ["armour-selection-table-head-cell-numeric",  headRowIconElement("eleres_water_icon")  ],
