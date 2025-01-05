@@ -6,7 +6,7 @@
 import React from "react";
 const ele = React.createElement;
 
-import {
+/*import {
     imgFASolidSprites,
     imgFABrandsSprites,
 } from "../../images";
@@ -17,6 +17,17 @@ type Props = {
     readonly style?:   "solid" | "brands";
     readonly fragment: string;
 };// & React.ComponentProps<"svg">;
+*/
+// Caminhos dos arquivos de sprite
+const spritesPath = {
+    solid: "/images/fontawesome/solid.svg",  // Caminho para o arquivo solid.svg
+    brands: "/images/fontawesome/brands.svg",  // Caminho para o arquivo brands.svg
+};
+
+type Props = {
+    readonly style?: "solid" | "brands";  // Estilo do ícone (solid ou brands)
+    readonly fragment: string;            // Nome do ícone, ex: "discord", "home", etc.
+};
 
 export function FontAwesomeSprite(props: Props) {
     const {
