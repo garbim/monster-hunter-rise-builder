@@ -2,15 +2,17 @@
  * Author:  simshadows <contact@simshadows.com>
  * License: GNU Affero General Public License v3 (AGPL-3.0)
  */
-/*
+
 import React from "react";
 const ele = React.createElement;
-
+/*
 import {
     imgFASolidSprites,
     imgFABrandsSprites,
-} from "../../images";
-
+} from "../../_images";
+ */
+import imgFASolidSprites  from "../../../_images/fontawesome-free-web/sprites/solid.svg";
+import imgFABrandsSprites from "../../../_images/fontawesome-free-web/sprites/brands.svg";
 // TODO: Is prop forwarding here a good idea?
 
 type Props = {
@@ -36,7 +38,7 @@ export function FontAwesomeSprite(props: Props) {
     );
 }
 
-*/
+/*
 import React from "react";
 const ele = React.createElement;
 
@@ -65,4 +67,4 @@ export function FontAwesomeSprite(props: Props) {
         otherProps,
         ele("use", {href: `${spritesPath}#${fragment}`}),
     );
-}
+}*/
