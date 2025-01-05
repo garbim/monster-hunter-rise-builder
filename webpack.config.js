@@ -125,9 +125,15 @@ const config = (configArgs) => ({
     },
 
     devServer: {
-        static: {
-            directory: path.join(__dirname, "dist"),
-        },
+        static: [
+            {
+                directory: path.join(__dirname, "public"),
+                publicPath: "/mhrb/public",
+            },
+            {
+                directory: path.join(__dirname, "dist"),
+            },
+        ],
         compress: true,
         port: 8000,
     },
