@@ -130,9 +130,11 @@ const config = (configArgs) => ({
             {
                 directory: path.join(__dirname, "src/mhrb/public/images"),
                 publicPath: "/mhrb/public/images",
+                serveIndex: false, // Desabilita listagem de diretórios
             },
             {
                 directory: path.join(__dirname, "dist"),
+                serveIndex: false, // Desabilita listagem de diretórios
             },
         ],
         compress: true,
