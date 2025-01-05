@@ -25,22 +25,22 @@
 {
     "id": "affinity_boost_1",
     "shortID": "afb1",
-    "name": "Affinity Boost I"
+    "name": "Afinidade Boost I"
 },
 {
     "id": "affinity_boost_2",
     "shortID": "afb2",
-    "name": "Affinity Boost II"
+    "name": "Afinidade Boost II"
 },
 {
     "id": "affinity_boost_3",
     "shortID": "afb3",
-    "name": "Affinity Boost III"
+    "name": "Afinidade Boost III"
 },
 {
     "id": "affinity_boost_4",
     "shortID": "afb4",
-    "name": "Affinity Boost IV"
+    "name": "Afinidade Boost IV"
 },
 
 {
@@ -88,7 +88,7 @@
 {
     "id": "affinity_surge",
     "shortID": "afsu",
-    "name": "Affinity Surge"
+    "name": "Afinidade Surge"
 },
 
 {
@@ -536,7 +536,7 @@
 {
     "id": "arc_shot_affinity",
     "shortID": "araf",
-    "name": "Arc Shot: Affinity"
+    "name": "Arc Shot: Afinidade"
 },
 {
     "id": "arc_shot_anti_shock",

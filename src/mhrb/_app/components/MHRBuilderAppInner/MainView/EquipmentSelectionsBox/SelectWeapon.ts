@@ -448,8 +448,8 @@ class EquipWeaponInfoBox extends React.Component<any, any> {
 
         check.isInt(perf.weaponAttack);
         assert(perf.weaponAttack > 0);
-        check.isInt(perf.weaponAffinity);
-        assert((perf.weaponAffinity >= -100) && (perf.weaponAffinity <= 100));
+        check.isInt(perf.weaponAfinidade);
+        assert((perf.weaponAfinidade >= -100) && (perf.weaponAfinidade <= 100));
         check.isInt(perf.weaponDefense);
         assert(perf.weaponDefense >= 0);
         assert(check.isMap(perf.weaponEleStat));
@@ -576,7 +576,7 @@ class EquipWeaponInfoBox extends React.Component<any, any> {
                     className: "equip-weapon-stats-group-box",
                     },
                     this._renderStatBox("attack_icon", parseInt(perf.weaponAttack), true),
-                    this._renderStatBox("affinity_icon", parseInt(perf.weaponAffinity) + "%", true),
+                    this._renderStatBox("affinity_icon", parseInt(perf.weaponAfinidade) + "%", true),
                     ...otherStatBoxes,
                 ),
                 ...extraGroupElements,

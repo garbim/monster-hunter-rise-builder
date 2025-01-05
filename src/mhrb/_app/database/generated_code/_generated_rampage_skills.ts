@@ -664,25 +664,25 @@ export const __generated_ramp__attack_boost_4: RampageSkill = {
 export const __generated_ramp__affinity_boost_1: RampageSkill = {
     id: "affinity_boost_1",
     shortID: "afb1",
-    name: "Affinity Boost I",
+    name: "Afinidade Boost I",
 };
 
 export const __generated_ramp__affinity_boost_2: RampageSkill = {
     id: "affinity_boost_2",
     shortID: "afb2",
-    name: "Affinity Boost II",
+    name: "Afinidade Boost II",
 };
 
 export const __generated_ramp__affinity_boost_3: RampageSkill = {
     id: "affinity_boost_3",
     shortID: "afb3",
-    name: "Affinity Boost III",
+    name: "Afinidade Boost III",
 };
 
 export const __generated_ramp__affinity_boost_4: RampageSkill = {
     id: "affinity_boost_4",
     shortID: "afb4",
-    name: "Affinity Boost IV",
+    name: "Afinidade Boost IV",
 };
 
 export const __generated_ramp__elemental_boost_1: RampageSkill = {
@@ -736,7 +736,7 @@ export const __generated_ramp__elemental_surge: RampageSkill = {
 export const __generated_ramp__affinity_surge: RampageSkill = {
     id: "affinity_surge",
     shortID: "afsu",
-    name: "Affinity Surge",
+    name: "Afinidade Surge",
 };
 
 export const __generated_ramp__sharpness_type_1: RampageSkill = {
@@ -1264,7 +1264,7 @@ export const __generated_ramp__arc_shot_recovery: RampageSkill = {
 export const __generated_ramp__arc_shot_affinity: RampageSkill = {
     id: "arc_shot_affinity",
     shortID: "araf",
-    name: "Arc Shot: Affinity",
+    name: "Arc Shot: Afinidade",
 };
 
 export const __generated_ramp__arc_shot_anti_shock: RampageSkill = {

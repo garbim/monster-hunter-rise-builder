@@ -156,7 +156,7 @@ function getMiscBuffContributions(
             rawMul *= 1.10;
         }
     }
-    if (miscBuffActive("Song: Affinity Up")) {
+    if (miscBuffActive("Song: Afinidade Up")) {
         affinityAdd += 20;
     }
     if (miscBuffActive("Song: Elem. Reforço de Ataque")) {

@@ -334,10 +334,10 @@ function getBaseValues(
         ["attack_boost_3", ()=>{ v.baseRawAdd += 8;  }],
         ["attack_boost_4", ()=>{ v.baseRawAdd += 10; }],
 
-        ["affinity_boost_1", ()=>{ v.baseAffinity += 4;  }],
-        ["affinity_boost_2", ()=>{ v.baseAffinity += 6;  }],
-        ["affinity_boost_3", ()=>{ v.baseAffinity += 8;  }],
-        ["affinity_boost_4", ()=>{ v.baseAffinity += 10; }],
+        ["affinity_boost_1", ()=>{ v.baseAfinidade += 4;  }],
+        ["affinity_boost_2", ()=>{ v.baseAfinidade += 6;  }],
+        ["affinity_boost_3", ()=>{ v.baseAfinidade += 8;  }],
+        ["affinity_boost_4", ()=>{ v.baseAfinidade += 10; }],
 
         ["elemental_boost_1", ()=>{ rampElementalBoost(5);  }],
         ["elemental_boost_2", ()=>{ rampElementalBoost(7);  }],
@@ -348,7 +348,7 @@ function getBaseValues(
         ["defense_boost_3", ()=>{ v.baseDefense += 30; }],
 
         ["attack_surge"   , ()=>{ v.baseRawAdd += 20;
-                                  v.baseAffinity += -30; }],
+                                  v.baseAfinidade += -30; }],
         ["elemental_surge", ()=>{ 
             deferredOps2.push(() => {
                 console.assert(v.baseEleStat.size <= 1); // We only expect one element or none
@@ -363,7 +363,7 @@ function getBaseValues(
             });
         }],
         ["affinity_surge" , ()=>{ v.baseRawAdd += -10;
-                                  v.baseAffinity += 20; }],
+                                  v.baseAfinidade += 20; }],
 
         ["sharpness_type_1", ()=>{
             if (!isMelee(weapon)) {

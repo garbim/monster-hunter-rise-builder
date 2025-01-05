@@ -33,7 +33,7 @@ class WeaponSelectionTable extends React.Component<any, any> {
             ["weapon-selection-table-head-cell-category",    ""                  ],
             ["weapon-selection-table-head-cell-name",        "Name"              ],
             ["weapon-selection-table-head-cell-numeric",     "Attack"            ],
-            ["weapon-selection-table-head-cell-numeric",     "Affinity"          ],
+            ["weapon-selection-table-head-cell-numeric",     "Afinidade"          ],
             ["weapon-selection-table-head-cell-numeric",     "Defense"           ],
             ["weapon-selection-table-head-cell-elestat",     "Element/Status"    ],
             ["weapon-selection-table-head-cell-deco",        "Slots"             ],

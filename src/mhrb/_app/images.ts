@@ -46,11 +46,11 @@ imgPathMapEntries.push(
 );
 
 import imgAttackIcon   from "../_images/mhw_attack_icon_inkscapesourcefile.svg";
-import imgAffinityIcon from "../_images/mhw_affinity_icon_inkscapesourcefile.svg";
+import imgAfinidadeIcon from "../_images/mhw_affinity_icon_inkscapesourcefile.svg";
 import imgDefenseIcon  from "../_images/derived/mhw_screenshot_defense_icon_v3.png";
 imgPathMapEntries.push(
     ["attack_icon"  , imgAttackIcon  ],
-    ["affinity_icon", imgAffinityIcon],
+    ["affinity_icon", imgAfinidadeIcon],
     ["defense_icon" , imgDefenseIcon],
 );
 
@@ -148,7 +148,7 @@ import imgPalicoPowerDrum          from "../_images/palico_powerdrum_inkscapesou
 import imgPalicoRousingRoar        from "../_images/palico_rousingroar_inkscapesourcefile.svg";
 import imgSongInfernalMelody       from "../_images/song_white.svg";
 import imgSongAttackUp             from "../_images/song_red.svg";
-import imgSongAffinityUp           from "../_images/song_pink.svg";
+import imgSongAfinidadeUp           from "../_images/song_pink.svg";
 import imgSongElementalAttackBoost from "../_images/song_yellow.svg";
 import imgSongDefenseUp            from "../_images/song_gold_inkscapesourcefile.svg";
 imgPathMapEntries.push(
@@ -156,7 +156,7 @@ imgPathMapEntries.push(
     ["palico_rousingroar"       , imgPalicoRousingRoar       ],
     ["song_infernalmelody"      , imgSongInfernalMelody      ],
     ["song_attackup"            , imgSongAttackUp            ],
-    ["song_affinityup"          , imgSongAffinityUp          ],
+    ["song_affinityup"          , imgSongAfinidadeUp          ],
     ["song_elementalattackboost", imgSongElementalAttackBoost],
     ["song_defenseup"           , imgSongDefenseUp           ],
 );

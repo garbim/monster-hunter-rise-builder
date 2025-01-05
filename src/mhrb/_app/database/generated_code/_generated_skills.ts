@@ -256,7 +256,7 @@ export const __generated_skill__blast_resistance: Skill = {
 export const __generated_skill__affinity_sliding: Skill = {
     id: "affinity_sliding",
     shortId: 19,
-    name: "Affinity Sliding",
+    name: "Afinidade Sliding",
     maxLevels: 1,
 
     iconImgID: "skill_icon_pink",

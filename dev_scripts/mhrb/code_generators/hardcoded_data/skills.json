@@ -149,7 +149,7 @@
 {
     "id": "affinity_sliding",
     "shortId": 19,
-    "name": "Affinity Sliding",
+    "name": "Afinidade Sliding",
     "maxLevels": 1,
 
     "icon": "pink"

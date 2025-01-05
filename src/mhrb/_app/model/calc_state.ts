@@ -224,7 +224,7 @@ const statesSpecification: StatesSpecificationType = new Map([
                 },
             ],
         }],
-        ["Song: Affinity Up", {
+        ["Song: Afinidade Up", {
             initialState: 0,
             presentations: [
                 null,
@@ -314,7 +314,7 @@ const statesSpecification: StatesSpecificationType = new Map([
         }],
     ])],
     ["Skill States", new Map([
-        ["Affinity Sliding (AFS)", {
+        ["Afinidade Sliding (AFS)", {
             initialState: 0,
             presentations: [
                 null,

@@ -34,10 +34,10 @@ export function hhSongName(s: HHSong): string {
     switch (s) {
         default: console.error(`Unexpected value: ${s}`); // Fallthrough for graceful failure
         case "attack_up":              return "Attack Up";
-        case "affinity_up":            return "Affinity Up";
+        case "affinity_up":            return "Afinidade Up";
         case "defense_up":             return "Defense Up";
         case "attack_and_defense_up":  return "Attack and Defense Up";
-        case "attack_and_affinity_up": return "Attack and Affinity Up";
+        case "attack_and_affinity_up": return "Attack and Afinidade Up";
 
         case "blight_negated":                  return "Blight Negated";
         case "divine_protection":               return "Divine Protection";
@@ -92,7 +92,7 @@ export function bowArcShotTypeName(s: BowArcShotType): string {
     switch (s) {
         default: console.error(`Unexpected value: ${s}`); // Fallthrough for graceful failure
         case "recovery": return "Recovery";
-        case "affinity": return "Affinity";
+        case "affinity": return "Afinidade";
         case "brace":    return "Brace";
     }
 }

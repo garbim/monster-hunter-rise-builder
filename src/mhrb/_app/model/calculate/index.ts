@@ -271,7 +271,7 @@ function calculateBuildPerformance(
         return 1;
     })();
 
-    const narwaSoulAffinityAdd = (()=>{
+    const narwaSoulAfinidadeAdd = (()=>{
         if (!b.narwaSoulActive) return 0;
         // We count Ibushi pieces
         let ibushiPieces = 0;
@@ -299,7 +299,7 @@ function calculateBuildPerformance(
     // TODO: It's confusing that we're overloading the term "base raw" here
     const baseRaw = Math.trunc((b.baseRaw * b.baseRawMul) + b.baseRawAdd + 0.1); // TODO: Does this truncation step exist?
     const postbaseRaw = (Math.trunc((baseRaw * s.rawMul * m.rawMul * bludgeonerBaseRawMul) + 0.1) + s.rawAdd + m.rawAdd) * b.rawPostTruncMul * s.rawPostTruncMul;
-    const postbaseAffinity = b.baseAffinity + b.affinityAdd + s.affinityAdd + m.affinityAdd + narwaSoulAffinityAdd;
+    const postbaseAfinidade = b.baseAfinidade + b.affinityAdd + s.affinityAdd + m.affinityAdd + narwaSoulAfinidadeAdd;
 
     const postbaseEleStat = new Map();
     for (const [eleStatID, baseEleStatValue] of b.baseEleStat.entries()) {
@@ -317,7 +317,7 @@ function calculateBuildPerformance(
     // STAGE 5: Find and Apply Crit Modifiers
     //
 
-    const critChance = Math.min(postbaseAffinity, 100) / 100; // Clip values to 1 or less
+    const critChance = Math.min(postbaseAfinidade, 100) / 100; // Clip values to 1 or less
 
     function getCritModifier(critDamage: number, blunderDamage: number) {
         if (critChance < 0) {
@@ -460,7 +460,7 @@ function calculateBuildPerformance(
         // TODO: Rename it to baseAttack, etc.
 
         weaponAttack:   baseRaw,
-        weaponAffinity: b.baseAffinity,
+        weaponAfinidade: b.baseAfinidade,
         weaponDefense:  b.baseDefense,
         weaponEleStat:  b.baseEleStat,
 
@@ -468,7 +468,7 @@ function calculateBuildPerformance(
 
         effectiveRaw:     effectiveRaw,
         effectiveEleStat: effectiveEleStat,
-        affinity:         postbaseAffinity,
+        affinity:         postbaseAfinidade,
 
         rawCritDmgMultiplier:       s.rawCriticalDamage,
         rawCritModifier:            rawCritModifier,

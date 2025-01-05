@@ -236,7 +236,7 @@ function getSkillContributions(
         //
 
         ["affinity_sliding", (lvl, lid)=>{
-            if (!calcState.skillIsActive("Affinity Sliding (AFS)")) return;
+            if (!calcState.skillIsActive("Afinidade Sliding (AFS)")) return;
             switch (lvl) {
                 case 1: v.affinityAdd += 30; break;
                 default:

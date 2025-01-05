@@ -380,12 +380,12 @@ export class CalculationResultsBox extends React.Component<any, any> {
                     v = ["100% (" + String(perf.affinity) + "%)"];
                 } else if (perf.affinity < -100) {
                     //const striked = element("s", null, String(perf.affinity) + "%");
-                    //return this._renderStat("Affinity", striked, " -100%");
+                    //return this._renderStat("Afinidade", striked, " -100%");
                     v = ["-100% (" + String(perf.affinity) + "%)"];
                 } else {
                     v = [String(perf.affinity) + "%"];
                 }
-                return this._renderStat("affinity_icon", "Affinity", v);
+                return this._renderStat("affinity_icon", "Afinidade", v);
             })();
 
         let sharpnessRendering = null;
@@ -400,9 +400,9 @@ export class CalculationResultsBox extends React.Component<any, any> {
                     },
                     null
                 ),
-                this._renderStat(null, "Multiplicador de Acertos", [perf.hitsMultiplier.toFixed(1) + "x"]),
-                this._renderStat(null, "Modificador de Afiamento Bruto", [perf.rawSharpnessModifier.toFixed(4) + "x"]),
-                this._renderStat(null, "Modificador de Afiamento Elemental", [perf.elementalSharpnessModifier.toFixed(4) + "x"]),
+                this._renderStat(null, "Multip. de Acertos", [perf.hitsMultiplier.toFixed(1) + "x"]),
+                this._renderStat(null, "Mod. Afiamento Bruto", [perf.rawSharpnessModifier.toFixed(4) + "x"]),
+                this._renderStat(null, "Mod. Afiamento Elem.", [perf.elementalSharpnessModifier.toFixed(4) + "x"]),
             );
         }
 
@@ -515,10 +515,10 @@ export class CalculationResultsBox extends React.Component<any, any> {
             if (perf.bowgunStats === null) {
                 return element(CalculationResultsGroupBox,
                     null,
-                    this._renderStat(null, "Dano Crítico Bruto", [perf.rawCritDmgMultiplier.toFixed(2) + "x"]),
-                    this._renderStat(null, "Dano Crítico Elemental", [perf.elementalCritDmgMultiplier.toFixed(2) + "x"]),
-                    this._renderStat(null, "Modificador Crítico Bruto", [perf.rawCritModifier.toFixed(4) + "x"]),
-                    this._renderStat(null, "Modificador Crítico Elemental", [perf.elementalCritModifier.toFixed(4) + "x"]),
+                    this._renderStat(null, "Dano Crít. Bruto", [perf.rawCritDmgMultiplier.toFixed(2) + "x"]),
+                    this._renderStat(null, "Dano Crít. Elemental", [perf.elementalCritDmgMultiplier.toFixed(2) + "x"]),
+                    this._renderStat(null, "Mod. Crít. Bruto", [perf.rawCritModifier.toFixed(4) + "x"]),
+                    this._renderStat(null, "Mod. Crít. Elemental", [perf.elementalCritModifier.toFixed(4) + "x"]),
                 );
             } else {
                 // We hide the crit stats because there's no space for it, and it's not terribly relevant information anyway,

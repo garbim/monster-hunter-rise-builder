@@ -95,7 +95,7 @@ export interface EleDefStatObj {
 // TODO: Consider refactoring this into a simple TypeScript interface.
 export class BaseStatistics {
     baseRaw:      number;
-    baseAffinity: number;
+    baseAfinidade: number;
     baseEleStat:  EleStatMapMutable;
     baseDefense:  number;
 
@@ -133,7 +133,7 @@ export class BaseStatistics {
 
     constructor(w: Weapon) {
         this.baseRaw      = w.attack;
-        this.baseAffinity = w.affinity;
+        this.baseAfinidade = w.affinity;
         this.baseEleStat  = new Map(w.eleStat.entries());
         this.baseDefense  = w.defense;
 
