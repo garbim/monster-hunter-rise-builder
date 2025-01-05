@@ -10,7 +10,7 @@ RUN apk add --no-cache python3 && ln -sf python3 /usr/bin/python
 COPY package.json ./
 
 # Instala o Yarn e as dependências
-RUN npm install -g yarn --force && yarn install
+RUN yarn install
 
 # Copia o restante dos arquivos do projeto
 COPY . .
@@ -21,5 +21,5 @@ RUN yarn build
 # Define a porta usada pela aplicação
 EXPOSE 8080
 
-# Comando para iniciar o servidor
-CMD ["yarn", "serve"]
+# Comando para iniciar o servidor Python na interface 0.0.0.0 e porta 8080
+CMD ["python3", "-m", "http.server", "8080", "--bind", "0.0.0.0", "--directory", "./dist"]
