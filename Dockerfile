@@ -20,12 +20,13 @@ FROM base as build
 RUN apt-get update -qq && \
     apt-get install --no-install-recommends -y build-essential node-gyp pkg-config python-is-python3
 
+RUN apt-get install nodejs npm
 # Install node modules
 COPY .yarnrc package.json ./
-RUN npm install -g yarn
 # Copy application code
 COPY . .
 
+RUN npm install -g yarn
 # Build application
 RUN yarn build
 
