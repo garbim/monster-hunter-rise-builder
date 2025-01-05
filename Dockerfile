@@ -3,6 +3,9 @@ FROM node:18-alpine
 # Define o diretório de trabalho
 WORKDIR /app
 
+# Instala Python e cria um link simbólico para garantir que python3 funcione
+RUN apk add --no-cache python3 && ln -sf python3 /usr/bin/python
+
 # Copia os arquivos necessários
 COPY package.json ./
 

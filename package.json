@@ -2,7 +2,7 @@
   "name": "monster-hunter-fan-website",
   "author": "simshadows <contact@simshadows.com>",
   "version": "2.0.0-dev",
-  "license": "AGPLv3",
+  "license": "MIT",
   "description": "A web-based build calculator for Monster Hunter Rise.",
   "keywords": [],
   "packageManager": "yarn@1.22.19",
