@@ -2,11 +2,11 @@
  * Author:  simshadows <contact@simshadows.com>
  * License: GNU Affero General Public License v3 (AGPL-3.0)
  */
-
+/*
 import React from "react";
 const ele = React.createElement;
 
-/*import {
+import {
     imgFASolidSprites,
     imgFABrandsSprites,
 } from "../../images";
@@ -37,6 +37,9 @@ export function FontAwesomeSprite(props: Props) {
 }
 
 */
+import React from "react";
+const ele = React.createElement;
+
 // Caminhos dos arquivos de sprite
 const spritesPath = {
     solid: "./solid.svg",  // Caminho para o arquivo solid.svg
@@ -63,11 +66,11 @@ export function FontAwesomeSprite(props: Props): JSX.Element { // Tipagem JSX.El
 
     // Retorna um erro se o caminho do ícone não for encontrado
     if (!spritePath) {
-        return <span>Ícone não encontrado</span>; // Retorna o componente <span>
+        return React.createElement("span", null, "Ícone não encontrado"); // Usando React.createElement
     }
 
     // Renderiza o ícone do FontAwesome
-    return ele("svg", otherProps, 
-        ele("use", { href: `${spritePath}#${fragment}` })  // Usando o sprite
+    return React.createElement("svg", otherProps, 
+        React.createElement("use", { href: `${spritePath}#${fragment}` })  // Usando o sprite com React.createElement
     );
 }
