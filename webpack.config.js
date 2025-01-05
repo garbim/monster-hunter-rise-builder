@@ -128,8 +128,8 @@ const config = (configArgs) => ({
     devServer: {
         static: [
             {
-                directory: path.join(__dirname, "public"),
-                publicPath: "/mhrb/public",
+                directory: path.join(__dirname, "src/mhrb/public/images"),
+                publicPath: "/mhrb/public/images",
             },
             {
                 directory: path.join(__dirname, "dist"),
