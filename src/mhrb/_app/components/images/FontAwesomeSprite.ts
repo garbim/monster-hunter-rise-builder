@@ -20,8 +20,8 @@ type Props = {
 */
 // Caminhos dos arquivos de sprite
 const spritesPath = {
-    solid: "/images/fontawesome/solid.svg",  // Caminho para o arquivo solid.svg
-    brands: "/images/fontawesome/brands.svg",  // Caminho para o arquivo brands.svg
+    solid: "solid.svg",  // Caminho para o arquivo solid.svg
+    brands: "brands.svg",  // Caminho para o arquivo brands.svg
 };
 
 type Props = {
