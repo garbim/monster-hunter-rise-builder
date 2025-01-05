@@ -5,7 +5,7 @@ FROM node:18-alpine
 WORKDIR /app
 
 # Copia os arquivos necessários
-COPY package.json yarn.lock ./
+COPY package.json ./
 
 # Instala as dependências usando Yarn
 RUN npm install -g yarn && yarn install
