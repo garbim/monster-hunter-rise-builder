@@ -1,16 +1,15 @@
-# Use uma imagem base do Node.js
 FROM node:18-alpine
 
 # Define o diretório de trabalho
 WORKDIR /app
 
 # Copia os arquivos necessários
-COPY package.json ./
+COPY package.json yarn.lock ./
 
-# Instala as dependências usando Yarn
-RUN npm install -g yarn && yarn install
+# Instala o Yarn e as dependências
+RUN npm install -g yarn --force && yarn install
 
-# Copia o resto dos arquivos do projeto
+# Copia o restante dos arquivos do projeto
 COPY . .
 
 # Compila o aplicativo para produção
