@@ -8,8 +8,8 @@ const ele = React.createElement;
 
 import {
     imgFASolidSprites2,
-    imgFABrandsSprites2,
-} from "../../_images";
+    imgFABrandsSprites2
+} from "../../images";
  
 // TODO: Is prop forwarding here a good idea?
 
