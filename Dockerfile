@@ -22,7 +22,7 @@ RUN apt-get update -qq && \
 
 # Install node modules
 COPY .yarnrc package.json ./
-
+RUN npm install -g yarn
 # Copy application code
 COPY . .
 
