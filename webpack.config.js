@@ -37,7 +37,7 @@ const config = (configArgs) => ({
     output: {
         filename: "[name].js",
         path: path.resolve(__dirname, "dist"),
-        assetModuleFilename: "images/[name]-[hash][ext]",
+        assetModuleFilename: "mhrb/public/images/[name][ext]",
         clean: true,
     },
     resolve: {
