@@ -1232,7 +1232,7 @@
             "elestat": {
                 "ice": 14
             },
-            "name": "Ice Crest I",
+            "name": "Gelo Crest I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -1286,7 +1286,7 @@
             "elestat": {
                 "ice": 15
             },
-            "name": "Ice Crest II",
+            "name": "Gelo Crest II",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -1343,7 +1343,7 @@
             "elestat": {
                 "ice": 17
             },
-            "name": "Ice Crest III",
+            "name": "Gelo Crest III",
             "ramps": [
                 [
                     "attack_boost_3",
@@ -5889,7 +5889,7 @@
             "elestat": {
                 "thunder": 9
             },
-            "name": "Beast Thunderbow I",
+            "name": "Beast Raiobow I",
             "ramps": [
                 [
                     "affinity_boost_1",
@@ -5945,7 +5945,7 @@
             "elestat": {
                 "thunder": 10
             },
-            "name": "Beast Thunderbow II",
+            "name": "Beast Raiobow II",
             "ramps": [
                 [
                     "affinity_boost_1",
@@ -6001,7 +6001,7 @@
             "elestat": {
                 "thunder": 11
             },
-            "name": "Beastking Thunderbow",
+            "name": "Beastking Raiobow",
             "ramps": [
                 [
                     "affinity_boost_2",
@@ -6217,7 +6217,7 @@
             "elestat": {
                 "thunder": 30
             },
-            "name": "Thunderbolt Bow I",
+            "name": "Raiobolt Bow I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -6327,7 +6327,7 @@
             "elestat": {
                 "ice": 30
             },
-            "name": "Icesteel Bow I",
+            "name": "Gelosteel Bow I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -6711,7 +6711,7 @@
             "elestat": {
                 "dragon": 39
             },
-            "name": "Reddnaught Dragon Arc",
+            "name": "Reddnaught Dragão Arc",
             "ramps": [
                 [
                     "attack_boost_3",
@@ -8109,7 +8109,7 @@
             "elestat": {
                 "water": 25
             },
-            "name": "Azure Era \"Soaring Dragon\"",
+            "name": "Azure Era \"Soaring Dragão\"",
             "ramps": [
                 [
                     "affinity_boost_4",
@@ -8822,7 +8822,7 @@
                 40,
                 0
             ],
-            "name": "Despot's Thundergale",
+            "name": "Despot's Raiogale",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -11322,7 +11322,7 @@
                 0,
                 0
             ],
-            "name": "Dragon Veil I",
+            "name": "Dragão Veil I",
             "ramps": [
                 [
                     "attack_boost_1",
@@ -11369,7 +11369,7 @@
                 0,
                 0
             ],
-            "name": "Dragon Veil II",
+            "name": "Dragão Veil II",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -11417,7 +11417,7 @@
                 10,
                 0
             ],
-            "name": "Dragonsong",
+            "name": "Dragãosong",
             "ramps": [
                 [
                     "attack_boost_3",
@@ -12250,7 +12250,7 @@
                 30,
                 0
             ],
-            "name": "Thunderbolt Sawtooth I",
+            "name": "Raiobolt Sawtooth I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -17688,7 +17688,7 @@
                 30,
                 0
             ],
-            "name": "Thunderbolt Blades I",
+            "name": "Raiobolt Blades I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -17772,7 +17772,7 @@
                 30,
                 0
             ],
-            "name": "Icesteel Fang I",
+            "name": "Gelosteel Fang I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -17903,7 +17903,7 @@
                 30,
                 0
             ],
-            "name": "Fire and Ice",
+            "name": "Fogo and Gelo",
             "ramps": [
                 [
                     "attack_boost_3",
@@ -18079,7 +18079,7 @@
                 140,
                 0
             ],
-            "name": "Reddnaught Dragon Wing",
+            "name": "Reddnaught Dragão Wing",
             "ramps": [
                 [
                     "attack_boost_3",
@@ -22234,7 +22234,7 @@
                 20,
                 0
             ],
-            "name": "Rathalos Firesword",
+            "name": "Rathalos Fogosword",
             "ramps": [
                 [
                     "attack_boost_3",
@@ -23393,7 +23393,7 @@
                 30,
                 0
             ],
-            "name": "Thunderbolt Great Sword I",
+            "name": "Raiobolt Great Sword I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -23477,7 +23477,7 @@
                 20,
                 0
             ],
-            "name": "Icesteel Edge I",
+            "name": "Gelosteel Edge I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -24281,7 +24281,7 @@
                 0,
                 0
             ],
-            "name": "Dragonslayer Parasol",
+            "name": "Dragãoslayer Parasol",
             "ramps": [
                 [
                     "defense_boost_3",
@@ -28008,7 +28008,7 @@
                 0,
                 0
             ],
-            "name": "Barbarous Firelance",
+            "name": "Barbarous Fogolance",
             "ramps": [
                 [
                     "affinity_boost_2",
@@ -29938,7 +29938,7 @@
                 30,
                 0
             ],
-            "name": "Thunderbolt Gunlance I",
+            "name": "Raiobolt Gunlance I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -30030,7 +30030,7 @@
                 30,
                 0
             ],
-            "name": "Icesteel Gunlance I",
+            "name": "Gelosteel Gunlance I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -33402,7 +33402,7 @@
                 20,
                 0
             ],
-            "name": "Bag o' Thunder",
+            "name": "Bag o' Raio",
             "ramps": [
                 [
                     "attack_boost_4",
@@ -34586,7 +34586,7 @@
                 0,
                 0
             ],
-            "name": "Usurper's Thunder I",
+            "name": "Usurper's Raio I",
             "ramps": [
                 [
                     "attack_boost_1",
@@ -34630,7 +34630,7 @@
                 0,
                 0
             ],
-            "name": "Usurper's Thunder II",
+            "name": "Usurper's Raio II",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -35830,7 +35830,7 @@
                 30,
                 0
             ],
-            "name": "Thunderbolt Hammer I",
+            "name": "Raiobolt Hammer I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -35914,7 +35914,7 @@
                 30,
                 0
             ],
-            "name": "Icesteel Hammer I",
+            "name": "Gelosteel Hammer I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -60892,7 +60892,7 @@
             "decos": [],
             "defense": 0,
             "elestat": {},
-            "name": "Thunderbolt Cannon I",
+            "name": "Raiobolt Cannon I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -68834,7 +68834,7 @@
                 30,
                 0
             ],
-            "name": "Despot's Thunderclap",
+            "name": "Despot's Raioclap",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -69012,7 +69012,7 @@
                 0,
                 0
             ],
-            "name": "Striped Dragonga I",
+            "name": "Striped Dragãoga I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -69056,7 +69056,7 @@
                 30,
                 0
             ],
-            "name": "Striped Dragonga II",
+            "name": "Striped Dragãoga II",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -72846,7 +72846,7 @@
                 30,
                 0
             ],
-            "name": "Thunderbolt Horn I",
+            "name": "Raiobolt Horn I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -75577,7 +75577,7 @@
                 20,
                 0
             ],
-            "name": "Firedance Rathmaul",
+            "name": "Fogodance Rathmaul",
             "ramps": [
                 [
                     "attack_boost_3",
@@ -78986,7 +78986,7 @@
                 30,
                 0
             ],
-            "name": "Thunderbolt Glaive I",
+            "name": "Raiobolt Glaive I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -84725,7 +84725,7 @@
                 30,
                 0
             ],
-            "name": "Icesteel Spear I",
+            "name": "Gelosteel Spear I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -84891,7 +84891,7 @@
                 30,
                 0
             ],
-            "name": "Thunderbolt Spear I",
+            "name": "Raiobolt Spear I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -100175,7 +100175,7 @@
             "decos": [],
             "defense": 0,
             "elestat": {},
-            "name": "Valkyrie Fire I",
+            "name": "Valkyrie Fogo I",
             "ramps": [
                 [
                     "attack_boost_1",
@@ -100431,7 +100431,7 @@
             "decos": [],
             "defense": 0,
             "elestat": {},
-            "name": "Valkyrie Fire II",
+            "name": "Valkyrie Fogo II",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -110451,7 +110451,7 @@
             "decos": [],
             "defense": 0,
             "elestat": {},
-            "name": "Thunderbolt Bowgun I",
+            "name": "Raiobolt Bowgun I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -111475,7 +111475,7 @@
             "decos": [],
             "defense": 0,
             "elestat": {},
-            "name": "Icesteel Wasp I",
+            "name": "Gelosteel Wasp I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -116627,7 +116627,7 @@
                 10,
                 0
             ],
-            "name": "Iced Rabbit",
+            "name": "Gelod Rabbit",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -120814,7 +120814,7 @@
                 30,
                 0
             ],
-            "name": "Thunderbolt Long Sword I",
+            "name": "Raiobolt Long Sword I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -120984,7 +120984,7 @@
                 30,
                 0
             ],
-            "name": "Icesteel Blade I",
+            "name": "Gelosteel Blade I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -121902,7 +121902,7 @@
                 70,
                 0
             ],
-            "name": "Azure Star \"Dragon Dance\"",
+            "name": "Azure Star \"Dragão Dance\"",
             "ramps": [
                 [
                     "affinity_boost_4",
@@ -123654,7 +123654,7 @@
                 0,
                 0
             ],
-            "name": "Dragonmaiden Axe I",
+            "name": "Dragãomaiden Axe I",
             "ramps": [
                 [
                     "attack_boost_1",
@@ -123699,7 +123699,7 @@
                 0,
                 0
             ],
-            "name": "Dragonmaiden Axe II",
+            "name": "Dragãomaiden Axe II",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -126980,7 +126980,7 @@
                 30,
                 0
             ],
-            "name": "Thunderbolt Axe I",
+            "name": "Raiobolt Axe I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -128988,7 +128988,7 @@
                 0,
                 0
             ],
-            "name": "Usurper's Firebolt I",
+            "name": "Usurper's Fogobolt I",
             "ramps": [
                 [
                     "attack_boost_1",
@@ -129032,7 +129032,7 @@
                 0,
                 0
             ],
-            "name": "Usurper's Firebolt II",
+            "name": "Usurper's Fogobolt II",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -133171,7 +133171,7 @@
                 30,
                 0
             ],
-            "name": "Thunderbolt Sword I",
+            "name": "Raiobolt Sword I",
             "ramps": [
                 [
                     "attack_boost_2",
@@ -133255,7 +133255,7 @@
                 30,
                 0
             ],
-            "name": "Icesteel Dagger I",
+            "name": "Gelosteel Dagger I",
             "ramps": [
                 [
                     "attack_boost_2",

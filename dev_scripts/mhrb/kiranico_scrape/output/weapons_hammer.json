@@ -548,7 +548,7 @@
             "maxSharpness": [100,50,100,70,30,0]
         }
     },
-    "Fire Tree": {
+    "Fogo Tree": {
         "7a": {
             "rarity": 2,
             "endlineTag": "",
@@ -772,7 +772,7 @@
             "maxSharpness": [50,50,110,50,60,30]
         }
     },
-    "Thunder Tree": {
+    "Raio Tree": {
         "9a": {
             "rarity": 5,
             "endlineTag": "",
@@ -1476,7 +1476,7 @@
             "rarity": 4,
             "endlineTag": "hr",
 
-            "name": "Bag o' Thunder",
+            "name": "Bag o' Raio",
             "attack": 140,
             "affinity": 0,
             "defense": 0,
@@ -1501,7 +1501,7 @@
             "maxSharpness": [100,40,70,70,50,20]
         }
     },
-    "Ice Tree": {
+    "Gelo Tree": {
         "18a": {
             "rarity": 1,
             "endlineTag": "",
@@ -2251,7 +2251,7 @@
             "rarity": 3,
             "endlineTag": "",
 
-            "name": "Usurper's Thunder I",
+            "name": "Usurper's Raio I",
             "attack": 120,
             "affinity": 0,
             "defense": 0,
@@ -2277,7 +2277,7 @@
             "rarity": 5,
             "endlineTag": "",
 
-            "name": "Usurper's Thunder II",
+            "name": "Usurper's Raio II",
             "attack": 190,
             "affinity": 0,
             "defense": 0,
@@ -3007,7 +3007,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Thunderbolt Hammer I",
+            "name": "Raiobolt Hammer I",
             "attack": 190,
             "affinity": 0,
             "defense": 0,
@@ -3054,7 +3054,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Icesteel Hammer I",
+            "name": "Gelosteel Hammer I",
             "attack": 180,
             "affinity": 10,
             "defense": 0,

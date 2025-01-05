@@ -461,7 +461,7 @@ class Build {
                 talismanSkillNamesArray.push([obj.skillRO.name, obj.skillLevel]);
             }
         }
-        const renderNoneTalisman = (
+        const renderNenhumTalisman = (
                 (this._talisman.skills[0].skillRO === null)
                 && (this._talisman.skills[1].skillRO === null)
                 && (this._talisman.decoSlots[0] === 0)
@@ -490,7 +490,7 @@ class Build {
                     legs:  makeArmourRenderingProps("legs"),
                 },
             talismanRO: {
-                    name: (renderNoneTalisman) ? "None" : "Talisman",
+                    name: (renderNenhumTalisman) ? "Nenhum" : "Talisman",
                     skills: talismanSkillNamesArray,
                     decosArray: this._getDecoArrayRenderingProp("talisman"),
                 },

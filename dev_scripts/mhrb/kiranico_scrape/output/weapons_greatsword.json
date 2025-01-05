@@ -1115,7 +1115,7 @@
             "maxSharpness": [80,40,90,70,50,20]
         }
     },
-    "Fire Tree": {
+    "Fogo Tree": {
         "13a": {
             "rarity": 2,
             "endlineTag": "",
@@ -1954,7 +1954,7 @@
             "rarity": 6,
             "endlineTag": "hr",
 
-            "name": "Rathalos Firesword",
+            "name": "Rathalos Fogosword",
             "attack": 210,
             "affinity": 0,
             "defense": 0,
@@ -2685,7 +2685,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Thunderbolt Great Sword I",
+            "name": "Raiobolt Great Sword I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,
@@ -2732,7 +2732,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Icesteel Edge I",
+            "name": "Gelosteel Edge I",
             "attack": 180,
             "affinity": 10,
             "defense": 0,
@@ -3174,7 +3174,7 @@
             "rarity": 5,
             "endlineTag": "hr",
 
-            "name": "Dragonslayer Parasol",
+            "name": "Dragãoslayer Parasol",
             "attack": 190,
             "affinity": 0,
             "defense": 0,

@@ -68,7 +68,7 @@ export function saPhialTypeName(s: SAPhialType): string {
         case "element_phial":   return "Element Phial";
         case "poison_phial":    return "Poison Phial";
         case "paralysis_phial": return "Paralysis Phial";
-        case "dragon_phial":    return "Dragon Phial";
+        case "dragon_phial":    return "Dragão Phial";
         case "exhaust_phial":   return "Exhaust Phial";
     }
 }

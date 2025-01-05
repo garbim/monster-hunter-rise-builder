@@ -104,7 +104,7 @@ export class SelectArmour extends React.Component<any, any> {
                 },
                 element(EquipArmourInfoBox,
                     {
-                        eqName: (armourPieceRO !== null) ? armourPieceRO.name : "None",
+                        eqName: (armourPieceRO !== null) ? armourPieceRO.name : "Nenhum",
                         skillsArray: (armourPieceRO !== null) ? armourPieceRO.skills : [],
                     },
                     null,

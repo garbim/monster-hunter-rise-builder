@@ -12,7 +12,7 @@
 
     - I tested all bowgun rampage weapon rampage skills.
     - Narwa Soul rampage skill with various numbers of Ibushi armour
-        - Tested with `Thunderbolt Great Sword I`
+        - Tested with `Raiobolt Great Sword I`
         - No pieces --> 0% affinity, add head --> 4%, add arms --> 6%, add waist --> 10%, add legs --> 12%, add chest --> 40%
         - any piece on its own --> 4%
 
@@ -49,9 +49,9 @@
         - `Shrapnel Ammo 1`: `8`
         - `Shrapnel Ammo 2`: `6`
         - `Shrapnel Ammo 3`: `3`
-    - `Fire Effect I`
+    - `Fogo Effect I`
         - `Flaming Ammo`: `5`
-        - (Similarly for `Water Effect I`, `Thunder Effect I`, and `Ice Effect I`)
+        - (Similarly for `Water Effect I`, `Raio Effect I`, and `Gelo Effect I`)
 - `Rampage H. Bowgun II`
     - *Includes all the same as `Rampage H. Bowgun I`.*
     - `Recoil Down Boost`
@@ -65,8 +65,8 @@
         - `Sticky Ammo 2`: `2`
         - `Cluster Bomb 1`: `3`
         - `Cluster Bomb 2`: `2`
-    - `Dragon Effect I`
-        - `Dragon Ammo`: `3`
+    - `Dragão Effect I`
+        - `Dragão Ammo`: `3`
     - `Poison Effect I`
         - `Poison Ammo 1`: `3`
         - `Poison Ammo 2`: `2`
@@ -123,10 +123,10 @@
         - `Shrapnel Ammo 1`: `7`
         - `Shrapnel Ammo 2`: `5`
         - `Shrapnel Ammo 3`: `2`
-    - `Fire Effect I`
+    - `Fogo Effect I`
         - `Flaming Ammo`: `4`
-        - (Similarly for `Water Effect I`, `Thunder Effect I`, and `Ice Effect I`)
-    - `Rapid Fire (Normal)`
+        - (Similarly for `Water Effect I`, `Raio Effect I`, and `Gelo Effect I`)
+    - `Rapid Fogo (Normal)`
         - `Normal Ammo 1` is now rapid fire
         - `Normal Ammo 2` is now rapid fire
 - `Rampage L. Bowgun II`
@@ -142,8 +142,8 @@
         - `Sticky Ammo 2`: `2`
         - `Cluster Bomb 1`: `3`
         - `Cluster Bomb 2`: `2`
-    - `Dragon Effect I`
-        - `Dragon Ammo`: `3`
+    - `Dragão Effect I`
+        - `Dragão Ammo`: `3`
     - `Poison Effect I`
         - `Poison Ammo 1`: `2`
         - `Poison Ammo 2`: `1`

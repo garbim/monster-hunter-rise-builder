@@ -8,7 +8,7 @@ Hardcoded parts for Greatsword data
 # Specification to build the data
 # {category: [(tree name, parent_weapon_id, [(name, id, rarity), ...]), ...]}
 HARDCODED_GS_SPEC = [
-    ("Kamura Tree", None, [
+    ("Kamura Tree", Nenhum, [
         ("Kamura Cleaver I"    , "1a"),
         ("Kamura Cleaver II"   , "1b"),
         ("Kamura Cleaver III"  , "1c"),
@@ -66,7 +66,7 @@ HARDCODED_GS_SPEC = [
         ("Frilled Blade II", "11b"),
         ("Illusory Frilled Blade", "11c"),
     ]),
-    ("Ore Tree", None, [
+    ("Ore Tree", Nenhum, [
         ("Iron Sword I", "12a"),
         ("Steel Sword", "12b"),
         ("Buster Sword I", "12c"),
@@ -74,7 +74,7 @@ HARDCODED_GS_SPEC = [
         ("Chrome Razor I", "12e"),
         ("Chrome Quietus", "12f"),
     ]),
-    ("Fire Tree", "12c", [
+    ("Fogo Tree", "12c", [
         ("Barbaroi Blade I", "13a"),
         ("Barbaroi Blade II", "13b"),
         ("Crimson Goat", "13c"),
@@ -99,7 +99,7 @@ HARDCODED_GS_SPEC = [
         ("Tetranadon Edge II", "17b"),
         ("Tetranadon Cutter", "17c"),
     ]),
-    ("Bone Tree", None, [
+    ("Bone Tree", Nenhum, [
         ("Bone Cleaver I", "18a"),
         ("Bone Slasher", "18b"),
         ("Jawblade I", "18c"),
@@ -124,7 +124,7 @@ HARDCODED_GS_SPEC = [
     ("Rathalos Tree", "21a", [
         ("Red Wing I", "22a"),
         ("Red Wing II", "22b"),
-        ("Rathalos Firesword", "22c"),
+        ("Rathalos Fogosword", "22c"),
     ]),
     ("Diablos Tree", "18d", [
         ("Quarrel Hornsword I", "23a"),
@@ -156,67 +156,67 @@ HARDCODED_GS_SPEC = [
         ("Snowclad II", "28b"),
         ("Lagombi Charlotte", "28c"),
     ]),
-    ("Magnamalo Tree", None, [
+    ("Magnamalo Tree", Nenhum, [
         ("Sinister Blade I", "29a"),
         ("Sinister Blade II", "29b"),
         ("Sinister Shadowblade", "29c"),
     ]),
-    ("Rajang Tree", None, [
+    ("Rajang Tree", Nenhum, [
         ("Demon Rod I", "30a"),
         ("Demon Rod II", "30b"),
         ("Great Demon Rod", "30c"),
     ]),
-    ("Ibushi Tree", None, [
+    ("Ibushi Tree", Nenhum, [
         ("Azure Elder Great Sword I", "31a"),
         ("Azure Elder Great Sword II", "31b"),
         ("Abyssal Galeblade", "31c"),
     ]),
-    ("Narwa Tree", None, [
-        ("Thunderbolt Great Sword I", "32a"),
+    ("Narwa Tree", Nenhum, [
+        ("Raiobolt Great Sword I", "32a"),
         ("Abyssal Storm Cleaver", "32b"),
     ]),
-    ("Kushala Daora Tree", None, [
-        ("Icesteel Edge I", "33a"),
+    ("Kushala Daora Tree", Nenhum, [
+        ("Gelosteel Edge I", "33a"),
         ("Daora's Decimator", "33b"),
     ]),
-    ("Teostra Tree", None, [
+    ("Teostra Tree", Nenhum, [
         ("Teostra Blade I", "34a"),
         ("King Teostra Blade", "34b"),
     ]),
-    ("Chameleos Tree", None, [
+    ("Chameleos Tree", Nenhum, [
         ("Grand Shamshir I", "35a"),
         ("Foreboding Shamshir", "35b"),
     ]),
-    ("Valstrax Tree", None, [
+    ("Valstrax Tree", Nenhum, [
         ("Redwing Claymore I", "36a"),
         ("Reddnaught Claymore", "36b"),
     ]),
-    ("Chaos Tree", None, [
+    ("Chaos Tree", Nenhum, [
         ("Wyvern's Perch I", "37a"),
         ("Wyvern's Perch II", "37b"),
         ("Roguish Deathcap", "37c"),
     ]),
-    ("Shell-Studded Tree", None, [
+    ("Shell-Studded Tree", Nenhum, [
         ("Sleepy Shellblade I", "38a"),
         ("Sleepy Shellblade II", "38b"),
         ("Soporific Shellblade", "38c"),
     ]),
-    ("Speartuna Tree", None, [
+    ("Speartuna Tree", Nenhum, [
         ("Frozen Speartuna I", "39a"),
         ("Frozen Speartuna II", "39b"),
         ("Freezer Speartuna", "39c"),
     ]),
-    ("Smithy Tree", None, [
+    ("Smithy Tree", Nenhum, [
         ("Ninja Parasol I", "40a"),
         ("Ninja Parasol II", "40b"),
-        ("Dragonslayer Parasol", "40c"),
+        ("Dragãoslayer Parasol", "40c"),
     ]),
-    ("Felyne Tree", None, [
+    ("Felyne Tree", Nenhum, [
         ("Cat's Soul I", "41a"),
         ("Cat's Soul II", "41b"),
         ("Cat's Curse", "41c"),
     ]),
-    ("Rampage Tree", None, [
+    ("Rampage Tree", Nenhum, [
         ("Rampage Cleaver I"  , "ra"),
         ("Rampage Cleaver II" , "rb"),
         ("Rampage Cleaver III", "rc"),

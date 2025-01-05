@@ -1286,7 +1286,7 @@ const __generated_insectglaive__8c: InsectGlaive = {
     category: "insectglaive",
     id: "8c",
 
-    name: "Firedance Rathmaul",
+    name: "Fogodance Rathmaul",
     treeName: "Rathalos Tree",
     rarity: 6,
     endlineTag: "hr",
@@ -3594,7 +3594,7 @@ const __generated_insectglaive__26a: InsectGlaive = {
     id: "26a",
 
     name: "Rielle Nulo Black I",
-    treeName: "Bnahabra (Dragon)",
+    treeName: "Bnahabra (Dragão)",
     rarity: 4,
     endlineTag: "",
 
@@ -3635,7 +3635,7 @@ const __generated_insectglaive__26b: InsectGlaive = {
     id: "26b",
 
     name: "Rielle Nulo Black II",
-    treeName: "Bnahabra (Dragon)",
+    treeName: "Bnahabra (Dragão)",
     rarity: 5,
     endlineTag: "",
 
@@ -3676,7 +3676,7 @@ const __generated_insectglaive__26c: InsectGlaive = {
     id: "26c",
 
     name: "Rielle Nerissimo",
-    treeName: "Bnahabra (Dragon)",
+    treeName: "Bnahabra (Dragão)",
     rarity: 6,
     endlineTag: "hr",
 
@@ -3719,7 +3719,7 @@ const __generated_insectglaive__27a: InsectGlaive = {
     id: "27a",
 
     name: "Rielle Nulo White I",
-    treeName: "Bnahabra (Ice)",
+    treeName: "Bnahabra (Gelo)",
     rarity: 3,
     endlineTag: "",
 
@@ -3759,7 +3759,7 @@ const __generated_insectglaive__27b: InsectGlaive = {
     id: "27b",
 
     name: "Rielle Nulo White II",
-    treeName: "Bnahabra (Ice)",
+    treeName: "Bnahabra (Gelo)",
     rarity: 5,
     endlineTag: "",
 
@@ -3799,7 +3799,7 @@ const __generated_insectglaive__27c: InsectGlaive = {
     id: "27c",
 
     name: "Rielle Unu White",
-    treeName: "Bnahabra (Ice)",
+    treeName: "Bnahabra (Gelo)",
     rarity: 6,
     endlineTag: "hr",
 
@@ -4291,7 +4291,7 @@ const __generated_insectglaive__32a: InsectGlaive = {
     category: "insectglaive",
     id: "32a",
 
-    name: "Thunderbolt Glaive I",
+    name: "Raiobolt Glaive I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",

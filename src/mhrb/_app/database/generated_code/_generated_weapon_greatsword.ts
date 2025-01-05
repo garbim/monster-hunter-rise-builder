@@ -1662,7 +1662,7 @@ const __generated_greatsword__13a: Greatsword = {
     id: "13a",
 
     name: "Barbaroi Blade I",
-    treeName: "Fire Tree",
+    treeName: "Fogo Tree",
     rarity: 2,
     endlineTag: "",
 
@@ -1697,7 +1697,7 @@ const __generated_greatsword__13b: Greatsword = {
     id: "13b",
 
     name: "Barbaroi Blade II",
-    treeName: "Fire Tree",
+    treeName: "Fogo Tree",
     rarity: 3,
     endlineTag: "",
 
@@ -1732,7 +1732,7 @@ const __generated_greatsword__13c: Greatsword = {
     id: "13c",
 
     name: "Crimson Goat",
-    treeName: "Fire Tree",
+    treeName: "Fogo Tree",
     rarity: 5,
     endlineTag: "hr",
 
@@ -2787,7 +2787,7 @@ const __generated_greatsword__22c: Greatsword = {
     category: "greatsword",
     id: "22c",
 
-    name: "Rathalos Firesword",
+    name: "Rathalos Fogosword",
     treeName: "Rathalos Tree",
     rarity: 6,
     endlineTag: "hr",
@@ -3778,7 +3778,7 @@ const __generated_greatsword__32a: Greatsword = {
     category: "greatsword",
     id: "32a",
 
-    name: "Thunderbolt Great Sword I",
+    name: "Raiobolt Great Sword I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",
@@ -3843,7 +3843,7 @@ const __generated_greatsword__33a: Greatsword = {
     category: "greatsword",
     id: "33a",
 
-    name: "Icesteel Edge I",
+    name: "Gelosteel Edge I",
     treeName: "Kushala Daora Tree",
     rarity: 6,
     endlineTag: "",
@@ -4461,7 +4461,7 @@ const __generated_greatsword__40c: Greatsword = {
     category: "greatsword",
     id: "40c",
 
-    name: "Dragonslayer Parasol",
+    name: "Dragãoslayer Parasol",
     treeName: "Smithy Tree",
     rarity: 5,
     endlineTag: "hr",

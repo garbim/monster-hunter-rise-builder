@@ -374,7 +374,7 @@ function calculateBuildPerformance(
     }
 
     //
-    // STAGE 7: We finally calculate effective raw!
+    // STAGE 7: We finally calculate Dano Efetivo!
     //
 
     let effectiveRaw = postbaseRaw * rawCritModifier;

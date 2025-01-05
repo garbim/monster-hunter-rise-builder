@@ -969,7 +969,7 @@
             "rarity": 2,
             "endlineTag": "",
 
-            "name": "Ice Crest I",
+            "name": "Gelo Crest I",
             "attack": 100,
             "affinity": 20,
             "defense": 0,
@@ -1011,7 +1011,7 @@
             "rarity": 3,
             "endlineTag": "",
 
-            "name": "Ice Crest II",
+            "name": "Gelo Crest II",
             "attack": 120,
             "affinity": 25,
             "defense": 0,
@@ -1053,7 +1053,7 @@
             "rarity": 5,
             "endlineTag": "",
 
-            "name": "Ice Crest III",
+            "name": "Gelo Crest III",
             "attack": 180,
             "affinity": 25,
             "defense": 0,
@@ -1773,7 +1773,7 @@
             }
         }
     },
-    "Ice Tree": {
+    "Gelo Tree": {
         "12a": {
             "rarity": 4,
             "endlineTag": "",
@@ -4004,7 +4004,7 @@
             }
         }
     },
-    "Bnahabra (Thunder)": {
+    "Bnahabra (Raio)": {
         "27a": {
             "rarity": 3,
             "endlineTag": "",
@@ -4135,7 +4135,7 @@
             }
         }
     },
-    "Bnahabra (Fire)": {
+    "Bnahabra (Fogo)": {
         "28a": {
             "rarity": 2,
             "endlineTag": "",
@@ -4263,7 +4263,7 @@
             }
         }
     },
-    "Bnahabra (Ice)": {
+    "Bnahabra (Gelo)": {
         "29a": {
             "rarity": 1,
             "endlineTag": "",
@@ -4638,7 +4638,7 @@
             "rarity": 5,
             "endlineTag": "",
 
-            "name": "Beast Thunderbow I",
+            "name": "Beast Raiobow I",
             "attack": 190,
             "affinity": 0,
             "defense": 0,
@@ -4677,7 +4677,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Beast Thunderbow II",
+            "name": "Beast Raiobow II",
             "attack": 210,
             "affinity": 0,
             "defense": 0,
@@ -4717,7 +4717,7 @@
             "rarity": 7,
             "endlineTag": "hr",
 
-            "name": "Beastking Thunderbow",
+            "name": "Beastking Raiobow",
             "attack": 220,
             "affinity": 0,
             "defense": 0,
@@ -4882,7 +4882,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Thunderbolt Bow I",
+            "name": "Raiobolt Bow I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,
@@ -4963,7 +4963,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Icesteel Bow I",
+            "name": "Gelosteel Bow I",
             "attack": 170,
             "affinity": 10,
             "defense": 0,
@@ -5246,7 +5246,7 @@
             "rarity": 7,
             "endlineTag": "hr",
 
-            "name": "Reddnaught Dragon Arc",
+            "name": "Reddnaught Dragão Arc",
             "attack": 180,
             "affinity": 0,
             "defense": 0,
@@ -5935,7 +5935,7 @@
             "rarity": 7,
             "endlineTag": "hr",
 
-            "name": "Azure Era \"Soaring Dragon\"",
+            "name": "Azure Era \"Soaring Dragão\"",
             "attack": 190,
             "affinity": 20,
             "defense": 0,

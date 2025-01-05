@@ -146,11 +146,11 @@ export function equipmentSlotToName(obj) {
 }
 
 const eleStatIdToNameMap = {
-    fire:      "Fire",
+    fire:      "Fogo",
     water:     "Water",
-    thunder:   "Thunder",
-    ice:       "Ice",
-    dragon:    "Dragon",
+    thunder:   "Raio",
+    ice:       "Gelo",
+    dragon:    "Dragão",
     poison:    "Poison",
     paralysis: "Paralysis",
     sleep:     "Sleep",
@@ -166,7 +166,7 @@ export function bowgunDeviationSpecToName(severity, left, right) {
     assert(check.isBool(right));
     if (severity === 0) {
         if (right || left) console.warn("Direction should not be set.");
-        return "None";
+        return "Nenhum";
     } else {
         assert(severity === 1 || severity === 2);
         let ret = (severity === 1) ? " Mild" : " Severe";

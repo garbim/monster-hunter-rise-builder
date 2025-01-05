@@ -187,7 +187,7 @@
     "icon": "lightblue"
 }],
 [125, {
-    "name": "Hard Dragon",
+    "name": "Hard Dragão",
     "slotSize": 3,
     "rarity": 9,
     "skills": {"dragon_attack": 3},
@@ -435,7 +435,7 @@
     "icon": "lightblue"
 }],
 [156, {
-    "verbatimName": "Dragon Jewel+ 2",
+    "verbatimName": "Dragão Jewel+ 2",
     "slotSize": 2,
     "rarity": 8,
     "skills": {"dragon_attack": 2},
@@ -475,7 +475,7 @@
     "icon": "green"
 }],
 [161, {
-    "name": "Hard Fire Res",
+    "name": "Hard Fogo Res",
     "slotSize": 4,
     "rarity": 8,
     "skills": {"fire_resistance": 3},
@@ -491,7 +491,7 @@
     "icon": "blue"
 }],
 [163, {
-    "name": "Hard Thunder Res",
+    "name": "Hard Raio Res",
     "slotSize": 4,
     "rarity": 8,
     "skills": {"thunder_resistance": 3},
@@ -499,7 +499,7 @@
     "icon": "yellow"
 }],
 [164, {
-    "name": "Hard Ice Res",
+    "name": "Hard Gelo Res",
     "slotSize": 4,
     "rarity": 8,
     "skills": {"ice_resistance": 3},
@@ -507,7 +507,7 @@
     "icon": "lightblue"
 }],
 [165, {
-    "name": "Hard Dragon Res",
+    "name": "Hard Dragão Res",
     "slotSize": 4,
     "rarity": 8,
     "skills": {"dragon_resistance": 3},
@@ -1167,7 +1167,7 @@
     "icon": "lightblue"
 }],
 [81, {
-    "name": "Dragon",
+    "name": "Dragão",
     "slotSize": 1,
     "rarity": 5,
     "skills": {"dragon_attack": 1},
@@ -1295,7 +1295,7 @@
     "icon": "purple"
 }],
 [97, {
-    "name": "Fire Res",
+    "name": "Fogo Res",
     "slotSize": 1,
     "rarity": 4,
     "skills": {"fire_resistance": 1},
@@ -1311,7 +1311,7 @@
     "icon": "blue"
 }],
 [99, {
-    "name": "Thunder Res",
+    "name": "Raio Res",
     "slotSize": 1,
     "rarity": 4,
     "skills": {"thunder_resistance": 1},
@@ -1319,7 +1319,7 @@
     "icon": "yellow"
 }],
 [100, {
-    "name": "Ice Res",
+    "name": "Gelo Res",
     "slotSize": 1,
     "rarity": 4,
     "skills": {"ice_resistance": 1},
@@ -1327,7 +1327,7 @@
     "icon": "lightblue"
 }],
 [101, {
-    "name": "Dragon Res",
+    "name": "Dragão Res",
     "slotSize": 1,
     "rarity": 4,
     "skills": {"dragon_resistance": 1},

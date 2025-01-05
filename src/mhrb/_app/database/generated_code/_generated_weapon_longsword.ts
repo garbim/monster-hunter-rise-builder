@@ -626,7 +626,7 @@ const __generated_longsword__4c: Longsword = {
     category: "longsword",
     id: "4c",
 
-    name: "Iced Rabbit",
+    name: "Gelod Rabbit",
     treeName: "Lagombi Tree",
     rarity: 4,
     endlineTag: "hr",
@@ -1641,7 +1641,7 @@ const __generated_longsword__13a: Longsword = {
     id: "13a",
 
     name: "Eager Cleaver I",
-    treeName: "Thunder Tree",
+    treeName: "Raio Tree",
     rarity: 2,
     endlineTag: "",
 
@@ -1676,7 +1676,7 @@ const __generated_longsword__13b: Longsword = {
     id: "13b",
 
     name: "Eager Cleaver II",
-    treeName: "Thunder Tree",
+    treeName: "Raio Tree",
     rarity: 4,
     endlineTag: "",
 
@@ -1711,7 +1711,7 @@ const __generated_longsword__13c: Longsword = {
     id: "13c",
 
     name: "Devil Slicer",
-    treeName: "Thunder Tree",
+    treeName: "Raio Tree",
     rarity: 5,
     endlineTag: "hr",
 
@@ -1852,7 +1852,7 @@ const __generated_longsword__15a: Longsword = {
     id: "15a",
 
     name: "Chillblade I",
-    treeName: "Ice Tree",
+    treeName: "Gelo Tree",
     rarity: 4,
     endlineTag: "",
 
@@ -1889,7 +1889,7 @@ const __generated_longsword__15b: Longsword = {
     id: "15b",
 
     name: "Chillblade II",
-    treeName: "Ice Tree",
+    treeName: "Gelo Tree",
     rarity: 5,
     endlineTag: "",
 
@@ -1927,7 +1927,7 @@ const __generated_longsword__15c: Longsword = {
     id: "15c",
 
     name: "Rimeblossom",
-    treeName: "Ice Tree",
+    treeName: "Gelo Tree",
     rarity: 6,
     endlineTag: "hr",
 
@@ -4163,7 +4163,7 @@ const __generated_longsword__35a: Longsword = {
     category: "longsword",
     id: "35a",
 
-    name: "Thunderbolt Long Sword I",
+    name: "Raiobolt Long Sword I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",
@@ -4326,7 +4326,7 @@ const __generated_longsword__37a: Longsword = {
     category: "longsword",
     id: "37a",
 
-    name: "Icesteel Blade I",
+    name: "Gelosteel Blade I",
     treeName: "Kushala Daora Tree",
     rarity: 6,
     endlineTag: "",
@@ -4855,7 +4855,7 @@ const __generated_longsword__43b: Longsword = {
     category: "longsword",
     id: "43b",
 
-    name: "Azure Star \"Dragon Dance\"",
+    name: "Azure Star \"Dragão Dance\"",
     treeName: "<TODO: Find out the name of this tree.>",
     rarity: 7,
     endlineTag: "hr",

@@ -1686,7 +1686,7 @@ const __generated_switchaxe__11a: SwitchAxe = {
     category: "switchaxe",
     id: "11a",
 
-    name: "Dragonmaiden Axe I",
+    name: "Dragãomaiden Axe I",
     treeName: "Rathian Tree",
     rarity: 5,
     endlineTag: "",
@@ -1728,7 +1728,7 @@ const __generated_switchaxe__11b: SwitchAxe = {
     category: "switchaxe",
     id: "11b",
 
-    name: "Dragonmaiden Axe II",
+    name: "Dragãomaiden Axe II",
     treeName: "Rathian Tree",
     rarity: 5,
     endlineTag: "",
@@ -1936,7 +1936,7 @@ const __generated_switchaxe__13a: SwitchAxe = {
     id: "13a",
 
     name: "The Shredder I",
-    treeName: "Thunder Tree",
+    treeName: "Raio Tree",
     rarity: 3,
     endlineTag: "",
 
@@ -1976,7 +1976,7 @@ const __generated_switchaxe__13b: SwitchAxe = {
     id: "13b",
 
     name: "The Shredder II",
-    treeName: "Thunder Tree",
+    treeName: "Raio Tree",
     rarity: 3,
     endlineTag: "",
 
@@ -2017,7 +2017,7 @@ const __generated_switchaxe__13c: SwitchAxe = {
     id: "13c",
 
     name: "The Power Shredder",
-    treeName: "Thunder Tree",
+    treeName: "Raio Tree",
     rarity: 5,
     endlineTag: "hr",
 
@@ -2059,7 +2059,7 @@ const __generated_switchaxe__14a: SwitchAxe = {
     id: "14a",
 
     name: "Ash Drache I",
-    treeName: "Dragon Tree",
+    treeName: "Dragão Tree",
     rarity: 4,
     endlineTag: "",
 
@@ -2102,7 +2102,7 @@ const __generated_switchaxe__14b: SwitchAxe = {
     id: "14b",
 
     name: "Ash Drache II",
-    treeName: "Dragon Tree",
+    treeName: "Dragão Tree",
     rarity: 5,
     endlineTag: "",
 
@@ -2145,7 +2145,7 @@ const __generated_switchaxe__14c: SwitchAxe = {
     id: "14c",
 
     name: "Fall Drache",
-    treeName: "Dragon Tree",
+    treeName: "Dragão Tree",
     rarity: 6,
     endlineTag: "hr",
 
@@ -4526,7 +4526,7 @@ const __generated_switchaxe__32a: SwitchAxe = {
     category: "switchaxe",
     id: "32a",
 
-    name: "Thunderbolt Axe I",
+    name: "Raiobolt Axe I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",

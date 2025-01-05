@@ -449,7 +449,7 @@
             "rarity": 6,
             "endlineTag": "hr",
 
-            "name": "Despot's Thundergale",
+            "name": "Despot's Raiogale",
             "attack": 210,
             "affinity": 0,
             "defense": 0,
@@ -962,7 +962,7 @@
             }
         }
     },
-    "Thunder Tree": {
+    "Raio Tree": {
         "9a": {
             "rarity": 4,
             "endlineTag": "",
@@ -2151,12 +2151,12 @@
             }
         }
     },
-    "Dragon Tree": {
+    "Dragão Tree": {
         "21a": {
             "rarity": 4,
             "endlineTag": "",
 
-            "name": "Dragon Veil I",
+            "name": "Dragão Veil I",
             "attack": 170,
             "affinity": -10,
             "defense": 0,
@@ -2187,7 +2187,7 @@
             "rarity": 5,
             "endlineTag": "",
 
-            "name": "Dragon Veil II",
+            "name": "Dragão Veil II",
             "attack": 180,
             "affinity": -10,
             "defense": 0,
@@ -2218,7 +2218,7 @@
             "rarity": 6,
             "endlineTag": "hr",
 
-            "name": "Dragonsong",
+            "name": "Dragãosong",
             "attack": 200,
             "affinity": -5,
             "defense": 0,
@@ -2776,7 +2776,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Thunderbolt Sawtooth I",
+            "name": "Raiobolt Sawtooth I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,

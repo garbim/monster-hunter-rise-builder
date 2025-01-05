@@ -8,7 +8,7 @@ Hardcoded parts for Gunlance data
 # Specification to build the data
 # {category: [(tree name, parent_weapon_id, [(name, id, rarity), ...]), ...]}
 HARDCODED_GL_SPEC = [
-    ("Kamura Tree", None, [
+    ("Kamura Tree", Nenhum, [
         ("Kamura Gunlance I"    , "1a"),
         ("Kamura Gunlance II"   , "1b"),
         ("Kamura Gunlance III"  , "1c"),
@@ -46,7 +46,7 @@ HARDCODED_GL_SPEC = [
         ("Twinfang II", "7b"),
         ("Ambermarch", "7c"),
     ]),
-    ("Ore Tree", None, [
+    ("Ore Tree", Nenhum, [
         ("Iron Gunlance I", "8a"),
         ("Iron Gunlance II", "8b"),
         ("Eizenlitter", "8c"),
@@ -101,7 +101,7 @@ HARDCODED_GL_SPEC = [
         ("Kadachi Striker II", "17b"),
         ("Mythic Kadachi Striker", "17c"),
     ]),
-    ("Bone Tree", None, [
+    ("Bone Tree", Nenhum, [
         ("Bone Gunlance I", "18a"),
         ("Bone Gunlance II", "18b"),
         ("Wyvern Bone Gunlance", "18c"),
@@ -118,7 +118,7 @@ HARDCODED_GL_SPEC = [
         ("Flaming Gunlance I", "20a"),
         ("Flaming Gunlance II", "20b"),
         ("Flaming Gunlance III", "20c"),
-        ("Barbarous Firelance", "20d"),
+        ("Barbarous Fogolance", "20d"),
     ]),
     ("Barroth Tree", "18b", [
         ("Barroth Loader I", "21a"),
@@ -142,7 +142,7 @@ HARDCODED_GL_SPEC = [
         ("Ludroth Harpoon III", "24c"),
         ("Ludroth Shellbreaker", "24d"),
     ]),
-    ("Bnahabra Tree", None, [
+    ("Bnahabra Tree", Nenhum, [
         ("Fiore Nulo I", "25a"),
         ("Fiore Nulo II", "25b"),
         ("Fiore Unu", "25c"),
@@ -152,12 +152,12 @@ HARDCODED_GL_SPEC = [
         ("Rakna Gunlance II", "26b"),
         ("Araknalance", "26c"),
     ]),
-    ("Bnahabra (Dragon)", "25b", [
+    ("Bnahabra (Dragão)", "25b", [
         ("Fiore Nulo Black I", "27a"),
         ("Fiore Nulo Black II", "27b"),
         ("Fiore Unu Black", "27c"),
     ]),
-    ("Bnahabra (Ice)", "25a", [
+    ("Bnahabra (Gelo)", "25a", [
         ("Fiore Nulo White I", "28a"),
         ("Fiore Nulo White II", "28b"),
         ("Fiore Unu White", "28c"),
@@ -167,58 +167,58 @@ HARDCODED_GL_SPEC = [
         ("Fiore Nulo Green II", "29b"),
         ("Fiore Unu Green", "29c"),
     ]),
-    ("Magnamalo Tree", None, [
+    ("Magnamalo Tree", Nenhum, [
         ("Sinister Gunlance I", "30a"),
         ("Sinister Gunlance II", "30b"),
         ("Sinister Shadowshot", "30c"),
     ]),
-    ("Rajang Tree", None, [
+    ("Rajang Tree", Nenhum, [
         ("Demon Gunlance I", "31a"),
         ("Demon Gunlance II", "31b"),
         ("Great Demon Gunlance", "31c"),
     ]),
-    ("Ibushi Tree", None, [
+    ("Ibushi Tree", Nenhum, [
         ("Azure Elder Gunlance I", "32a"),
         ("Azure Elder Gunlance II", "32b"),
         ("Abyssal Gale Gunlance", "32c"),
     ]),
-    ("Narwa Tree", None, [
-        ("Thunderbolt Gunlance I", "33a"),
+    ("Narwa Tree", Nenhum, [
+        ("Raiobolt Gunlance I", "33a"),
         ("Abyssal Storm Gunlance", "33b"),
     ]),
-    ("Bazelgeuse Tree", None, [
+    ("Bazelgeuse Tree", Nenhum, [
         ("Bazel Buster I", "34a"),
         ("Bazel Buster II", "34b"),
         ("Bazel Destroyer", "34c"),
     ]),
-    ("Kushala Daora Tree", None, [
-        ("Icesteel Gunlance I", "35a"),
+    ("Kushala Daora Tree", Nenhum, [
+        ("Gelosteel Gunlance I", "35a"),
         ("Daora's Brigia", "35b"),
     ]),
-    ("Chameleos Tree", None, [
+    ("Chameleos Tree", Nenhum, [
         ("Venomous Cologne I", "36a"),
         ("Venomous Attar", "36b"),
     ]),
-    ("Valstrax Tree", None, [
+    ("Valstrax Tree", Nenhum, [
         ("Redwing Gunlance I", "37a"),
         ("Reddnaught Gunlance", "37b"),
     ]),
-    ("Canyne Tree", None, [
+    ("Canyne Tree", Nenhum, [
         ("Canyne Cannon I", "38a"),
         ("Canyne Cannon II", "38b"),
         ("Howlitzer", "38c"),
     ]),
-    ("Guild Tree", None, [
+    ("Guild Tree", Nenhum, [
         ("Cornpopper I", "39a"),
         ("Cornpopper II", "39b"),
         ("Mighty Cornpopper", "39c"),
     ]),
-    ("Shell-Studded Tree", None, [
+    ("Shell-Studded Tree", Nenhum, [
         ("Sleepy Shellgun I", "40a"),
         ("Sleepy Shellgun II", "40b"),
         ("Soporific Shellgun", "40c"),
     ]),
-    ("Rampage Tree", None, [
+    ("Rampage Tree", Nenhum, [
         ("Rampage Gunlance I"  , "ra"),
         ("Rampage Gunlance II" , "rb"),
         ("Rampage Gunlance III", "rc"),

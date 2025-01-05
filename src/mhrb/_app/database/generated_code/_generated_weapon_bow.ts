@@ -1316,7 +1316,7 @@ const __generated_bow__7a: Bow = {
     category: "bow",
     id: "7a",
 
-    name: "Ice Crest I",
+    name: "Gelo Crest I",
     treeName: "Barioth Tree",
     rarity: 2,
     endlineTag: "",
@@ -1368,7 +1368,7 @@ const __generated_bow__7b: Bow = {
     category: "bow",
     id: "7b",
 
-    name: "Ice Crest II",
+    name: "Gelo Crest II",
     treeName: "Barioth Tree",
     rarity: 3,
     endlineTag: "",
@@ -1420,7 +1420,7 @@ const __generated_bow__7c: Bow = {
     category: "bow",
     id: "7c",
 
-    name: "Ice Crest III",
+    name: "Gelo Crest III",
     treeName: "Barioth Tree",
     rarity: 5,
     endlineTag: "",
@@ -2306,7 +2306,7 @@ const __generated_bow__12a: Bow = {
     id: "12a",
 
     name: "Crystalline Flower I",
-    treeName: "Ice Tree",
+    treeName: "Gelo Tree",
     rarity: 4,
     endlineTag: "",
 
@@ -2359,7 +2359,7 @@ const __generated_bow__12b: Bow = {
     id: "12b",
 
     name: "Crystalline Flower II",
-    treeName: "Ice Tree",
+    treeName: "Gelo Tree",
     rarity: 5,
     endlineTag: "",
 
@@ -2413,7 +2413,7 @@ const __generated_bow__12c: Bow = {
     id: "12c",
 
     name: "Heaven's Glaze",
-    treeName: "Ice Tree",
+    treeName: "Gelo Tree",
     rarity: 6,
     endlineTag: "hr",
 
@@ -5027,7 +5027,7 @@ const __generated_bow__27a: Bow = {
     id: "27a",
 
     name: "Arko Nulo Yellow I",
-    treeName: "Bnahabra (Thunder)",
+    treeName: "Bnahabra (Raio)",
     rarity: 3,
     endlineTag: "",
 
@@ -5079,7 +5079,7 @@ const __generated_bow__27b: Bow = {
     id: "27b",
 
     name: "Arko Nulo Yellow II",
-    treeName: "Bnahabra (Thunder)",
+    treeName: "Bnahabra (Raio)",
     rarity: 5,
     endlineTag: "",
 
@@ -5132,7 +5132,7 @@ const __generated_bow__27c: Bow = {
     id: "27c",
 
     name: "Arko Unu Yellow",
-    treeName: "Bnahabra (Thunder)",
+    treeName: "Bnahabra (Raio)",
     rarity: 6,
     endlineTag: "hr",
 
@@ -5186,7 +5186,7 @@ const __generated_bow__28a: Bow = {
     id: "28a",
 
     name: "Arko Nulo Red I",
-    treeName: "Bnahabra (Fire)",
+    treeName: "Bnahabra (Fogo)",
     rarity: 2,
     endlineTag: "",
 
@@ -5237,7 +5237,7 @@ const __generated_bow__28b: Bow = {
     id: "28b",
 
     name: "Arko Nulo Red II",
-    treeName: "Bnahabra (Fire)",
+    treeName: "Bnahabra (Fogo)",
     rarity: 3,
     endlineTag: "",
 
@@ -5289,7 +5289,7 @@ const __generated_bow__28c: Bow = {
     id: "28c",
 
     name: "Arko Unu Red",
-    treeName: "Bnahabra (Fire)",
+    treeName: "Bnahabra (Fogo)",
     rarity: 4,
     endlineTag: "hr",
 
@@ -5342,7 +5342,7 @@ const __generated_bow__29a: Bow = {
     id: "29a",
 
     name: "Arko Nulo White I",
-    treeName: "Bnahabra (Ice)",
+    treeName: "Bnahabra (Gelo)",
     rarity: 1,
     endlineTag: "",
 
@@ -5393,7 +5393,7 @@ const __generated_bow__29b: Bow = {
     id: "29b",
 
     name: "Arko Nulo White II",
-    treeName: "Bnahabra (Ice)",
+    treeName: "Bnahabra (Gelo)",
     rarity: 3,
     endlineTag: "",
 
@@ -5445,7 +5445,7 @@ const __generated_bow__29c: Bow = {
     id: "29c",
 
     name: "Arko Unu White",
-    treeName: "Bnahabra (Ice)",
+    treeName: "Bnahabra (Gelo)",
     rarity: 5,
     endlineTag: "hr",
 
@@ -5795,7 +5795,7 @@ const __generated_bow__32a: Bow = {
     category: "bow",
     id: "32a",
 
-    name: "Beast Thunderbow I",
+    name: "Beast Raiobow I",
     treeName: "Rajang Tree",
     rarity: 5,
     endlineTag: "",
@@ -5844,7 +5844,7 @@ const __generated_bow__32b: Bow = {
     category: "bow",
     id: "32b",
 
-    name: "Beast Thunderbow II",
+    name: "Beast Raiobow II",
     treeName: "Rajang Tree",
     rarity: 6,
     endlineTag: "",
@@ -5894,7 +5894,7 @@ const __generated_bow__32c: Bow = {
     category: "bow",
     id: "32c",
 
-    name: "Beastking Thunderbow",
+    name: "Beastking Raiobow",
     treeName: "Rajang Tree",
     rarity: 7,
     endlineTag: "hr",
@@ -6095,7 +6095,7 @@ const __generated_bow__34a: Bow = {
     category: "bow",
     id: "34a",
 
-    name: "Thunderbolt Bow I",
+    name: "Raiobolt Bow I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",
@@ -6194,7 +6194,7 @@ const __generated_bow__35a: Bow = {
     category: "bow",
     id: "35a",
 
-    name: "Icesteel Bow I",
+    name: "Gelosteel Bow I",
     treeName: "Kushala Daora Tree",
     rarity: 6,
     endlineTag: "",
@@ -6541,7 +6541,7 @@ const __generated_bow__38b: Bow = {
     category: "bow",
     id: "38b",
 
-    name: "Reddnaught Dragon Arc",
+    name: "Reddnaught Dragão Arc",
     treeName: "Valstrax Tree",
     rarity: 7,
     endlineTag: "hr",
@@ -7388,7 +7388,7 @@ const __generated_bow__44b: Bow = {
     category: "bow",
     id: "44b",
 
-    name: "Azure Era \"Soaring Dragon\"",
+    name: "Azure Era \"Soaring Dragão\"",
     treeName: "<TODO: Find out the name of this tree.>",
     rarity: 7,
     endlineTag: "hr",

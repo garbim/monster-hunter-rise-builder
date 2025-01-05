@@ -8,7 +8,7 @@ Hardcoded parts for Lance data
 # Specification to build the data
 # {category: [(tree name, parent_weapon_id, [(name, id, rarity), ...]), ...]}
 HARDCODED_L_SPEC = [
-    ("Kamura Tree", None, [
+    ("Kamura Tree", Nenhum, [
         ("Kamura Spear I"    , "1a"),
         ("Kamura Spear II"   , "1b"),
         ("Kamura Spear III"  , "1c"),
@@ -46,7 +46,7 @@ HARDCODED_L_SPEC = [
         ("Sharktooth Spear II", "7b"),
         ("Razortooth Spear", "7c"),
     ]),
-    ("Ore Tree", None, [
+    ("Ore Tree", Nenhum, [
         ("Iron Lance I", "8a"),
         ("Iron Lance II", "8b"),
         ("Millennial Lance", "8c"),
@@ -69,7 +69,7 @@ HARDCODED_L_SPEC = [
         ("Hidden Stinger II", "11b"),
         ("Night Rains Black", "11c"),
     ]),
-    ("Dragon Tree", "8c", [
+    ("Dragão Tree", "8c", [
         ("Growling Wyvern I", "12a"),
         ("Growling Wyvern II", "12b"),
         ("Roaring Wyvern", "12c"),
@@ -90,7 +90,7 @@ HARDCODED_L_SPEC = [
         ("Rugged Lance II", "15b"),
         ("Barroth Carver", "15c"),
     ]),
-    ("Thunder Tree", "15b", [
+    ("Raio Tree", "15b", [
         ("Drill Lance I", "16a"),
         ("Drill Lance II", "16b"),
         ("Gigadrill Lance", "16c"),
@@ -100,12 +100,12 @@ HARDCODED_L_SPEC = [
         ("Volvi Stroke II", "17b"),
         ("Volvi Sweep", "17c"),
     ]),
-    ("Fire Tree", "8a", [
+    ("Fogo Tree", "8a", [
         ("Heat Lance I", "18a"),
         ("Heat Lance II", "18b"),
         ("Heatstinger", "18c"),
     ]),
-    ("Bone Tree", None, [
+    ("Bone Tree", Nenhum, [
         ("Bone Lance I", "19a"),
         ("Hard Bone Lance", "19b"),
         ("Longhorn Spear I", "19c"),
@@ -164,59 +164,59 @@ HARDCODED_L_SPEC = [
         ("Azure Crest III", "29c"),
         ("Great Azure", "29d"),
     ]),
-    ("Magnamalo Tree", None, [
+    ("Magnamalo Tree", Nenhum, [
         ("Sinister Spear I", "30a"),
         ("Sinister Spear II", "30b"),
         ("Sinister Shadespear", "30c"),
     ]),
-    ("Rajang Tree", None, [
+    ("Rajang Tree", Nenhum, [
         ("Demon Lance I", "31a"),
         ("Demon Lance II", "31b"),
         ("Great Demon Lance", "31c"),
     ]),
-    ("Ibushi Tree", None, [
+    ("Ibushi Tree", Nenhum, [
         ("Azure Elder Spear I", "32a"),
         ("Azure Elder Spear II", "32b"),
         ("Abyssal Gale Lance", "32c"),
     ]),
-    ("Narwa Tree", None, [
-        ("Thunderbolt Spear I", "33a"),
+    ("Narwa Tree", Nenhum, [
+        ("Raiobolt Spear I", "33a"),
         ("Abyssal Storm Lance", "33b"),
     ]),
-    ("Bazelgeuse Tree", None, [
+    ("Bazelgeuse Tree", Nenhum, [
         ("Rookslayer Lance I", "34a"),
         ("Rookslayer Lance II", "34b"),
         ("Bazel Myniad Lance", "34c"),
     ]),
-    ("Kushala Daora Tree", None, [
-        ("Icesteel Spear I", "35a"),
+    ("Kushala Daora Tree", Nenhum, [
+        ("Gelosteel Spear I", "35a"),
         ("Daora's Fang", "35b"),
     ]),
-    ("Teostra Tree", None, [
+    ("Teostra Tree", Nenhum, [
         ("Teostra's Howl I", "36a"),
         ("Teostra's Roar", "36b"),
     ]),
-    ("Valstrax Tree", None, [
+    ("Valstrax Tree", Nenhum, [
         ("Redwing Spear I", "37a"),
         ("Reddnaught Spear", "37b"),
     ]),
-    ("Chaos Tree", None, [
+    ("Chaos Tree", Nenhum, [
         ("Plegis Needle I", "38a"),
         ("Plegis Needle II", "38b"),
         ("Mighty Plegis", "38c"),
     ]),
-    ("Spio Tree", None, [
+    ("Spio Tree", Nenhum, [
         ("Alacrantze I", "39a"),
         ("Alacrantze II", "39b"),
         ("Alacrantze III", "39c"),
         ("Scorpion Lance", "39d"),
     ]),
-    ("Melahoa Tree", None, [
+    ("Melahoa Tree", Nenhum, [
         ("Fragrance I", "40a"),
         ("Fragrance II", "40b"),
         ("Classy Fragrance", "40c"),
     ]),
-    ("Rampage Tree", None, [
+    ("Rampage Tree", Nenhum, [
         ("Rampage Spear I"  , "ra"),
         ("Rampage Spear II" , "rb"),
         ("Rampage Spear III", "rc"),

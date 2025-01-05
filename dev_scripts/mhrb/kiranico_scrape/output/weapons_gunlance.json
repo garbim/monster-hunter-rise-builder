@@ -2244,7 +2244,7 @@
             "rarity": 6,
             "endlineTag": "hr",
 
-            "name": "Barbarous Firelance",
+            "name": "Barbarous Fogolance",
             "attack": 230,
             "affinity": -15,
             "defense": 0,
@@ -2910,7 +2910,7 @@
             }
         }
     },
-    "Bnahabra (Dragon)": {
+    "Bnahabra (Dragão)": {
         "27a": {
             "rarity": 4,
             "endlineTag": "",
@@ -3011,7 +3011,7 @@
             }
         }
     },
-    "Bnahabra (Ice)": {
+    "Bnahabra (Gelo)": {
         "28a": {
             "rarity": 2,
             "endlineTag": "",
@@ -3462,7 +3462,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Thunderbolt Gunlance I",
+            "name": "Raiobolt Gunlance I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,
@@ -3604,7 +3604,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Icesteel Gunlance I",
+            "name": "Gelosteel Gunlance I",
             "attack": 160,
             "affinity": 0,
             "defense": 0,

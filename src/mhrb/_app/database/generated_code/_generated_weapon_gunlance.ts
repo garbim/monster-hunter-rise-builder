@@ -3071,7 +3071,7 @@ const __generated_gunlance__20d: Gunlance = {
     category: "gunlance",
     id: "20d",
 
-    name: "Barbarous Firelance",
+    name: "Barbarous Fogolance",
     treeName: "Anjanath Tree",
     rarity: 6,
     endlineTag: "hr",
@@ -3939,7 +3939,7 @@ const __generated_gunlance__27a: Gunlance = {
     id: "27a",
 
     name: "Fiore Nulo Black I",
-    treeName: "Bnahabra (Dragon)",
+    treeName: "Bnahabra (Dragão)",
     rarity: 4,
     endlineTag: "",
 
@@ -3981,7 +3981,7 @@ const __generated_gunlance__27b: Gunlance = {
     id: "27b",
 
     name: "Fiore Nulo Black II",
-    treeName: "Bnahabra (Dragon)",
+    treeName: "Bnahabra (Dragão)",
     rarity: 5,
     endlineTag: "",
 
@@ -4024,7 +4024,7 @@ const __generated_gunlance__27c: Gunlance = {
     id: "27c",
 
     name: "Fiore Unu Black",
-    treeName: "Bnahabra (Dragon)",
+    treeName: "Bnahabra (Dragão)",
     rarity: 6,
     endlineTag: "hr",
 
@@ -4068,7 +4068,7 @@ const __generated_gunlance__28a: Gunlance = {
     id: "28a",
 
     name: "Fiore Nulo White I",
-    treeName: "Bnahabra (Ice)",
+    treeName: "Bnahabra (Gelo)",
     rarity: 2,
     endlineTag: "",
 
@@ -4108,7 +4108,7 @@ const __generated_gunlance__28b: Gunlance = {
     id: "28b",
 
     name: "Fiore Nulo White II",
-    treeName: "Bnahabra (Ice)",
+    treeName: "Bnahabra (Gelo)",
     rarity: 3,
     endlineTag: "",
 
@@ -4149,7 +4149,7 @@ const __generated_gunlance__28c: Gunlance = {
     id: "28c",
 
     name: "Fiore Unu White",
-    treeName: "Bnahabra (Ice)",
+    treeName: "Bnahabra (Gelo)",
     rarity: 5,
     endlineTag: "hr",
 
@@ -4653,7 +4653,7 @@ const __generated_gunlance__33a: Gunlance = {
     category: "gunlance",
     id: "33a",
 
-    name: "Thunderbolt Gunlance I",
+    name: "Raiobolt Gunlance I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",
@@ -4841,7 +4841,7 @@ const __generated_gunlance__35a: Gunlance = {
     category: "gunlance",
     id: "35a",
 
-    name: "Icesteel Gunlance I",
+    name: "Gelosteel Gunlance I",
     treeName: "Kushala Daora Tree",
     rarity: 6,
     endlineTag: "",

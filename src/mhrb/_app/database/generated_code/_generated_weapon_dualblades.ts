@@ -1530,7 +1530,7 @@ const __generated_dualblades__12a: DualBlades = {
     id: "12a",
 
     name: "Gelid Mind I",
-    treeName: "Ice Tree",
+    treeName: "Gelo Tree",
     rarity: 3,
     endlineTag: "",
 
@@ -1568,7 +1568,7 @@ const __generated_dualblades__12b: DualBlades = {
     id: "12b",
 
     name: "Gelid Mind II",
-    treeName: "Ice Tree",
+    treeName: "Gelo Tree",
     rarity: 4,
     endlineTag: "",
 
@@ -1607,7 +1607,7 @@ const __generated_dualblades__12c: DualBlades = {
     id: "12c",
 
     name: "Gelid Soul",
-    treeName: "Ice Tree",
+    treeName: "Gelo Tree",
     rarity: 6,
     endlineTag: "hr",
 
@@ -1757,7 +1757,7 @@ const __generated_dualblades__14a: DualBlades = {
     id: "14a",
 
     name: "Twin Chainsaws I",
-    treeName: "Thunder Tree",
+    treeName: "Raio Tree",
     rarity: 2,
     endlineTag: "",
 
@@ -1791,7 +1791,7 @@ const __generated_dualblades__14b: DualBlades = {
     id: "14b",
 
     name: "Twin Chainsaws II",
-    treeName: "Thunder Tree",
+    treeName: "Raio Tree",
     rarity: 4,
     endlineTag: "",
 
@@ -1826,7 +1826,7 @@ const __generated_dualblades__14c: DualBlades = {
     id: "14c",
 
     name: "Guillotines",
-    treeName: "Thunder Tree",
+    treeName: "Raio Tree",
     rarity: 5,
     endlineTag: "hr",
 
@@ -2819,7 +2819,7 @@ const __generated_dualblades__23a: DualBlades = {
     id: "23a",
 
     name: "Blazeblades I",
-    treeName: "Fire Tree",
+    treeName: "Fogo Tree",
     rarity: 2,
     endlineTag: "",
 
@@ -2853,7 +2853,7 @@ const __generated_dualblades__23b: DualBlades = {
     id: "23b",
 
     name: "Blazeblades II",
-    treeName: "Fire Tree",
+    treeName: "Fogo Tree",
     rarity: 3,
     endlineTag: "",
 
@@ -2887,7 +2887,7 @@ const __generated_dualblades__23c: DualBlades = {
     id: "23c",
 
     name: "Infernal Furies",
-    treeName: "Fire Tree",
+    treeName: "Fogo Tree",
     rarity: 5,
     endlineTag: "hr",
 
@@ -3543,7 +3543,7 @@ const __generated_dualblades__30a: DualBlades = {
     category: "dualblades",
     id: "30a",
 
-    name: "Thunderbolt Blades I",
+    name: "Raiobolt Blades I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",
@@ -3706,7 +3706,7 @@ const __generated_dualblades__32a: DualBlades = {
     category: "dualblades",
     id: "32a",
 
-    name: "Icesteel Fang I",
+    name: "Gelosteel Fang I",
     treeName: "Kushala Daora Tree",
     rarity: 6,
     endlineTag: "",
@@ -3804,7 +3804,7 @@ const __generated_dualblades__33b: DualBlades = {
     category: "dualblades",
     id: "33b",
 
-    name: "Fire and Ice",
+    name: "Fogo and Gelo",
     treeName: "Teostra Tree",
     rarity: 7,
     endlineTag: "hr",
@@ -3934,7 +3934,7 @@ const __generated_dualblades__35b: DualBlades = {
     category: "dualblades",
     id: "35b",
 
-    name: "Reddnaught Dragon Wing",
+    name: "Reddnaught Dragão Wing",
     treeName: "Valstrax Tree",
     rarity: 7,
     endlineTag: "hr",

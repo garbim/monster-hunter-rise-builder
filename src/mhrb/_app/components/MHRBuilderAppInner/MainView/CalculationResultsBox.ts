@@ -400,9 +400,9 @@ export class CalculationResultsBox extends React.Component<any, any> {
                     },
                     null
                 ),
-                this._renderStat(null, "Hits Multiplier", [perf.hitsMultiplier.toFixed(1) + "x"]),
-                this._renderStat(null, "Raw Sharpness Modifier", [perf.rawSharpnessModifier.toFixed(4) + "x"]),
-                this._renderStat(null, "Elem. Sharpness Modifier", [perf.elementalSharpnessModifier.toFixed(4) + "x"]),
+                this._renderStat(null, "Multiplicador de Acertos", [perf.hitsMultiplier.toFixed(1) + "x"]),
+                this._renderStat(null, "Modificador de Afiamento Bruto", [perf.rawSharpnessModifier.toFixed(4) + "x"]),
+                this._renderStat(null, "Modificador de Afiamento Elemental", [perf.elementalSharpnessModifier.toFixed(4) + "x"]),
             );
         }
 
@@ -515,10 +515,10 @@ export class CalculationResultsBox extends React.Component<any, any> {
             if (perf.bowgunStats === null) {
                 return element(CalculationResultsGroupBox,
                     null,
-                    this._renderStat(null, "Raw Crit Damage", [perf.rawCritDmgMultiplier.toFixed(2) + "x"]),
-                    this._renderStat(null, "Elem. Crit Damage", [perf.elementalCritDmgMultiplier.toFixed(2) + "x"]),
-                    this._renderStat(null, "Raw Crit Modifier", [perf.rawCritModifier.toFixed(4) + "x"]),
-                    this._renderStat(null, "Elem. Crit Modifier", [perf.elementalCritModifier.toFixed(4) + "x"]),
+                    this._renderStat(null, "Dano Crítico Bruto", [perf.rawCritDmgMultiplier.toFixed(2) + "x"]),
+                    this._renderStat(null, "Dano Crítico Elemental", [perf.elementalCritDmgMultiplier.toFixed(2) + "x"]),
+                    this._renderStat(null, "Modificador Crítico Bruto", [perf.rawCritModifier.toFixed(4) + "x"]),
+                    this._renderStat(null, "Modificador Crítico Elemental", [perf.elementalCritModifier.toFixed(4) + "x"]),
                 );
             } else {
                 // We hide the crit stats because there's no space for it, and it's not terribly relevant information anyway,
@@ -553,7 +553,7 @@ export class CalculationResultsBox extends React.Component<any, any> {
             },
             element(CalculationResultsGroupBox,
                 null,
-                this._renderStat("attack_icon", "Effective Raw", [perf.effectiveRaw.toFixed(2)]),
+                this._renderStat("attack_icon", "Dano Efetivo", [perf.effectiveRaw.toFixed(2)]),
                 ...effectiveEleStatRendering,
                 affinityRendering,
             ),

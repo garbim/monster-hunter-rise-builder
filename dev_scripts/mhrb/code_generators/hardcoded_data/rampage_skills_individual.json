@@ -248,17 +248,17 @@
 {
     "id": "phial_dragon_1",
     "shortID": "phdr1",
-    "name": "Phial: Dragon I"
+    "name": "Phial: Dragão I"
 },
 {
     "id": "phial_dragon_2",
     "shortID": "phdr2",
-    "name": "Phial: Dragon II"
+    "name": "Phial: Dragão II"
 },
 {
     "id": "phial_dragon_3",
     "shortID": "phdr3",
-    "name": "Phial: Dragon III"
+    "name": "Phial: Dragão III"
 },
 {
     "id": "phial_exhaust_1",
@@ -395,27 +395,27 @@
 {
     "id": "rapid_fire_normal",
     "shortID": "rfno",
-    "name": "Rapid Fire (Normal)"
+    "name": "Rapid Fogo (Normal)"
 },
 {
     "id": "rapid_fire_piercing",
     "shortID": "rfpi",
-    "name": "Rapid Fire (Piercing)"
+    "name": "Rapid Fogo (Piercing)"
 },
 {
     "id": "rapid_fire_spread",
     "shortID": "rfsp",
-    "name": "Rapid Fire (Spread)"
+    "name": "Rapid Fogo (Spread)"
 },
 {
     "id": "rapid_fire_shrapnel",
     "shortID": "rfsh",
-    "name": "Rapid Fire (Shrapnel)"
+    "name": "Rapid Fogo (Shrapnel)"
 },
 {
     "id": "rapid_fire_sticky",
     "shortID": "rfst",
-    "name": "Rapid Fire (Sticky)"
+    "name": "Rapid Fogo (Sticky)"
 },
 {
     "id": "recoil_down_boost",
@@ -588,12 +588,12 @@
 {
     "id": "fireblight_exploit",
     "shortID": "xfib",
-    "name": "Fireblight Exploit"
+    "name": "Fogoblight Exploit"
 },
 {
     "id": "iceblight_exploit",
     "shortID": "xicb",
-    "name": "Iceblight Exploit"
+    "name": "Geloblight Exploit"
 },
 {
     "id": "small_monster_exploit",
@@ -603,7 +603,7 @@
 {
     "id": "thunderblight_exploit",
     "shortID": "xthb",
-    "name": "Thunderblight Exploit"
+    "name": "Raioblight Exploit"
 },
 {
     "id": "waterblight_exploit",

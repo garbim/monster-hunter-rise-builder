@@ -368,12 +368,12 @@ function getSkillContributions(
         ["diversion", nop],
 
         ["dragonheart", (lvl, lid)=>{
-            if (!calcState.skillIsActive("Dragonheart (DH)")) return;
+            if (!calcState.skillIsActive("Dragãoheart (DH)")) return;
             switch (lvl) {
                 case 1: /* No Operation */ break;
                 case 2: /* No Operation */ break;
                 case 3: /* No Operation */ break;
-                case 4: v.rawMul *= 1.05;    break; // TODO: Verify that this is what Dragonheart does
+                case 4: v.rawMul *= 1.05;    break; // TODO: Verify that this is what Dragãoheart does
                 case 5: v.rawMul *= 1.10;    break;
                 default:
                     invalidLevel(lid);

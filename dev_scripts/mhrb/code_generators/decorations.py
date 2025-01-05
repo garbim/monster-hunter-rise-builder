@@ -73,7 +73,7 @@ def generate_decos_source_file(json_data, scraped_json_data):
         assert isinstance(obj["skills"], dict)
         assert isinstance(obj["icon"], str)
 
-        actual_name = None
+        actual_name = Nenhum
         if isinstance(obj.get("verbatimName"), str):
             actual_name = obj["verbatimName"]
             assert str(obj["slotSize"]) in actual_name # We expect the jewel size to be in there somewhere

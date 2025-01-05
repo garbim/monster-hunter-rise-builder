@@ -8,7 +8,7 @@ Hardcoded parts for Hammer data
 # Specification to build the data
 # {category: [(tree name, parent_weapon_id, [(name, id, rarity), ...]), ...]}
 HARDCODED_H_SPEC = [
-    ("Kamura Tree", None, [
+    ("Kamura Tree", Nenhum, [
         ("Kamura Hammer I"    , "1a"),
         ("Kamura Hammer II"   , "1b"),
         ("Kamura Hammer III"  , "1c"),
@@ -41,12 +41,12 @@ HARDCODED_H_SPEC = [
         ("Wroggi Hammer II", "6b"),
         ("Dirty Hammer", "6c"),
     ]),
-    ("Fire Tree", "1b", [
+    ("Fogo Tree", "1b", [
         ("Gun Hammer I", "7a"),
         ("Gun Hammer II", "7b"),
         ("Deadeye Revolver", "7c"),
     ]),
-    ("Ore Tree", None, [
+    ("Ore Tree", Nenhum, [
         ("Iron Hammer I", "8a"),
         ("Iron Devil", "8b"),
         ("War Hammer I", "8c"),
@@ -54,7 +54,7 @@ HARDCODED_H_SPEC = [
         ("War Stamp I", "8e"),
         ("War Basher", "8f"),
     ]),
-    ("Thunder Tree", "8e", [
+    ("Raio Tree", "8e", [
         ("Great Nova I", "9a"),
         ("Great Nova II", "9b"),
         ("Super Nova", "9c"),
@@ -97,14 +97,14 @@ HARDCODED_H_SPEC = [
     ("Khezu Tree", "15a", [
         ("Bag o' Horrors I", "17a"),
         ("Bag o' Horrors II", "17b"),
-        ("Bag o' Thunder", "17c"),
+        ("Bag o' Raio", "17c"),
     ]),
-    ("Ice Tree", "8a", [
+    ("Gelo Tree", "8a", [
         ("Frozen Core I", "18a"),
         ("Frozen Core II", "18b"),
         ("Cocytus", "18c"),
     ]),
-    ("Bone Tree", None, [
+    ("Bone Tree", Nenhum, [
         ("Bone Hammer I", "19a"),
         ("Bone Hammer II", "19b"),
         ("Hard Bone Hammer", "19c"),
@@ -144,8 +144,8 @@ HARDCODED_H_SPEC = [
         ("Abominable Hammer", "25d"),
     ]),
     ("Zinogre Tree", "23a", [
-        ("Usurper's Thunder I", "26a"),
-        ("Usurper's Thunder II", "26b"),
+        ("Usurper's Raio I", "26a"),
+        ("Usurper's Raio II", "26b"),
         ("Despot's Crackle", "26c"),
     ]),
     ("Remobra Tree", "19b", [
@@ -173,63 +173,63 @@ HARDCODED_H_SPEC = [
         ("Carapace Hammer II", "31b"),
         ("Barroth Hammer", "31c"),
     ]),
-    ("Magnamalo Tree", None, [
+    ("Magnamalo Tree", Nenhum, [
         ("Sinister Hammer I", "32a"),
         ("Sinister Hammer II", "32b"),
         ("Sinister Shade Hammer", "32c"),
     ]),
-    ("Gargwa Tree", None, [
+    ("Gargwa Tree", Nenhum, [
         ("Egg Hammer I", "33a"),
         ("Egg Hammer II", "33b"),
         ("Gargwa Hammer", "33c"),
     ]),
-    ("Rajang Tree", None, [
+    ("Rajang Tree", Nenhum, [
         ("Mane Malice I", "34a"),
         ("Mane Malice II", "34b"),
         ("Mane Malice Rajang", "34c"),
     ]),
-    ("Ibushi Tree", None, [
+    ("Ibushi Tree", Nenhum, [
         ("Azure Elder Hammer I", "35a"),
         ("Azure Elder Hammer II", "35b"),
         ("Abyssal Gale Mauler", "35c"),
     ]),
-    ("Narwa Tree", None, [
-        ("Thunderbolt Hammer I", "36a"),
+    ("Narwa Tree", Nenhum, [
+        ("Raiobolt Hammer I", "36a"),
         ("Abyssal Storm Mauler", "36b"),
     ]),
-    ("Kushala Daora Tree", None, [
-        ("Icesteel Hammer I", "37a"),
+    ("Kushala Daora Tree", Nenhum, [
+        ("Gelosteel Hammer I", "37a"),
         ("Daora's Colossus", "37b"),
     ]),
-    ("Teostra Tree", None, [
+    ("Teostra Tree", Nenhum, [
         ("Teostra Cratermaker I", "38a"),
         ("Teostra Cratergouger", "38b"),
     ]),
-    ("Chameleos Tree", None, [
+    ("Chameleos Tree", Nenhum, [
         ("Genie's Expanse I", "39a"),
         ("Diamalto's Dream", "39b"),
     ]),
-    ("Valstrax Tree", None, [
+    ("Valstrax Tree", Nenhum, [
         ("Redwing Drill I", "40a"),
         ("Reddnaught Hammer", "40b"),
     ]),
-    ("Guild Tree", None, [
+    ("Guild Tree", Nenhum, [
         ("Teddybear I", "41a"),
         ("Teddybear II", "41b"),
         ("Sleepy Bear", "41c"),
     ]),
-    ("Death Stench Tree", None, [
+    ("Death Stench Tree", Nenhum, [
         ("Graceful Death I", "42a"),
         ("Graceful Death II", "42b"),
         ("Graceful Death III", "42c"),
         ("Yadora Morte", "42d"),
     ]),
-    ("Mosgharl Tree", None, [
+    ("Mosgharl Tree", Nenhum, [
         ("Pumpking I", "43a"),
         ("Pumpking II", "43b"),
         ("Jack-'o-lantern King", "43c"),
     ]),
-    ("Rampage Tree", None, [
+    ("Rampage Tree", Nenhum, [
         ("Rampage Hammer I"  , "ra"),
         ("Rampage Hammer II" , "rb"),
         ("Rampage Hammer III", "rc"),

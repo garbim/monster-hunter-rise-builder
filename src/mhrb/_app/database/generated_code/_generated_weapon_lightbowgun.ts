@@ -4954,7 +4954,7 @@ const __generated_lightbowgun__16a: LightBowgun = {
     category: "lightbowgun",
     id: "16a",
 
-    name: "Valkyrie Fire I",
+    name: "Valkyrie Fogo I",
     treeName: "Rathian Tree",
     rarity: 2,
     endlineTag: "",
@@ -5042,7 +5042,7 @@ const __generated_lightbowgun__16b: LightBowgun = {
     category: "lightbowgun",
     id: "16b",
 
-    name: "Valkyrie Fire II",
+    name: "Valkyrie Fogo II",
     treeName: "Rathian Tree",
     rarity: 5,
     endlineTag: "",
@@ -8157,7 +8157,7 @@ const __generated_lightbowgun__27a: LightBowgun = {
     category: "lightbowgun",
     id: "27a",
 
-    name: "Thunderbolt Bowgun I",
+    name: "Raiobolt Bowgun I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",
@@ -8580,7 +8580,7 @@ const __generated_lightbowgun__29a: LightBowgun = {
     category: "lightbowgun",
     id: "29a",
 
-    name: "Icesteel Wasp I",
+    name: "Gelosteel Wasp I",
     treeName: "Kushala Daora Tree",
     rarity: 6,
     endlineTag: "",

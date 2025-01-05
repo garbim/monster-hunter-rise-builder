@@ -873,7 +873,7 @@
             "rarity": 6,
             "endlineTag": "hr",
 
-            "name": "Firedance Rathmaul",
+            "name": "Fogodance Rathmaul",
             "attack": 190,
             "affinity": 0,
             "defense": 0,
@@ -2631,7 +2631,7 @@
             }
         }
     },
-    "Bnahabra (Dragon)": {
+    "Bnahabra (Dragão)": {
         "26a": {
             "rarity": 4,
             "endlineTag": "",
@@ -2728,7 +2728,7 @@
             }
         }
     },
-    "Bnahabra (Ice)": {
+    "Bnahabra (Gelo)": {
         "27a": {
             "rarity": 3,
             "endlineTag": "",
@@ -3166,7 +3166,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Thunderbolt Glaive I",
+            "name": "Raiobolt Glaive I",
             "attack": 170,
             "affinity": 0,
             "defense": 0,

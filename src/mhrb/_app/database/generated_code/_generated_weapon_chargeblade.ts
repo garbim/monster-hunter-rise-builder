@@ -728,7 +728,7 @@ const __generated_chargeblade__4c: ChargeBlade = {
     category: "chargeblade",
     id: "4c",
 
-    name: "Despot's Thundergale",
+    name: "Despot's Raiogale",
     treeName: "Zinogre Tree",
     rarity: 6,
     endlineTag: "hr",
@@ -1407,7 +1407,7 @@ const __generated_chargeblade__9a: ChargeBlade = {
     id: "9a",
 
     name: "K. Captain's Blade I",
-    treeName: "Thunder Tree",
+    treeName: "Raio Tree",
     rarity: 4,
     endlineTag: "",
 
@@ -1447,7 +1447,7 @@ const __generated_chargeblade__9b: ChargeBlade = {
     id: "9b",
 
     name: "K. Captain's Blade II",
-    treeName: "Thunder Tree",
+    treeName: "Raio Tree",
     rarity: 5,
     endlineTag: "",
 
@@ -1487,7 +1487,7 @@ const __generated_chargeblade__9c: ChargeBlade = {
     id: "9c",
 
     name: "Die Walk\u00fcre",
-    treeName: "Thunder Tree",
+    treeName: "Raio Tree",
     rarity: 6,
     endlineTag: "hr",
 
@@ -2961,8 +2961,8 @@ const __generated_chargeblade__21a: ChargeBlade = {
     category: "chargeblade",
     id: "21a",
 
-    name: "Dragon Veil I",
-    treeName: "Dragon Tree",
+    name: "Dragão Veil I",
+    treeName: "Dragão Tree",
     rarity: 4,
     endlineTag: "",
 
@@ -3002,8 +3002,8 @@ const __generated_chargeblade__21b: ChargeBlade = {
     category: "chargeblade",
     id: "21b",
 
-    name: "Dragon Veil II",
-    treeName: "Dragon Tree",
+    name: "Dragão Veil II",
+    treeName: "Dragão Tree",
     rarity: 5,
     endlineTag: "",
 
@@ -3043,8 +3043,8 @@ const __generated_chargeblade__21c: ChargeBlade = {
     category: "chargeblade",
     id: "21c",
 
-    name: "Dragonsong",
-    treeName: "Dragon Tree",
+    name: "Dragãosong",
+    treeName: "Dragão Tree",
     rarity: 6,
     endlineTag: "hr",
 
@@ -3777,7 +3777,7 @@ const __generated_chargeblade__28a: ChargeBlade = {
     category: "chargeblade",
     id: "28a",
 
-    name: "Thunderbolt Sawtooth I",
+    name: "Raiobolt Sawtooth I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",

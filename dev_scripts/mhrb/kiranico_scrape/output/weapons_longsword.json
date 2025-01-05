@@ -356,7 +356,7 @@
             "rarity": 4,
             "endlineTag": "hr",
 
-            "name": "Iced Rabbit",
+            "name": "Gelod Rabbit",
             "attack": 180,
             "affinity": -10,
             "defense": 0,
@@ -1103,7 +1103,7 @@
             "maxSharpness": [70,40,100,90,70,30]
         }
     },
-    "Thunder Tree": {
+    "Raio Tree": {
         "13a": {
             "rarity": 2,
             "endlineTag": "",
@@ -1258,7 +1258,7 @@
             "maxSharpness": [80,80,70,60,60,0]
         }
     },
-    "Ice Tree": {
+    "Gelo Tree": {
         "15a": {
             "rarity": 4,
             "endlineTag": "",
@@ -2965,7 +2965,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Thunderbolt Long Sword I",
+            "name": "Raiobolt Long Sword I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,
@@ -3082,7 +3082,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Icesteel Blade I",
+            "name": "Gelosteel Blade I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,
@@ -3463,7 +3463,7 @@
             "rarity": 7,
             "endlineTag": "hr",
 
-            "name": "Azure Star \"Dragon Dance\"",
+            "name": "Azure Star \"Dragão Dance\"",
             "attack": 180,
             "affinity": 30,
             "defense": 0,

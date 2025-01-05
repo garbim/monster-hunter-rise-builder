@@ -8,7 +8,7 @@ Hardcoded parts for Insect Glaive data
 # Specification to build the data
 # {category: [(tree name, parent_weapon_id, [(name, id, rarity), ...]), ...]}
 HARDCODED_IG_SPEC = [
-    ("Kamura Tree", None, [
+    ("Kamura Tree", Nenhum, [
         ("Kamura Glaive I"    , "1a"),
         ("Kamura Glaive II"   , "1b"),
         ("Kamura Glaive III"  , "1c"),
@@ -41,7 +41,7 @@ HARDCODED_IG_SPEC = [
         ("Leaping Glaive II", "6b"),
         ("Leapfrog", "6c"),
     ]),
-    ("Ore Tree", None, [
+    ("Ore Tree", Nenhum, [
         ("Iron Blade I", "7a"),
         ("Iron Blade II", "7b"),
         ("Steel Blade", "7c"),
@@ -52,7 +52,7 @@ HARDCODED_IG_SPEC = [
     ("Rathalos Tree", "7e", [
         ("Rathmaul I", "8a"),
         ("Rathmaul II", "8b"),
-        ("Firedance Rathmaul", "8c"),
+        ("Fogodance Rathmaul", "8c"),
     ]),
     ("Khezu Tree", "7d", [
         ("Bolt Chamber I", "9a"),
@@ -84,7 +84,7 @@ HARDCODED_IG_SPEC = [
         ("Lagombaglaive II", "14b"),
         ("Lagombavarice", "14c"),
     ]),
-    ("Bone Tree", None, [
+    ("Bone Tree", Nenhum, [
         ("Bone Staff I", "15a"),
         ("Bone Staff II", "15b"),
         ("Aerial Glaive", "15c"),
@@ -132,7 +132,7 @@ HARDCODED_IG_SPEC = [
         ("Royal Bolt Scepter II", "23b"),
         ("Despot's Twinbolt", "23c"),
     ]),
-    ("Altaroth Tree", None, [
+    ("Altaroth Tree", Nenhum, [
         ("Hortadent I", "24a"),
         ("Hortadent II", "24b"),
         ("Hortadent Brada", "24c"),
@@ -145,12 +145,12 @@ HARDCODED_IG_SPEC = [
         ("Rielle Nulo Red II", "25e"),
         ("Rielle Vermiglio", "25f"),
     ]),
-    ("Bnahabra (Dragon)", "25c", [
+    ("Bnahabra (Dragão)", "25c", [
         ("Rielle Nulo Black I", "26a"),
         ("Rielle Nulo Black II", "26b"),
         ("Rielle Nerissimo", "26c"),
     ]),
-    ("Bnahabra (Ice)", "25b", [
+    ("Bnahabra (Gelo)", "25b", [
         ("Rielle Nulo White I", "27a"),
         ("Rielle Nulo White II", "27b"),
         ("Rielle Unu White", "27c"),
@@ -160,54 +160,54 @@ HARDCODED_IG_SPEC = [
         ("Rielle Nulo Green II", "28b"),
         ("Rielle Unu Green", "28c"),
     ]),
-    ("Magnamalo Tree", None, [
+    ("Magnamalo Tree", Nenhum, [
         ("Sinister Staff I", "29a"),
         ("Sinister Staff II", "29b"),
         ("Sinister Shadowstaff", "29c"),
     ]),
-    ("Rajang Tree", None, [
+    ("Rajang Tree", Nenhum, [
         ("Metal Mauler I", "30a"),
         ("Metal Mauler II", "30b"),
         ("Metalmangler", "30c"),
     ]),
-    ("Ibushi Tree", None, [
+    ("Ibushi Tree", Nenhum, [
         ("Azure Elder Glaive I", "31a"),
         ("Azure Elder Glaive II", "31b"),
         ("Abyssal Gale Glaive", "31c"),
     ]),
-    ("Narwa Tree", None, [
-        ("Thunderbolt Glaive I", "32a"),
+    ("Narwa Tree", Nenhum, [
+        ("Raiobolt Glaive I", "32a"),
         ("Abyssal Storm Glaive", "32b"),
     ]),
-    ("Kushala Daora Tree", None, [
+    ("Kushala Daora Tree", Nenhum, [
         ("Daora's Entom I", "33a"),
         ("Daora's Tethidine", "33b"),
     ]),
-    ("Chameleos Tree", None, [
+    ("Chameleos Tree", Nenhum, [
         ("Caster's Rod I", "34a"),
         ("Hazy Caster", "34b"),
     ]),
-    ("Valstrax Tree", None, [
+    ("Valstrax Tree", Nenhum, [
         ("Redwing Glaive I", "35a"),
         ("Reddnaught Shuma", "35b"),
     ]),
-    ("Death Stench Tree", None, [
+    ("Death Stench Tree", Nenhum, [
         ("Deathport Staff I", "36a"),
         ("Deathport Staff II", "36b"),
         ("Garamorse", "36c"),
     ]),
-    ("Magia Tree", None, [
+    ("Magia Tree", Nenhum, [
         ("Magia Pitareen I", "37a"),
         ("Magia Pitareen II", "37b"),
         ("Magia Pitareen III", "37c"),
         ("Magia Crescent", "37d"),
     ]),
-    ("Smithy Tree", None, [
+    ("Smithy Tree", Nenhum, [
         ("Brush Glaive I", "38a"),
         ("Brush Glaive II", "38b"),
         ("Watercolor Glaive", "38c"),
     ]),
-    ("Rampage Tree", None, [
+    ("Rampage Tree", Nenhum, [
         ("Rampage Glaive I"  , "ra"),
         ("Rampage Glaive II" , "rb"),
         ("Rampage Glaive III", "rc"),

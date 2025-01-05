@@ -4,7 +4,7 @@
 {
     "id": "fire_attack",
     "shortId": 1,
-    "name": "Fire Attack",
+    "name": "Fogo Attack",
     "maxLevels": 5,
 
     "icon": "red"
@@ -20,7 +20,7 @@
 {
     "id": "thunder_attack",
     "shortId": 3,
-    "name": "Thunder Attack",
+    "name": "Raio Attack",
     "maxLevels": 5,
 
     "icon": "yellow"
@@ -28,7 +28,7 @@
 {
     "id": "ice_attack",
     "shortId": 4,
-    "name": "Ice Attack",
+    "name": "Gelo Attack",
     "maxLevels": 5,
 
     "icon": "lightblue"
@@ -36,7 +36,7 @@
 {
     "id": "dragon_attack",
     "shortId": 5,
-    "name": "Dragon Attack",
+    "name": "Dragão Attack",
     "maxLevels": 5,
 
     "icon": "orange"
@@ -76,7 +76,7 @@
 {
     "id": "fire_resistance",
     "shortId": 10,
-    "name": "Fire Resistance",
+    "name": "Fogo Resistance",
     "maxLevels": 3,
 
     "icon": "red"
@@ -92,7 +92,7 @@
 {
     "id": "thunder_resistance",
     "shortId": 12,
-    "name": "Thunder Resistance",
+    "name": "Raio Resistance",
     "maxLevels": 3,
 
     "icon": "yellow"
@@ -100,7 +100,7 @@
 {
     "id": "ice_resistance",
     "shortId": 13,
-    "name": "Ice Resistance",
+    "name": "Gelo Resistance",
     "maxLevels": 3,
 
     "icon": "lightblue"
@@ -108,7 +108,7 @@
 {
     "id": "dragon_resistance",
     "shortId": 14,
-    "name": "Dragon Resistance",
+    "name": "Dragão Resistance",
     "maxLevels": 3,
 
     "icon": "orange"
@@ -349,7 +349,7 @@
 {
     "id": "dragonheart",
     "shortId": 44,
-    "name": "Dragonheart",
+    "name": "Dragãoheart",
     "maxLevels": 5,
 
     "icon": "orange"
@@ -661,7 +661,7 @@
 {
     "id": "rapid_fire_up",
     "shortId": 83,
-    "name": "Rapid Fire Up",
+    "name": "Rapid Fogo Up",
     "maxLevels": 3,
 
     "icon": "white"
@@ -829,7 +829,7 @@
 {
     "id": "thunder_alignment",
     "shortId": 104,
-    "name": "Thunder Alignment",
+    "name": "Raio Alignment",
     "maxLevels": 5,
 
     "icon": "yellow"

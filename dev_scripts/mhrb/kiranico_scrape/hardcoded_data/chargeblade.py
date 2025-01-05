@@ -8,7 +8,7 @@ Hardcoded parts for Charge Blade data
 # Specification to build the data
 # {category: [(tree name, parent_weapon_id, [(name, id, rarity), ...]), ...]}
 HARDCODED_CB_SPEC = [
-    ("Kamura Tree", None, [
+    ("Kamura Tree", Nenhum, [
         ("Kamura C. Blade I"    , "1a"),
         ("Kamura C. Blade II"   , "1b"),
         ("Kamura C. Blade III"  , "1c"),
@@ -30,7 +30,7 @@ HARDCODED_CB_SPEC = [
     ("Zinogre Tree", "3a", [
         ("Usurper's Lightning I", "4a"),
         ("Usurper's Lightning II", "4b"),
-        ("Despot's Thundergale", "4c"),
+        ("Despot's Raiogale", "4c"),
     ]),
     ("Tetranadon Tree", "1b", [
         ("Shovedown Blade I", "5a"),
@@ -48,7 +48,7 @@ HARDCODED_CB_SPEC = [
         ("Surprise Axe II", "7b"),
         ("Stunning Axe", "7c"),
     ]),
-    ("Ore Tree", None, [
+    ("Ore Tree", Nenhum, [
         ("Hyperguard I", "8a"),
         ("Hyperguard II", "8b"),
         ("Regas Hyper", "8c"),
@@ -56,7 +56,7 @@ HARDCODED_CB_SPEC = [
         ("Elite Blade II", "8e"),
         ("Kaiser Blade", "8f"),
     ]),
-    ("Thunder Tree", "8d", [
+    ("Raio Tree", "8d", [
         ("K. Captain's Blade I", "9a"),
         ("K. Captain's Blade II", "9b"),
         ("Die Walk\u00fcre", "9c"),
@@ -91,7 +91,7 @@ HARDCODED_CB_SPEC = [
         ("Hidden Arsenal II", "15b"),
         ("Scream in the Night", "15c"),
     ]),
-    ("Bone Tree", None, [
+    ("Bone Tree", Nenhum, [
         ("Bone Strongarm I", "16a"),
         ("Bone Strongarm II", "16b"),
         ("Hard Bone Strongarm", "16c"),
@@ -119,10 +119,10 @@ HARDCODED_CB_SPEC = [
         ("Poisonous Veil II", "20b"),
         ("Infected Veil", "20c"),
     ]),
-    ("Dragon Tree", "20a", [
-        ("Dragon Veil I", "21a"),
-        ("Dragon Veil II", "21b"),
-        ("Dragonsong", "21c"),
+    ("Dragão Tree", "20a", [
+        ("Dragão Veil I", "21a"),
+        ("Dragão Veil II", "21b"),
+        ("Dragãosong", "21c"),
     ]),
     ("Barroth Tree", "16b", [
         ("Barroth Anchor I", "22a"),
@@ -139,62 +139,62 @@ HARDCODED_CB_SPEC = [
         ("Rough Roller II", "24b"),
         ("Rotaxion", "24c"),
     ]),
-    ("Magnamalo Tree", None, [
+    ("Magnamalo Tree", Nenhum, [
         ("Sinister Slasher I", "25a"),
         ("Sinister Slasher II", "25b"),
         ("Sinister Shade Axe", "25c"),
     ]),
-    ("Rajang Tree", None, [
+    ("Rajang Tree", Nenhum, [
         ("Undying Blade I", "26a"),
         ("Undying Blade II", "26b"),
         ("Ikaji Immortal", "26c"),
     ]),
-    ("Ibushi Tree", None, [
+    ("Ibushi Tree", Nenhum, [
         ("Azure Elder Blade I", "27a"),
         ("Azure Elder Blade II", "27b"),
         ("Abyssal Gale Ward", "27c"),
     ]),
-    ("Narwa Tree", None, [
-        ("Thunderbolt Sawtooth I", "28a"),
+    ("Narwa Tree", Nenhum, [
+        ("Raiobolt Sawtooth I", "28a"),
         ("Abyssal Storm Ward", "28b"),
     ]),
-    ("Kushala Daora Tree", None, [
+    ("Kushala Daora Tree", Nenhum, [
         ("Daora's Casca I", "29a"),
         ("Daora's Thwartoise", "29b"),
     ]),
-    ("Teostra Tree", None, [
+    ("Teostra Tree", Nenhum, [
         ("Teostra's Striker I", "30a"),
         ("Teostra's Nova", "30b"),
     ]),
-    ("Chameleos Tree", None, [
+    ("Chameleos Tree", Nenhum, [
         ("Arcane Draw I", "31a"),
         ("Etherward", "31b"),
     ]),
-    ("Valstrax Tree", None, [
+    ("Valstrax Tree", Nenhum, [
         ("Redwing Edge I", "32a"),
         ("Skaltecore", "32b"),
     ]),
-    ("Smithy Tree", None, [
+    ("Smithy Tree", Nenhum, [
         ("Ricebane I", "33a"),
         ("Ricebane II", "33b"),
         ("Pounder of Rice", "33c"),
     ]),
-    ("Felyne Tree", None, [
+    ("Felyne Tree", Nenhum, [
         ("Cuddly Cat I", "34a"),
         ("Cuddly Cat II", "34b"),
         ("Felyne Fancy", "34c"),
     ]),
-    ("Aelucanth Tree", None, [
+    ("Aelucanth Tree", Nenhum, [
         ("Mandible Blade I", "35a"),
         ("Mandible Blade II", "35b"),
         ("Maxilla Edge", "35c"),
     ]),
-    ("Vaik Tree", None, [
+    ("Vaik Tree", Nenhum, [
         ("Vaik Veil I", "36a"),
         ("Vaik Veil II", "36b"),
         ("Shieldraad", "36c"),
     ]),
-    ("Rampage Tree", None, [
+    ("Rampage Tree", Nenhum, [
         ("Rampage C. Blade I"  , "ra"),
         ("Rampage C. Blade II" , "rb"),
         ("Rampage C. Blade III", "rc"),

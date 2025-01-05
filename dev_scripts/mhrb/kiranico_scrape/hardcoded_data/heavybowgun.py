@@ -8,7 +8,7 @@ Hardcoded parts for Heavy Bowgun data
 # Specification to build the data
 # {category: [(tree name, parent_weapon_id, [(name, id, rarity), ...]), ...]}
 HARDCODED_HBG_SPEC = [
-    ("Kamura Tree", None, [
+    ("Kamura Tree", Nenhum, [
         ("Kamura H. Bowgun I"    , "1a"),
         ("Kamura H. Bowgun II"   , "1b"),
         ("Kamura H. Bowgun III"  , "1c"),
@@ -52,7 +52,7 @@ HARDCODED_HBG_SPEC = [
         ("Usurper's Tremor II", "8b"),
         ("Despot's Paroxysm", "8c"),
     ]),
-    ("Ore Tree", None, [
+    ("Ore Tree", Nenhum, [
         ("Iron Assault I", "9a"),
         ("Iron Assault II", "9b"),
         ("Steel Assault", "9c"),
@@ -96,7 +96,7 @@ HARDCODED_HBG_SPEC = [
         ("Fulgent Shot II", "16b"),
         ("Araknamortar", "16c"),
     ]),
-    ("Bone Tree", None, [
+    ("Bone Tree", Nenhum, [
         ("Bone Shooter I", "17a"),
         ("Bone Shooter II", "17b"),
         ("Bone Buster", "17c"),
@@ -139,62 +139,62 @@ HARDCODED_HBG_SPEC = [
         ("Spheniscine Slayer II", "24b"),
         ("Spheniscine Ruler", "24c"),
     ]),
-    ("Magnamalo Tree", None, [
+    ("Magnamalo Tree", Nenhum, [
         ("Sinister Volley I", "25a"),
         ("Sinister Volley II", "25b"),
         ("Sinister Dreadvolley", "25c"),
     ]),
-    ("Rajang Tree", None, [
+    ("Rajang Tree", Nenhum, [
         ("Rajang Shooter I", "26a"),
         ("Rajang Shooter II", "26b"),
         ("Rajang's Rage", "26c"),
     ]),
-    ("Ibushi Tree", None, [
+    ("Ibushi Tree", Nenhum, [
         ("Azure Elder Cannon I", "27a"),
         ("Azure Elder Cannon II", "27b"),
         ("Abyssal Gale Barrage", "27c"),
     ]),
-    ("Narwa Tree", None, [
-        ("Thunderbolt Cannon I", "28a"),
+    ("Narwa Tree", Nenhum, [
+        ("Raiobolt Cannon I", "28a"),
         ("Abyssal Storm Barrage", "28b"),
     ]),
-    ("Kushala Daora Tree", None, [
+    ("Kushala Daora Tree", Nenhum, [
         ("Daora's Delphinidae I", "29a"),
         ("Daora Grande", "29b"),
     ]),
-    ("Teostra Tree", None, [
+    ("Teostra Tree", Nenhum, [
         ("Teostra's Artillery I", "30a"),
         ("Teostra's Flames", "30b"),
     ]),
-    ("Chameleos Tree", None, [
+    ("Chameleos Tree", Nenhum, [
         ("Kamaeleon I", "31a"),
         ("Veiled Kamaeleon", "31b"),
     ]),
-    ("Valstrax Tree", None, [
+    ("Valstrax Tree", Nenhum, [
         ("Redwing Cannon I", "32a"),
         ("Diabolica", "32b"),
     ]),
-    ("Mosgharl Tree", None, [
+    ("Mosgharl Tree", Nenhum, [
         ("Carrozza Bazooka I", "33a"),
         ("Carrozza Bazooka II", "33b"),
         ("Cendrillon", "33c"),
     ]),
-    ("Jelly Tree", None, [
+    ("Jelly Tree", Nenhum, [
         ("Journey Jelly I", "34a"),
         ("Journey Jelly II", "34b"),
         ("Guiding Light", "34c"),
     ]),
-    ("Smithy Tree", None, [
+    ("Smithy Tree", Nenhum, [
         ("Ladybug Cannon I", "35a"),
         ("Ladybug Cannon II", "35b"),
         ("Ladybug Mortar", "35c"),
     ]),
-    ("Felyne Tree", None, [
+    ("Felyne Tree", Nenhum, [
         ("Felyne Bowgun I", "36a"),
         ("Felyne Bowgun II", "36b"),
         ("Felyne Cannon", "36c"),
     ]),
-    ("Rampage Tree", None, [
+    ("Rampage Tree", Nenhum, [
         ("Rampage H. Bowgun I"  , "ra"),
         ("Rampage H. Bowgun II" , "rb"),
         ("Rampage H. Bowgun III", "rc"),

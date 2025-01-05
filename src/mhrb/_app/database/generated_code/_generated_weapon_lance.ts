@@ -1520,7 +1520,7 @@ const __generated_lance__12a: Lance = {
     id: "12a",
 
     name: "Growling Wyvern I",
-    treeName: "Dragon Tree",
+    treeName: "Dragão Tree",
     rarity: 3,
     endlineTag: "",
 
@@ -1555,7 +1555,7 @@ const __generated_lance__12b: Lance = {
     id: "12b",
 
     name: "Growling Wyvern II",
-    treeName: "Dragon Tree",
+    treeName: "Dragão Tree",
     rarity: 5,
     endlineTag: "",
 
@@ -1591,7 +1591,7 @@ const __generated_lance__12c: Lance = {
     id: "12c",
 
     name: "Roaring Wyvern",
-    treeName: "Dragon Tree",
+    treeName: "Dragão Tree",
     rarity: 6,
     endlineTag: "hr",
 
@@ -1977,7 +1977,7 @@ const __generated_lance__16a: Lance = {
     id: "16a",
 
     name: "Drill Lance I",
-    treeName: "Thunder Tree",
+    treeName: "Raio Tree",
     rarity: 4,
     endlineTag: "",
 
@@ -2013,7 +2013,7 @@ const __generated_lance__16b: Lance = {
     id: "16b",
 
     name: "Drill Lance II",
-    treeName: "Thunder Tree",
+    treeName: "Raio Tree",
     rarity: 5,
     endlineTag: "",
 
@@ -2050,7 +2050,7 @@ const __generated_lance__16c: Lance = {
     id: "16c",
 
     name: "Gigadrill Lance",
-    treeName: "Thunder Tree",
+    treeName: "Raio Tree",
     rarity: 6,
     endlineTag: "hr",
 
@@ -2198,7 +2198,7 @@ const __generated_lance__18a: Lance = {
     id: "18a",
 
     name: "Heat Lance I",
-    treeName: "Fire Tree",
+    treeName: "Fogo Tree",
     rarity: 1,
     endlineTag: "",
 
@@ -2233,7 +2233,7 @@ const __generated_lance__18b: Lance = {
     id: "18b",
 
     name: "Heat Lance II",
-    treeName: "Fire Tree",
+    treeName: "Fogo Tree",
     rarity: 3,
     endlineTag: "",
 
@@ -2269,7 +2269,7 @@ const __generated_lance__18c: Lance = {
     id: "18c",
 
     name: "Heatstinger",
-    treeName: "Fire Tree",
+    treeName: "Fogo Tree",
     rarity: 5,
     endlineTag: "hr",
 
@@ -3916,7 +3916,7 @@ const __generated_lance__33a: Lance = {
     category: "lance",
     id: "33a",
 
-    name: "Thunderbolt Spear I",
+    name: "Raiobolt Spear I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",
@@ -4079,7 +4079,7 @@ const __generated_lance__35a: Lance = {
     category: "lance",
     id: "35a",
 
-    name: "Icesteel Spear I",
+    name: "Gelosteel Spear I",
     treeName: "Kushala Daora Tree",
     rarity: 6,
     endlineTag: "",

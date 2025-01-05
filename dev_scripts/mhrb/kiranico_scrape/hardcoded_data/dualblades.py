@@ -8,7 +8,7 @@ Hardcoded parts for Dual Blades data
 # Specification to build the data
 # {category: [(tree name, parent_weapon_id, [(name, id, rarity), ...]), ...]}
 HARDCODED_DB_SPEC = [
-    ("Kamura Tree", None, [
+    ("Kamura Tree", Nenhum, [
         ("Kamura Glintblades I"  , "1a"),
         ("Kamura Glintblades II" , "1b"),
         ("Kamura Glintblades III", "1c"),
@@ -41,7 +41,7 @@ HARDCODED_DB_SPEC = [
         ("Khezu Daggers II", "6b"),
         ("Khezu Skards"    , "6c"),
     ]),
-    ("Ore Tree", None, [
+    ("Ore Tree", Nenhum, [
         ("Matched Slicers I" , "7a"),
         ("Matched Slicers II", "7b"),
         ("Dual Daggers"      , "7c"),
@@ -69,7 +69,7 @@ HARDCODED_DB_SPEC = [
         ("Kulu's Peck II", "11b"),
         ("Kulu's Lasher" , "11c"),
     ]),
-    ("Ice Tree", "11b", [
+    ("Gelo Tree", "11b", [
         ("Gelid Mind I" , "12a"),
         ("Gelid Mind II", "12b"),
         ("Gelid Soul"   , "12c"),
@@ -79,7 +79,7 @@ HARDCODED_DB_SPEC = [
         ("Hidden Gemini II", "13b"),
         ("Night Wings"     , "13c"),
     ]),
-    ("Thunder Tree", "7a", [
+    ("Raio Tree", "7a", [
         ("Twin Chainsaws I" , "14a"),
         ("Twin Chainsaws II", "14b"),
         ("Guillotines"      , "14c"),
@@ -99,7 +99,7 @@ HARDCODED_DB_SPEC = [
         ("Flammenschild II"      , "17b"), # Real name: "Flammenschild"
         ("Gnashing Flammenschild", "17c"),
     ]),
-    ("Bone Tree", None, [
+    ("Bone Tree", Nenhum, [
         ("Bone Hatchets I"   , "18a"),
         ("Bone Hatchets II"  , "18b"),
         ("Wild Hatchets"     , "18c"),
@@ -127,7 +127,7 @@ HARDCODED_DB_SPEC = [
         ("Kadachi Twinblades II", "22b"),
         ("Shockblades"          , "22c"),
     ]),
-    ("Fire Tree", "18b", [
+    ("Fogo Tree", "18b", [
         ("Blazeblades I"  , "23a"),
         ("Blazeblades II" , "23b"),
         ("Infernal Furies", "23c"),
@@ -147,77 +147,77 @@ HARDCODED_DB_SPEC = [
         ("Snow Slicers II", "26b"),
         ("Snow Sisters"   , "26c"),
     ]),
-    ("Magnamalo Tree", None, [
+    ("Magnamalo Tree", Nenhum, [
         ("Sinister Blades I"    , "27a"),
         ("Sinister Blades II"   , "27b"),
         ("Sinister Famineblades", "27c"),
     ]),
-    ("Rajang Tree", None, [
+    ("Rajang Tree", Nenhum, [
         ("Suzuka Takamaru I" , "28a"),
         ("Suzuka Takamaru II", "28b"),
         ("Suzuka Otakemaru"  , "28c"),
     ]),
-    ("Ibushi Tree", None, [
+    ("Ibushi Tree", Nenhum, [
         ("Azure Elder Blades I" , "29a"),
         ("Azure Elder Blades II", "29b"),
         ("Abyssal Gale Blades"  , "29c"),
     ]),
-    ("Narwa Tree", None, [
-        ("Thunderbolt Blades I", "30a"),
+    ("Narwa Tree", Nenhum, [
+        ("Raiobolt Blades I", "30a"),
         ("Abyssal Storm Blades", "30b"),
     ]),
-    ("Bazelgeuse Tree", None, [
+    ("Bazelgeuse Tree", Nenhum, [
         ("Rookslayer Handaxes I" , "31a"),
         ("Rookslayer Handaxes II", "31b"),
         ("Bazelhawk Rookslayer"  , "31c"),
     ]),
-    ("Kushala Daora Tree", None, [
-        ("Icesteel Fang I", "32a"),
+    ("Kushala Daora Tree", Nenhum, [
+        ("Gelosteel Fang I", "32a"),
         ("Daora's Hook"   , "32b"),
     ]),
-    ("Teostra Tree", None, [
+    ("Teostra Tree", Nenhum, [
         ("Twin Nails I", "33a"),
-        ("Fire and Ice", "33b"),
+        ("Fogo and Gelo", "33b"),
     ]),
-    ("Chameleos Tree", None, [
+    ("Chameleos Tree", Nenhum, [
         ("Rouge Flames I", "34a"),
         ("Dual Chameleos", "34b"),
     ]),
-    ("Valstrax Tree", None, [
+    ("Valstrax Tree", Nenhum, [
         ("Redwing Blades I"      , "35a"),
-        ("Reddnaught Dragon Wing", "35b"),
+        ("Reddnaught Dragão Wing", "35b"),
     ]),
-    ("Felyne Tree", None, [
+    ("Felyne Tree", Nenhum, [
         ("Felyne Claws I" , "36a"),
         ("Felyne Claws II", "36b"),
         ("Raging Claws"   , "36c"),
     ]),
-    ("Jelly Tree", None, [
+    ("Jelly Tree", Nenhum, [
         ("Rainy Jelly I" , "37a"),
         ("Rainy Jelly II", "37b"),
         ("Rain of Gore"  , "37c"),
     ]),
-    ("Aelucanth Tree", None, [
+    ("Aelucanth Tree", Nenhum, [
         ("Qornu Waga I" , "38a"),
         ("Qornu Waga II", "38b"),
         ("Ro Waga"      , "38c"),
     ]),
-    ("Guild Tree", None, [
+    ("Guild Tree", Nenhum, [
         ("Sworn Rapiers I" , "39a"),
         ("Sworn Rapiers II", "39b"),
         ("Holy Sabers"     , "39c"),
     ]),
-    ("Guild Tree 2", None, [
+    ("Guild Tree 2", Nenhum, [
         ("Altair I"   , "40a"),
         ("Altair II"  , "40b"),
         ("Fortis Gran", "40c"),
     ]),
-    ("Smithy Tree", None, [
+    ("Smithy Tree", Nenhum, [
         ("Stealth Dango I" , "41a"),
         ("Stealth Dango II", "41b"),
         ("Perfected Dango" , "41c"),
     ]),
-    ("Rampage Tree", None, [
+    ("Rampage Tree", Nenhum, [
         ("Rampage Twinblades I"  , "ra"),
         ("Rampage Twinblades II" , "rb"),
         ("Rampage Twinblades III", "rc"),

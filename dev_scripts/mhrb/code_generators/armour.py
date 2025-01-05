@@ -119,7 +119,7 @@ def generate_armour_source_file(armour_data, naming_schemes_data):
         
         assert set(obj["pieces"].keys()) == {"head", "chest", "arms", "waist", "legs"}
         for (slot_id, piece_data) in obj["pieces"].items():
-            if piece_data is None:
+            if piece_data is Nenhum:
                 piece_strs[slot_id] = "undefined"
                 continue
             (deco_slots, skills) = piece_data

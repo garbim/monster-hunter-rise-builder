@@ -668,7 +668,7 @@ const __generated_swordandshield__5a: SwordAndShield = {
     category: "swordandshield",
     id: "5a",
 
-    name: "Usurper's Firebolt I",
+    name: "Usurper's Fogobolt I",
     treeName: "Zinogre Tree",
     rarity: 3,
     endlineTag: "",
@@ -705,7 +705,7 @@ const __generated_swordandshield__5b: SwordAndShield = {
     category: "swordandshield",
     id: "5b",
 
-    name: "Usurper's Firebolt II",
+    name: "Usurper's Fogobolt II",
     treeName: "Zinogre Tree",
     rarity: 5,
     endlineTag: "",
@@ -1108,7 +1108,7 @@ const __generated_swordandshield__9a: SwordAndShield = {
     id: "9a",
 
     name: "Frost Edge I",
-    treeName: "Ice Tree",
+    treeName: "Gelo Tree",
     rarity: 1,
     endlineTag: "",
 
@@ -1142,7 +1142,7 @@ const __generated_swordandshield__9b: SwordAndShield = {
     id: "9b",
 
     name: "Frost Edge II",
-    treeName: "Ice Tree",
+    treeName: "Gelo Tree",
     rarity: 2,
     endlineTag: "",
 
@@ -1176,7 +1176,7 @@ const __generated_swordandshield__9c: SwordAndShield = {
     id: "9c",
 
     name: "Hi Frost Edge",
-    treeName: "Ice Tree",
+    treeName: "Gelo Tree",
     rarity: 5,
     endlineTag: "hr",
 
@@ -3596,7 +3596,7 @@ const __generated_swordandshield__30a: SwordAndShield = {
     id: "30a",
 
     name: "Secta Nulo Black I",
-    treeName: "Bnahabra (Dragon)",
+    treeName: "Bnahabra (Dragão)",
     rarity: 4,
     endlineTag: "",
 
@@ -3633,7 +3633,7 @@ const __generated_swordandshield__30b: SwordAndShield = {
     id: "30b",
 
     name: "Secta Nulo Black II",
-    treeName: "Bnahabra (Dragon)",
+    treeName: "Bnahabra (Dragão)",
     rarity: 5,
     endlineTag: "",
 
@@ -3671,7 +3671,7 @@ const __generated_swordandshield__30c: SwordAndShield = {
     id: "30c",
 
     name: "Secta Unu Black",
-    treeName: "Bnahabra (Dragon)",
+    treeName: "Bnahabra (Dragão)",
     rarity: 6,
     endlineTag: "hr",
 
@@ -3780,7 +3780,7 @@ const __generated_swordandshield__32a: SwordAndShield = {
     id: "32a",
 
     name: "Secta Nulo Yellow I",
-    treeName: "Bnahabra (Thunder)",
+    treeName: "Bnahabra (Raio)",
     rarity: 2,
     endlineTag: "",
 
@@ -3815,7 +3815,7 @@ const __generated_swordandshield__32b: SwordAndShield = {
     id: "32b",
 
     name: "Secta Unu Yellow",
-    treeName: "Bnahabra (Thunder)",
+    treeName: "Bnahabra (Raio)",
     rarity: 5,
     endlineTag: "hr",
 
@@ -3851,7 +3851,7 @@ const __generated_swordandshield__33a: SwordAndShield = {
     id: "33a",
 
     name: "Secta Nulo Red I",
-    treeName: "Bnahabra (Fire)",
+    treeName: "Bnahabra (Fogo)",
     rarity: 1,
     endlineTag: "",
 
@@ -3885,7 +3885,7 @@ const __generated_swordandshield__33b: SwordAndShield = {
     id: "33b",
 
     name: "Secta Nulo Red II",
-    treeName: "Bnahabra (Fire)",
+    treeName: "Bnahabra (Fogo)",
     rarity: 2,
     endlineTag: "",
 
@@ -3921,7 +3921,7 @@ const __generated_swordandshield__33c: SwordAndShield = {
     id: "33c",
 
     name: "Secta Unu Red",
-    treeName: "Bnahabra (Fire)",
+    treeName: "Bnahabra (Fogo)",
     rarity: 4,
     endlineTag: "hr",
 
@@ -4256,7 +4256,7 @@ const __generated_swordandshield__37a: SwordAndShield = {
     category: "swordandshield",
     id: "37a",
 
-    name: "Thunderbolt Sword I",
+    name: "Raiobolt Sword I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",
@@ -4321,7 +4321,7 @@ const __generated_swordandshield__38a: SwordAndShield = {
     category: "swordandshield",
     id: "38a",
 
-    name: "Icesteel Dagger I",
+    name: "Gelosteel Dagger I",
     treeName: "Kushala Daora Tree",
     rarity: 6,
     endlineTag: "",

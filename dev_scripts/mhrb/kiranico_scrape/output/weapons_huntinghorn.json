@@ -497,7 +497,7 @@
             "rarity": 6,
             "endlineTag": "hr",
 
-            "name": "Despot's Thunderclap",
+            "name": "Despot's Raioclap",
             "attack": 180,
             "affinity": 0,
             "defense": 0,
@@ -612,7 +612,7 @@
             "rarity": 3,
             "endlineTag": "",
 
-            "name": "Striped Dragonga I",
+            "name": "Striped Dragãoga I",
             "attack": 140,
             "affinity": -20,
             "defense": 0,
@@ -640,7 +640,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Striped Dragonga II",
+            "name": "Striped Dragãoga II",
             "attack": 200,
             "affinity": -20,
             "defense": 0,
@@ -2515,7 +2515,7 @@
             "huntinghornSongs": {"a_a":"tremors_negated", "x_x":"defense_up", "xa_xa":"health_recovery_s"}
         }
     },
-    "Bnahabra (Ice)": {
+    "Bnahabra (Gelo)": {
         "27a": {
             "rarity": 1,
             "endlineTag": "",
@@ -2832,7 +2832,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Thunderbolt Horn I",
+            "name": "Raiobolt Horn I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,

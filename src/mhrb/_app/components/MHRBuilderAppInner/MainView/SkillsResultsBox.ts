@@ -21,7 +21,7 @@ function NoSkills() {
         className: "skill-box",
         },
 
-        element(ClipsafeSpan, null, element("b", null, "No Skills")),
+        element(ClipsafeSpan, null, element("b", null, "Sem Habilidades")),
     );
 }
 

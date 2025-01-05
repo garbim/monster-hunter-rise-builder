@@ -394,7 +394,7 @@
             "rarity": 3,
             "endlineTag": "",
 
-            "name": "Usurper's Firebolt I",
+            "name": "Usurper's Fogobolt I",
             "attack": 120,
             "affinity": 0,
             "defense": 0,
@@ -421,7 +421,7 @@
             "rarity": 5,
             "endlineTag": "",
 
-            "name": "Usurper's Firebolt II",
+            "name": "Usurper's Fogobolt II",
             "attack": 180,
             "affinity": 0,
             "defense": 0,
@@ -716,7 +716,7 @@
             "maxSharpness": [50,40,120,120,50,20]
         }
     },
-    "Ice Tree": {
+    "Gelo Tree": {
         "9a": {
             "rarity": 1,
             "endlineTag": "",
@@ -2546,7 +2546,7 @@
             "maxSharpness": [150,30,20,60,70,20]
         }
     },
-    "Bnahabra (Dragon)": {
+    "Bnahabra (Dragão)": {
         "30a": {
             "rarity": 4,
             "endlineTag": "",
@@ -2684,7 +2684,7 @@
             "maxSharpness": [140,30,30,70,70,10]
         }
     },
-    "Bnahabra (Thunder)": {
+    "Bnahabra (Raio)": {
         "32a": {
             "rarity": 2,
             "endlineTag": "",
@@ -2737,7 +2737,7 @@
             "maxSharpness": [160,20,20,100,70,30]
         }
     },
-    "Bnahabra (Fire)": {
+    "Bnahabra (Fogo)": {
         "33a": {
             "rarity": 1,
             "endlineTag": "",
@@ -3036,7 +3036,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Thunderbolt Sword I",
+            "name": "Raiobolt Sword I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,
@@ -3083,7 +3083,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Icesteel Dagger I",
+            "name": "Gelosteel Dagger I",
             "attack": 170,
             "affinity": 5,
             "defense": 0,

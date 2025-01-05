@@ -366,7 +366,7 @@ const statesSpecification: StatesSpecificationType = new Map([
                 },
             ],
         }],
-        ["Dragonheart (DH)", {
+        ["Dragãoheart (DH)", {
             initialState: 0,
             presentations: [
                 null,

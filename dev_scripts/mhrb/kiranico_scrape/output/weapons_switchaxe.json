@@ -1178,7 +1178,7 @@
             "rarity": 5,
             "endlineTag": "",
 
-            "name": "Dragonmaiden Axe I",
+            "name": "Dragãomaiden Axe I",
             "attack": 170,
             "affinity": 0,
             "defense": 0,
@@ -1210,7 +1210,7 @@
             "rarity": 5,
             "endlineTag": "",
 
-            "name": "Dragonmaiden Axe II",
+            "name": "Dragãomaiden Axe II",
             "attack": 190,
             "affinity": 0,
             "defense": 0,
@@ -1366,7 +1366,7 @@
             }
         }
     },
-    "Thunder Tree": {
+    "Raio Tree": {
         "13a": {
             "rarity": 3,
             "endlineTag": "",
@@ -1461,7 +1461,7 @@
             }
         }
     },
-    "Dragon Tree": {
+    "Dragão Tree": {
         "14a": {
             "rarity": 4,
             "endlineTag": "",
@@ -3360,7 +3360,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Thunderbolt Axe I",
+            "name": "Raiobolt Axe I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,
