@@ -74,6 +74,7 @@ const config = (configArgs) => ({
         }),
         new CopyPlugin({
             patterns: [
+                { from: "public/images", to: "mhrb/public/images" },
                 { from: "public" },
             ],
         }),
