@@ -8,9 +8,6 @@ primary_region = 'gru'
 
 [build]
 
-[processes]
-app = "npm start"
-
 [http_service]
   internal_port = 8080
   force_https = true
