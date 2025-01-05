@@ -640,25 +640,25 @@ export const __generated_ramp__blast_3: RampageSkill = {
 export const __generated_ramp__attack_boost_1: RampageSkill = {
     id: "attack_boost_1",
     shortID: "atb1",
-    name: "Attack Boost I",
+    name: "Reforço de Ataque I",
 };
 
 export const __generated_ramp__attack_boost_2: RampageSkill = {
     id: "attack_boost_2",
     shortID: "atb2",
-    name: "Attack Boost II",
+    name: "Reforço de Ataque II",
 };
 
 export const __generated_ramp__attack_boost_3: RampageSkill = {
     id: "attack_boost_3",
     shortID: "atb3",
-    name: "Attack Boost III",
+    name: "Reforço de Ataque III",
 };
 
 export const __generated_ramp__attack_boost_4: RampageSkill = {
     id: "attack_boost_4",
     shortID: "atb4",
-    name: "Attack Boost IV",
+    name: "Reforço de Ataque IV",
 };
 
 export const __generated_ramp__affinity_boost_1: RampageSkill = {
@@ -706,19 +706,19 @@ export const __generated_ramp__elemental_boost_3: RampageSkill = {
 export const __generated_ramp__defense_boost_1: RampageSkill = {
     id: "defense_boost_1",
     shortID: "deb1",
-    name: "Defense Boost I",
+    name: "Reforço de Defesa  I",
 };
 
 export const __generated_ramp__defense_boost_2: RampageSkill = {
     id: "defense_boost_2",
     shortID: "deb2",
-    name: "Defense Boost II",
+    name: "Reforço de Defesa  II",
 };
 
 export const __generated_ramp__defense_boost_3: RampageSkill = {
     id: "defense_boost_3",
     shortID: "deb3",
-    name: "Defense Boost III",
+    name: "Reforço de Defesa  III",
 };
 
 export const __generated_ramp__attack_surge: RampageSkill = {

@@ -265,15 +265,15 @@ export const __generated_skill__affinity_sliding: Skill = {
     }
 };
 
-export const __generated_skill__agitator: Skill = {
-    id: "agitator",
+export const __generated_skill__Agitador: Skill = {
+    id: "Agitador",
     shortId: 20,
-    name: "Agitator",
+    name: "Agitador",
     maxLevels: 5,
 
     iconImgID: "skill_icon_red",
     filterHelpers: {
-        nameLower: "agitator",
+        nameLower: "Agitador",
     }
 };
 
@@ -304,7 +304,7 @@ export const __generated_skill__artillery: Skill = {
 export const __generated_skill__attack_boost: Skill = {
     id: "attack_boost",
     shortId: 23,
-    name: "Attack Boost",
+    name: "Reforço de Ataque",
     maxLevels: 7,
 
     iconImgID: "skill_icon_red",
@@ -472,7 +472,7 @@ export const __generated_skill__counterstrike: Skill = {
 export const __generated_skill__critical_boost: Skill = {
     id: "critical_boost",
     shortId: 37,
-    name: "Critical Boost",
+    name: "Reforço Crítico",
     maxLevels: 3,
 
     iconImgID: "skill_icon_pink",
@@ -508,7 +508,7 @@ export const __generated_skill__critical_element: Skill = {
 export const __generated_skill__critical_eye: Skill = {
     id: "critical_eye",
     shortId: 40,
-    name: "Critical Eye",
+    name: "Olho Crítico",
     maxLevels: 7,
 
     iconImgID: "skill_icon_pink",
@@ -520,7 +520,7 @@ export const __generated_skill__critical_eye: Skill = {
 export const __generated_skill__defense_boost: Skill = {
     id: "defense_boost",
     shortId: 41,
-    name: "Defense Boost",
+    name: "Reforço de Defesa ",
     maxLevels: 7,
 
     iconImgID: "skill_icon_gold",
@@ -952,7 +952,7 @@ export const __generated_skill__partbreaker: Skill = {
 export const __generated_skill__peak_performance: Skill = {
     id: "peak_performance",
     shortId: 77,
-    name: "Peak Performance",
+    name: "Desempenho Máximo",
     maxLevels: 3,
 
     iconImgID: "skill_icon_red",
@@ -1105,27 +1105,27 @@ export const __generated_skill__reload_speed: Skill = {
     }
 };
 
-export const __generated_skill__resentment: Skill = {
-    id: "resentment",
+export const __generated_skill__Indignação: Skill = {
+    id: "Indignação",
     shortId: 90,
-    name: "Resentment",
+    name: "Indignação",
     maxLevels: 5,
 
     iconImgID: "skill_icon_orange",
     filterHelpers: {
-        nameLower: "resentment",
+        nameLower: "Indignação",
     }
 };
 
-export const __generated_skill__resuscitate: Skill = {
-    id: "resuscitate",
+export const __generated_skill__Ressuscitar: Skill = {
+    id: "Ressuscitar",
     shortId: 91,
-    name: "Resuscitate",
+    name: "Ressuscitar",
     maxLevels: 3,
 
     iconImgID: "skill_icon_orange",
     filterHelpers: {
-        nameLower: "resuscitate",
+        nameLower: "Ressuscitar",
     }
 };
 
@@ -1312,7 +1312,7 @@ export const __generated_skill__wall_runner: Skill = {
 export const __generated_skill__weakness_exploit: Skill = {
     id: "weakness_exploit",
     shortId: 107,
-    name: "Weakness Exploit",
+    name: "Explor. de Fraqueza",
     maxLevels: 3,
 
     iconImgID: "skill_icon_pink",
@@ -1473,7 +1473,7 @@ export const skillsArray: Readonly<Skill[]> = [
     __generated_skill__sleep_resistance,
     __generated_skill__blast_resistance,
     __generated_skill__affinity_sliding,
-    __generated_skill__agitator,
+    __generated_skill__Agitador,
     __generated_skill__ammo_up,
     __generated_skill__artillery,
     __generated_skill__attack_boost,
@@ -1543,8 +1543,8 @@ export const skillsArray: Readonly<Skill[]> = [
     __generated_skill__recovery_speed,
     __generated_skill__recovery_up,
     __generated_skill__reload_speed,
-    __generated_skill__resentment,
-    __generated_skill__resuscitate,
+    __generated_skill__Indignação,
+    __generated_skill__Ressuscitar,
     __generated_skill__slugger,
     __generated_skill__spare_shot,
     __generated_skill__special_ammo_boost,

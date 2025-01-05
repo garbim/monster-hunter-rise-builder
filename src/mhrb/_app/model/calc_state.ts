@@ -235,7 +235,7 @@ const statesSpecification: StatesSpecificationType = new Map([
                 },
             ],
         }],
-        ["Song: Elem. Attack Boost", {
+        ["Song: Elem. Reforço de Ataque", {
             initialState: 0,
             presentations: [
                 null,
@@ -327,7 +327,7 @@ const statesSpecification: StatesSpecificationType = new Map([
                 },
             ],
         }],
-        ["Agitator (AGI)", {
+        ["Agitador (AGI)", {
             initialState: 0,
             presentations: [
                 null,
@@ -464,7 +464,7 @@ const statesSpecification: StatesSpecificationType = new Map([
                 },
             ],
         }],
-        ["Peak Performance (PP)", {
+        ["Desempenho Máximo (PP)", {
             initialState: 0,
             presentations: [
                 null,
@@ -490,7 +490,7 @@ const statesSpecification: StatesSpecificationType = new Map([
                 },
             ],
         }],
-        ["Resentment (RES)", {
+        ["Indignação (RES)", {
             initialState: 0,
             presentations: [
                 null,
@@ -503,7 +503,7 @@ const statesSpecification: StatesSpecificationType = new Map([
                 },
             ],
         }],
-        ["Resuscitate (RSC)", {
+        ["Ressuscitar (RSC)", {
             initialState: 0,
             presentations: [
                 null,
@@ -516,7 +516,7 @@ const statesSpecification: StatesSpecificationType = new Map([
                 },
             ],
         }],
-        ["Weakness Exploit (WEX)", {
+        ["Explor. de Fraqueza (WEX)", {
             initialState: 1,
             presentations: [
                 null,

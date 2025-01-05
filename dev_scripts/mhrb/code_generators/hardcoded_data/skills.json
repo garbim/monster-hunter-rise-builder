@@ -155,9 +155,9 @@
     "icon": "pink"
 },
 {
-    "id": "agitator",
+    "id": "Agitador",
     "shortId": 20,
-    "name": "Agitator",
+    "name": "Agitador",
     "maxLevels": 5,
 
     "icon": "red"
@@ -181,7 +181,7 @@
 {
     "id": "attack_boost",
     "shortId": 23,
-    "name": "Attack Boost",
+    "name": "Reforço de Ataque",
     "maxLevels": 7,
 
     "icon": "red"
@@ -293,7 +293,7 @@
 {
     "id": "critical_boost",
     "shortId": 37,
-    "name": "Critical Boost",
+    "name": "Reforço Crítico",
     "maxLevels": 3,
 
     "icon": "pink"
@@ -317,7 +317,7 @@
 {
     "id": "critical_eye",
     "shortId": 40,
-    "name": "Critical Eye",
+    "name": "Olho Crítico",
     "maxLevels": 7,
 
     "icon": "pink"
@@ -325,7 +325,7 @@
 {
     "id": "defense_boost",
     "shortId": 41,
-    "name": "Defense Boost",
+    "name": "Reforço de Defesa ",
     "maxLevels": 7,
 
     "icon": "gold"
@@ -613,7 +613,7 @@
 {
     "id": "peak_performance",
     "shortId": 77,
-    "name": "Peak Performance",
+    "name": "Desempenho Máximo",
     "maxLevels": 3,
 
     "icon": "red"
@@ -715,17 +715,17 @@
     "icon": "white"
 },
 {
-    "id": "resentment",
+    "id": "Indignação",
     "shortId": 90,
-    "name": "Resentment",
+    "name": "Indignação",
     "maxLevels": 5,
 
     "icon": "orange"
 },
 {
-    "id": "resuscitate",
+    "id": "Ressuscitar",
     "shortId": 91,
-    "name": "Resuscitate",
+    "name": "Ressuscitar",
     "maxLevels": 3,
 
     "icon": "orange"
@@ -853,7 +853,7 @@
 {
     "id": "weakness_exploit",
     "shortId": 107,
-    "name": "Weakness Exploit",
+    "name": "Explor. de Fraqueza",
     "maxLevels": 3,
 
     "icon": "pink"

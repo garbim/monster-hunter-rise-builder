@@ -4,22 +4,22 @@
 {
     "id": "attack_boost_1",
     "shortID": "atb1",
-    "name": "Attack Boost I"
+    "name": "Reforço de Ataque I"
 },
 {
     "id": "attack_boost_2",
     "shortID": "atb2",
-    "name": "Attack Boost II"
+    "name": "Reforço de Ataque II"
 },
 {
     "id": "attack_boost_3",
     "shortID": "atb3",
-    "name": "Attack Boost III"
+    "name": "Reforço de Ataque III"
 },
 {
     "id": "attack_boost_4",
     "shortID": "atb4",
-    "name": "Attack Boost IV"
+    "name": "Reforço de Ataque IV"
 },
 
 {
@@ -62,17 +62,17 @@
 {
     "id": "defense_boost_1",
     "shortID": "deb1",
-    "name": "Defense Boost I"
+    "name": "Reforço de Defesa  I"
 },
 {
     "id": "defense_boost_2",
     "shortID": "deb2",
-    "name": "Defense Boost II"
+    "name": "Reforço de Defesa  II"
 },
 {
     "id": "defense_boost_3",
     "shortID": "deb3",
-    "name": "Defense Boost III"
+    "name": "Reforço de Defesa  III"
 },
 
 {

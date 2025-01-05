@@ -39,7 +39,7 @@ import {type Decoration} from "../../common/types";
 
 import {
     __generated_skill__affinity_sliding,
-    __generated_skill__agitator,
+    __generated_skill__Agitador,
     __generated_skill__ammo_up,
     __generated_skill__artillery,
     __generated_skill__attack_boost,
@@ -119,8 +119,8 @@ import {
     __generated_skill__recovery_up,
     __generated_skill__redirection,
     __generated_skill__reload_speed,
-    __generated_skill__resentment,
-    __generated_skill__resuscitate,
+    __generated_skill__Indignação,
+    __generated_skill__Ressuscitar,
     __generated_skill__sleep_attack,
     __generated_skill__sleep_resistance,
     __generated_skill__slugger,
@@ -1369,7 +1369,7 @@ export const decosArray: Readonly<Decoration[]> = [
         slotSize: 2,
         rarity: 6,
         skills: [
-            [__generated_skill__resuscitate, 1],
+            [__generated_skill__Ressuscitar, 1],
         ],
 
         icon: "orange",
@@ -1384,7 +1384,7 @@ export const decosArray: Readonly<Decoration[]> = [
         slotSize: 2,
         rarity: 6,
         skills: [
-            [__generated_skill__resentment, 1],
+            [__generated_skill__Indignação, 1],
         ],
 
         icon: "orange",
@@ -1414,7 +1414,7 @@ export const decosArray: Readonly<Decoration[]> = [
         slotSize: 2,
         rarity: 6,
         skills: [
-            [__generated_skill__agitator, 1],
+            [__generated_skill__Agitador, 1],
         ],
 
         icon: "red",

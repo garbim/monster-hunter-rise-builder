@@ -43,7 +43,7 @@ export function hhSongName(s: HHSong): string {
         case "divine_protection":               return "Divine Protection";
         case "earplugs_l":                      return "Earplugs (L)";
         case "earplugs_s":                      return "Earplugs (S)";
-        case "elemental_attack_boost":          return "Elemental Attack Boost";
+        case "elemental_attack_boost":          return "Elemental Reforço de Ataque";
         case "environment_damage_negated":      return "Environment Damage Negated";
         case "health_recovery_s":               return "Health Recovery (S)";
         case "health_recovery_s_plus_antidote": return "Health Recovery (S) + Antidote";

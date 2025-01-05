@@ -200,7 +200,7 @@ I should try to build as complete a list of acknowledgements as possible.
 Some acknowledgements so far:
 
 - <https://www.reddit.com/r/MonsterHunterMeta/comments/n641k9/antiaerial_species_does_work_on_elder_dragons/>
-- Discord user `Mopop#8020` for answering many questions and gathering resources. Also tested defense stacking (Defense Boost and Fortify along with Armorcharm/talon).
+- Discord user `Mopop#8020` for answering many questions and gathering resources. Also tested defense stacking (Reforço de Defesa  and Fortify along with Armorcharm/talon).
 - Discord user `hauffen#2153` for answering questions and providing their [hammer calculator](https://docs.google.com/spreadsheets/d/1cf3BmuV-p48HAHvT7bbFmIm2bf2MeDmA9h-3GUR3RZY/) as a source of data.
 - Discord user `Moonmadness#9063` for answering questions.
 - Discord user `T3h Phish #5878` for finding a bug.

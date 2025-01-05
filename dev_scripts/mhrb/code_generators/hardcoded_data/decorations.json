@@ -658,7 +658,7 @@
     "name": "Crisis",
     "slotSize": 2,
     "rarity": 6,
-    "skills": {"resuscitate": 1},
+    "skills": {"Ressuscitar": 1},
 
     "icon": "orange"
 }],
@@ -666,7 +666,7 @@
     "name": "Furor",
     "slotSize": 2,
     "rarity": 6,
-    "skills": {"resentment": 1},
+    "skills": {"Indignação": 1},
 
     "icon": "orange"
 }],
@@ -682,7 +682,7 @@
     "name": "Challenger",
     "slotSize": 2,
     "rarity": 6,
-    "skills": {"agitator": 1},
+    "skills": {"Agitador": 1},
 
     "icon": "red"
 }],

@@ -1003,8 +1003,8 @@
         "head":  [[], {"razor_sharp" : 1, "spare_shot"       : 1}],
         "chest": [[], {"razor_sharp" : 1, "spare_shot"       : 1}],
         "arms":  [[], {"evade_window": 1, "wirebug_whisperer": 1}],
-        "waist": [[], {"agitator"    : 1                        }],
-        "legs":  [[], {"evade_window": 1, "agitator"         : 1}]
+        "waist": [[], {"Agitador"    : 1                        }],
+        "legs":  [[], {"evade_window": 1, "Agitador"         : 1}]
     },
     "defenses": {"defLvl1": 24, "f":3, "w":0, "t":0, "i":0, "d":0}
 }],
@@ -1022,8 +1022,8 @@
         "head":  [[], {"razor_sharp" : 1, "spare_shot"       : 1}],
         "chest": [[], {"razor_sharp" : 1, "spare_shot"       : 1}],
         "arms":  [[], {"evade_window": 1, "wirebug_whisperer": 1}],
-        "waist": [[], {"agitator"    : 1                        }],
-        "legs":  [[], {"evade_window": 1, "agitator"         : 1}]
+        "waist": [[], {"Agitador"    : 1                        }],
+        "legs":  [[], {"evade_window": 1, "Agitador"         : 1}]
     },
     "defenses": {"defLvl1": 24, "f":3, "w":0, "t":0, "i":0, "d":0}
 }],
@@ -1057,11 +1057,11 @@
     "suffix": "",
 
     "pieces": {
-        "head":  [[], {"resentment"    : 1, "counterstrike": 1}],
-        "chest": [[], {"hellfire_cloak": 1, "resentment"   : 1}],
+        "head":  [[], {"Indignação"    : 1, "counterstrike": 1}],
+        "chest": [[], {"hellfire_cloak": 1, "Indignação"   : 1}],
         "arms":  [[], {"hellfire_cloak": 1                    }],
         "waist": [[], {"hellfire_cloak": 1, "counterstrike": 2}],
-        "legs":  [[], {"resentment"    : 1                    }]
+        "legs":  [[], {"Indignação"    : 1                    }]
     },
     "defenses": {"defLvl1": 28, "f":3, "w":-3, "t":-2, "i":1, "d":1}
 }],
@@ -1190,11 +1190,11 @@
     "suffix": "",
 
     "pieces": {
-        "head":  [[], {"agitator"      : 1                     }],
+        "head":  [[], {"Agitador"      : 1                     }],
         "chest": [[], {"critical_draw" : 1                     }],
         "arms":  [[], {"critical_draw" : 1, "punishing_draw": 1}],
-        "waist": [[], {"punishing_draw": 1, "resentment"    : 1}],
-        "legs":  [[], {"agitator"      : 1                     }]
+        "waist": [[], {"punishing_draw": 1, "Indignação"    : 1}],
+        "legs":  [[], {"Agitador"      : 1                     }]
     },
     "defenses": {"defLvl1": 30, "f":-4, "w":1, "t":-1, "i":4, "d":0}
 }],
@@ -1269,11 +1269,11 @@
     "suffix": "S",
 
     "pieces": {
-        "head":  [[1  ], {"divine_blessing"  : 1, "resuscitate" : 1                   }],
+        "head":  [[1  ], {"divine_blessing"  : 1, "Ressuscitar" : 1                   }],
         "chest": [[1  ], {"wirebug_whisperer": 2, "wall_runner" : 1, "critical_eye": 1}],
         "arms":  [[2  ], {"critical_eye"     : 2, "heroics"     : 1                   }],
         "waist": [[1,1], {"wirebug_whisperer": 1, "critical_eye": 1                   }],
-        "legs":  [[1  ], {"wall_runner"      : 2, "resuscitate" : 1                   }]
+        "legs":  [[1  ], {"wall_runner"      : 2, "Ressuscitar" : 1                   }]
     },
     "defenses": {"defLvl1": 30, "f":2, "w":0, "t":0, "i":0, "d":0}
 }],
@@ -2156,10 +2156,10 @@
 
     "pieces": {
         "head":  [[1  ], {"razor_sharp" : 2, "spare_shot"       : 2, "wirebug_whisperer": 1               }],
-        "chest": [[1  ], {"razor_sharp" : 1, "spare_shot"       : 1, "evade_window"     : 1, "agitator": 1}],
+        "chest": [[1  ], {"razor_sharp" : 1, "spare_shot"       : 1, "evade_window"     : 1, "Agitador": 1}],
         "arms":  [[2  ], {"evade_window": 1, "wirebug_whisperer": 1                                       }],
-        "waist": [[1  ], {"agitator"    : 2, "wirebug_whisperer": 1                                       }],
-        "legs":  [[1,1], {"evade_window": 1, "agitator"         : 1                                       }]
+        "waist": [[1  ], {"Agitador"    : 2, "wirebug_whisperer": 1                                       }],
+        "legs":  [[1,1], {"evade_window": 1, "Agitador"         : 1                                       }]
     },
     "defenses": {"defLvl1": 52, "f":3, "w":0, "t":0, "i":0, "d":0}
 }],
@@ -2175,10 +2175,10 @@
 
     "pieces": {
         "head":  [[1  ], {"razor_sharp" : 2, "spare_shot"       : 2, "wirebug_whisperer": 1               }],
-        "chest": [[1  ], {"razor_sharp" : 1, "spare_shot"       : 1, "evade_window"     : 1, "agitator": 1}],
+        "chest": [[1  ], {"razor_sharp" : 1, "spare_shot"       : 1, "evade_window"     : 1, "Agitador": 1}],
         "arms":  [[2  ], {"evade_window": 1, "wirebug_whisperer": 1                                       }],
-        "waist": [[1  ], {"agitator"    : 2, "wirebug_whisperer": 1                                       }],
-        "legs":  [[1,1], {"evade_window": 1, "agitator"         : 1                                       }]
+        "waist": [[1  ], {"Agitador"    : 2, "wirebug_whisperer": 1                                       }],
+        "legs":  [[1,1], {"evade_window": 1, "Agitador"         : 1                                       }]
     },
     "defenses": {"defLvl1": 52, "f":3, "w":0, "t":0, "i":0, "d":0}
 }],
@@ -2332,9 +2332,9 @@
     "suffix": "S",
 
     "pieces": {
-        "head":  [[2,1  ], {"resuscitate" : 1                  }],
-        "chest": [[1    ], {"bubbly_dance": 1, "resuscitate": 1}],
-        "arms":  [[2    ], {"resuscitate" : 1, "free_meal"  : 1}],
+        "head":  [[2,1  ], {"Ressuscitar" : 1                  }],
+        "chest": [[1    ], {"bubbly_dance": 1, "Ressuscitar": 1}],
+        "arms":  [[2    ], {"Ressuscitar" : 1, "free_meal"  : 1}],
         "waist": [[2,1  ], {"bubbly_dance": 1, "free_meal"  : 1}],
         "legs":  [[3,1,1], {"bubbly_dance": 1                  }]
     },
@@ -2503,11 +2503,11 @@
     "suffix": "S",
 
     "pieces": {
-        "head":  [[2  ], {"resentment"    : 1, "handicraft": 1, "flinch_free": 1}],
-        "chest": [[2  ], {"hellfire_cloak": 1, "resentment": 1                  }],
+        "head":  [[2  ], {"Indignação"    : 1, "handicraft": 1, "flinch_free": 1}],
+        "chest": [[2  ], {"hellfire_cloak": 1, "Indignação": 1                  }],
         "arms":  [[2  ], {"hellfire_cloak": 1, "handicraft": 2                  }],
         "waist": [[3  ], {"hellfire_cloak": 1                                   }],
-        "legs":  [[1,1], {"hellfire_cloak": 1, "resentment": 1, "flinch_free": 1}]
+        "legs":  [[1,1], {"hellfire_cloak": 1, "Indignação": 1, "flinch_free": 1}]
     },
     "defenses": {"defLvl1": 64, "f":3, "w":-3, "t":-2, "i":1, "d":1}
 }],
@@ -2522,11 +2522,11 @@
     "suffix": "S",
 
     "pieces": {
-        "head":  [[1,1], {"critical_draw" : 1, "agitator"      : 1}],
-        "chest": [[2,1], {"critical_draw" : 1, "resentment"    : 1}],
+        "head":  [[1,1], {"critical_draw" : 1, "Agitador"      : 1}],
+        "chest": [[2,1], {"critical_draw" : 1, "Indignação"    : 1}],
         "arms":  [[2  ], {"critical_draw" : 1, "punishing_draw": 1}],
-        "waist": [[2,1], {"punishing_draw": 1, "resentment"    : 1}],
-        "legs":  [[1  ], {"punishing_draw": 1, "agitator"      : 3}]
+        "waist": [[2,1], {"punishing_draw": 1, "Indignação"    : 1}],
+        "legs":  [[1  ], {"punishing_draw": 1, "Agitador"      : 3}]
     },
     "defenses": {"defLvl1": 64, "f":-4, "w":1, "t":-1, "i":4, "d":0}
 }],
@@ -2695,7 +2695,7 @@
     "pieces": {
         "head":  [[1], {"handicraft"      : 2, "normal_rapid_up": 2                                 }],
         "chest": [[2], {"kushala_blessing": 1, "recovery_speed" : 1, "diversion" : 1                }],
-        "arms":  [[1], {"kushala_blessing": 1, "recovery_speed" : 1, "agitator"  : 2                }],
+        "arms":  [[1], {"kushala_blessing": 1, "recovery_speed" : 1, "Agitador"  : 2                }],
         "waist": [[1], {"kushala_blessing": 1, "recovery_speed" : 1, "handicraft": 1, "pierce_up": 1}],
         "legs":  [[1], {"kushala_blessing": 1, "handicraft"     : 1, "pierce_up" : 1                }]
     },
@@ -2751,7 +2751,7 @@
 
     "pieces": {
         "head":  [[2  ], {"artillery"  : 1, "guard"   : 1}],
-        "chest": [[1,1], {"guard_up"   : 2, "agitator": 1}],
+        "chest": [[1,1], {"guard_up"   : 2, "Agitador": 1}],
         "arms":  [[2,2], {"load_shells": 1, "guard_up": 1}],
         "waist": [[2,2], {"load_shells": 1, "guard"   : 1}],
         "legs":  [[3  ], {"artillery"  : 2, "guard"   : 1}]
@@ -2846,10 +2846,10 @@
 
     "pieces": {
         "head":  [[2,1], {"dragonheart": 1, "weakness_exploit": 1                 }],
-        "chest": [[3,1], {"dragonheart": 1, "resuscitate"     : 2                 }],
+        "chest": [[3,1], {"dragonheart": 1, "Ressuscitar"     : 2                 }],
         "arms":  [[2  ], {"dragonheart": 1, "weakness_exploit": 2                 }],
-        "waist": [[2  ], {"dragonheart": 1, "resuscitate"     : 1, "resentment": 2}],
-        "legs":  [[3,1], {"dragonheart": 1, "resentment"      : 1                 }]
+        "waist": [[2  ], {"dragonheart": 1, "Ressuscitar"     : 1, "Indignação": 2}],
+        "legs":  [[3,1], {"dragonheart": 1, "Indignação"      : 1                 }]
     },
     "defenses": {"defLvl1": 80, "f":-2, "w":-2, "t":-2, "i":-2, "d":3}
 }],
@@ -2907,11 +2907,11 @@
     "suffix": "",
 
     "pieces": {
-        "head":  [[2  ], {"divine_blessing"  : 2, "resuscitate" : 1                       }],
+        "head":  [[2  ], {"divine_blessing"  : 2, "Ressuscitar" : 1                       }],
         "chest": [[1,1], {"wirebug_whisperer": 2, "wall_runner" : 1, "critical_eye"    : 1}],
         "arms":  [[1  ], {"critical_eye"     : 2, "heroics"     : 1, "divine_blessing" : 1}],
         "waist": [[4,1], {"wirebug_whisperer": 1, "critical_eye": 1                       }],
-        "legs":  [[2  ], {"wall_runner"      : 2, "resuscitate" : 1, "affinity_sliding": 1}]
+        "legs":  [[2  ], {"wall_runner"      : 2, "Ressuscitar" : 1, "affinity_sliding": 1}]
     },
     "defenses": {"defLvl1": 80, "f":2, "w":0, "t":0, "i":0, "d":0}
 }],
@@ -3059,7 +3059,7 @@
     "suffix": "X",
 
     "pieces": {
-        "head":  [[3], {"diversion": 1, "agitator": 3}],
+        "head":  [[3], {"diversion": 1, "Agitador": 3}],
         "chest": null,
         "arms":  null,
         "waist": null,
@@ -3081,7 +3081,7 @@
         "head":  null,
         "chest": [[4,2], {"water_attack": 2                 }],
         "arms":  null,
-        "waist": [[4,1], {"diversion"   : 1, "resentment": 1}],
+        "waist": [[4,1], {"diversion"   : 1, "Indignação": 1}],
         "legs":  [[4,1], {"water_attack": 3                 }]
     },
     "defenses": {"defLvl1": 90, "f":-2, "w":4, "t":-1, "i":0, "d":0}
@@ -3116,11 +3116,11 @@
     "suffix": "",
 
     "pieces": {
-        "head":  [[3  ], {"resuscitate"  : 2, "recovery_up"      : 1                  }],
+        "head":  [[3  ], {"Ressuscitar"  : 2, "recovery_up"      : 1                  }],
         "chest": [[4  ], {"dragon_attack": 2, "recovery_up"      : 1                  }],
         "arms":  [[4,2], {"dragon_attack": 1, "steadiness"       : 2                  }],
         "waist": [[4  ], {"dragon_attack": 2, "dragon_resistance": 3                  }],
-        "legs":  [[2,2], {"resuscitate"  : 1, "steadiness"       : 1, "recovery_up": 1}]
+        "legs":  [[2,2], {"Ressuscitar"  : 1, "steadiness"       : 1, "recovery_up": 1}]
     },
     "defenses": {"defLvl1": 86, "f":-1, "w":-1, "t":-1, "i":-1, "d":4}
 }],
@@ -3288,8 +3288,8 @@
 
     "pieces": {
         "head":  [[1,1,1], {"fortify"      : 1, "defense_boost": 3, "speed_eating": 1}],
-        "chest": [[4    ], {"counterstrike": 1, "resentment"   : 1                   }],
-        "arms":  [[1,1  ], {"counterstrike": 1, "defense_boost": 1, "resentment"  : 2}],
+        "chest": [[4    ], {"counterstrike": 1, "Indignação"   : 1                   }],
+        "arms":  [[1,1  ], {"counterstrike": 1, "defense_boost": 1, "Indignação"  : 2}],
         "waist": [[2,1  ], {"counterstrike": 1, "defense_boost": 3, "speed_eating": 1}],
         "legs":  [[3,2,1], {"speed_eating" : 1                                       }]
     },
@@ -3612,11 +3612,11 @@
     "suffix": "",
 
     "pieces": {
-        "head":  [[3  ], {"resentment" : 1, "heroics"   : 2, "fire_attack": 3}],
-        "chest": [[4,1], {"resuscitate": 1, "heroics"   : 2                  }],
-        "arms":  [[3  ], {"resentment" : 1, "guard_up"  : 2, "heroics"    : 1}],
-        "waist": [[3,3], {"resuscitate": 1, "guard_up"  : 1                  }],
-        "legs":  [[3,3], {"resuscitate": 1, "resentment": 1                  }]
+        "head":  [[3  ], {"Indignação" : 1, "heroics"   : 2, "fire_attack": 3}],
+        "chest": [[4,1], {"Ressuscitar": 1, "heroics"   : 2                  }],
+        "arms":  [[3  ], {"Indignação" : 1, "guard_up"  : 2, "heroics"    : 1}],
+        "waist": [[3,3], {"Ressuscitar": 1, "guard_up"  : 1                  }],
+        "legs":  [[3,3], {"Ressuscitar": 1, "Indignação": 1                  }]
     },
     "defenses": {"defLvl1": 112, "f":5, "w":-5, "t":0, "i":-4, "d":0}
 }],
@@ -3633,11 +3633,11 @@
     "suffix": "",
 
     "pieces": {
-        "head":  [[4,2  ], {"weakness_exploit": 1, "resentment": 2                 }],
-        "chest": [[3,2  ], {"weakness_exploit": 1, "resentment": 1, "chain_crit": 1}],
-        "arms":  [[4    ], {"dereliction"     : 2, "resentment": 1                 }],
+        "head":  [[4,2  ], {"weakness_exploit": 1, "Indignação": 2                 }],
+        "chest": [[3,2  ], {"weakness_exploit": 1, "Indignação": 1, "chain_crit": 1}],
+        "arms":  [[4    ], {"dereliction"     : 2, "Indignação": 1                 }],
         "waist": [[4    ], {"weakness_exploit": 1, "chain_crit": 2                 }],
-        "legs":  [[3,2,2], {"dereliction"     : 1, "resentment": 1                 }]
+        "legs":  [[3,2,2], {"dereliction"     : 1, "Indignação": 1                 }]
     },
     "defenses": {"defLvl1": 126, "f":0, "w":3, "t":-2, "i":3, "d":-5}
 }]

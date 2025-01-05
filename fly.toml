@@ -1,7 +1,7 @@
 # fly.toml app configuration file generated for monster-hunter-rise-builder on 2025-01-05T02:10:14Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
-#
+# fly apps set monster-hunter-rise-builder
 
 app = 'monster-hunter-rise-builder'
 primary_region = 'gru'

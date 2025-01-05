@@ -41,7 +41,7 @@ import {
 
 import {
     __generated_skill__affinity_sliding,
-    __generated_skill__agitator,
+    __generated_skill__Agitador,
     __generated_skill__ammo_up,
     __generated_skill__artillery,
     __generated_skill__attack_boost,
@@ -125,8 +125,8 @@ import {
     __generated_skill__recovery_speed,
     __generated_skill__recovery_up,
     __generated_skill__reload_speed,
-    __generated_skill__resentment,
-    __generated_skill__resuscitate,
+    __generated_skill__Indignação,
+    __generated_skill__Ressuscitar,
     __generated_skill__sleep_attack,
     __generated_skill__sleep_resistance,
     __generated_skill__slugger,
@@ -6695,7 +6695,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "lr",
             decorationSlots: [],
             skills: [
-                [__generated_skill__agitator, 1],
+                [__generated_skill__Agitador, 1],
             ],
 
             defenseAtLevel1: 24,
@@ -6723,7 +6723,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [],
             skills: [
                 [__generated_skill__evade_window, 1],
-                [__generated_skill__agitator, 1],
+                [__generated_skill__Agitador, 1],
             ],
 
             defenseAtLevel1: 24,
@@ -6838,7 +6838,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "lr",
             decorationSlots: [],
             skills: [
-                [__generated_skill__agitator, 1],
+                [__generated_skill__Agitador, 1],
             ],
 
             defenseAtLevel1: 24,
@@ -6866,7 +6866,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [],
             skills: [
                 [__generated_skill__evade_window, 1],
-                [__generated_skill__agitator, 1],
+                [__generated_skill__Agitador, 1],
             ],
 
             defenseAtLevel1: 24,
@@ -7036,7 +7036,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "lr",
             decorationSlots: [],
             skills: [
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
                 [__generated_skill__counterstrike, 1],
             ],
 
@@ -7065,7 +7065,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [],
             skills: [
                 [__generated_skill__hellfire_cloak, 1],
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
             ],
 
             defenseAtLevel1: 28,
@@ -7147,7 +7147,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "lr",
             decorationSlots: [],
             skills: [
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
             ],
 
             defenseAtLevel1: 28,
@@ -7921,7 +7921,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "lr",
             decorationSlots: [],
             skills: [
-                [__generated_skill__agitator, 1],
+                [__generated_skill__Agitador, 1],
             ],
 
             defenseAtLevel1: 30,
@@ -8004,7 +8004,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [],
             skills: [
                 [__generated_skill__punishing_draw, 1],
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
             ],
 
             defenseAtLevel1: 30,
@@ -8031,7 +8031,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "lr",
             decorationSlots: [],
             skills: [
-                [__generated_skill__agitator, 1],
+                [__generated_skill__Agitador, 1],
             ],
 
             defenseAtLevel1: 30,
@@ -8485,7 +8485,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [1],
             skills: [
                 [__generated_skill__divine_blessing, 1],
-                [__generated_skill__resuscitate, 1],
+                [__generated_skill__Ressuscitar, 1],
             ],
 
             defenseAtLevel1: 30,
@@ -8598,7 +8598,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [1],
             skills: [
                 [__generated_skill__wall_runner, 2],
-                [__generated_skill__resuscitate, 1],
+                [__generated_skill__Ressuscitar, 1],
             ],
 
             defenseAtLevel1: 30,
@@ -14380,7 +14380,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
                 [__generated_skill__razor_sharp, 1],
                 [__generated_skill__spare_shot, 1],
                 [__generated_skill__evade_window, 1],
-                [__generated_skill__agitator, 1],
+                [__generated_skill__Agitador, 1],
             ],
 
             defenseAtLevel1: 52,
@@ -14435,7 +14435,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "hr",
             decorationSlots: [1],
             skills: [
-                [__generated_skill__agitator, 2],
+                [__generated_skill__Agitador, 2],
                 [__generated_skill__wirebug_whisperer, 1],
             ],
 
@@ -14464,7 +14464,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [1, 1],
             skills: [
                 [__generated_skill__evade_window, 1],
-                [__generated_skill__agitator, 1],
+                [__generated_skill__Agitador, 1],
             ],
 
             defenseAtLevel1: 52,
@@ -14527,7 +14527,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
                 [__generated_skill__razor_sharp, 1],
                 [__generated_skill__spare_shot, 1],
                 [__generated_skill__evade_window, 1],
-                [__generated_skill__agitator, 1],
+                [__generated_skill__Agitador, 1],
             ],
 
             defenseAtLevel1: 52,
@@ -14582,7 +14582,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "hr",
             decorationSlots: [1],
             skills: [
-                [__generated_skill__agitator, 2],
+                [__generated_skill__Agitador, 2],
                 [__generated_skill__wirebug_whisperer, 1],
             ],
 
@@ -14611,7 +14611,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [1, 1],
             skills: [
                 [__generated_skill__evade_window, 1],
-                [__generated_skill__agitator, 1],
+                [__generated_skill__Agitador, 1],
             ],
 
             defenseAtLevel1: 52,
@@ -15556,7 +15556,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "hr",
             decorationSlots: [2, 1],
             skills: [
-                [__generated_skill__resuscitate, 1],
+                [__generated_skill__Ressuscitar, 1],
             ],
 
             defenseAtLevel1: 60,
@@ -15584,7 +15584,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [1],
             skills: [
                 [__generated_skill__bubbly_dance, 1],
-                [__generated_skill__resuscitate, 1],
+                [__generated_skill__Ressuscitar, 1],
             ],
 
             defenseAtLevel1: 60,
@@ -15611,7 +15611,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "hr",
             decorationSlots: [2],
             skills: [
-                [__generated_skill__resuscitate, 1],
+                [__generated_skill__Ressuscitar, 1],
                 [__generated_skill__free_meal, 1],
             ],
 
@@ -16621,7 +16621,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "hr",
             decorationSlots: [2],
             skills: [
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
                 [__generated_skill__handicraft, 1],
                 [__generated_skill__flinch_free, 1],
             ],
@@ -16651,7 +16651,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [2],
             skills: [
                 [__generated_skill__hellfire_cloak, 1],
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
             ],
 
             defenseAtLevel1: 64,
@@ -16734,7 +16734,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [1, 1],
             skills: [
                 [__generated_skill__hellfire_cloak, 1],
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
                 [__generated_skill__flinch_free, 1],
             ],
 
@@ -16767,7 +16767,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [1, 1],
             skills: [
                 [__generated_skill__critical_draw, 1],
-                [__generated_skill__agitator, 1],
+                [__generated_skill__Agitador, 1],
             ],
 
             defenseAtLevel1: 64,
@@ -16795,7 +16795,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [2, 1],
             skills: [
                 [__generated_skill__critical_draw, 1],
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
             ],
 
             defenseAtLevel1: 64,
@@ -16851,7 +16851,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [2, 1],
             skills: [
                 [__generated_skill__punishing_draw, 1],
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
             ],
 
             defenseAtLevel1: 64,
@@ -16879,7 +16879,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [1],
             skills: [
                 [__generated_skill__punishing_draw, 1],
-                [__generated_skill__agitator, 3],
+                [__generated_skill__Agitador, 3],
             ],
 
             defenseAtLevel1: 64,
@@ -17898,7 +17898,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             skills: [
                 [__generated_skill__kushala_blessing, 1],
                 [__generated_skill__recovery_speed, 1],
-                [__generated_skill__agitator, 2],
+                [__generated_skill__Agitador, 2],
             ],
 
             defenseAtLevel1: 74,
@@ -18312,7 +18312,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [1, 1],
             skills: [
                 [__generated_skill__guard_up, 2],
-                [__generated_skill__agitator, 1],
+                [__generated_skill__Agitador, 1],
             ],
 
             defenseAtLevel1: 72,
@@ -19062,7 +19062,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [3, 1],
             skills: [
                 [__generated_skill__dragonheart, 1],
-                [__generated_skill__resuscitate, 2],
+                [__generated_skill__Ressuscitar, 2],
             ],
 
             defenseAtLevel1: 80,
@@ -19118,8 +19118,8 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [2],
             skills: [
                 [__generated_skill__dragonheart, 1],
-                [__generated_skill__resuscitate, 1],
-                [__generated_skill__resentment, 2],
+                [__generated_skill__Ressuscitar, 1],
+                [__generated_skill__Indignação, 2],
             ],
 
             defenseAtLevel1: 80,
@@ -19147,7 +19147,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [3, 1],
             skills: [
                 [__generated_skill__dragonheart, 1],
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
             ],
 
             defenseAtLevel1: 80,
@@ -19360,7 +19360,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [2],
             skills: [
                 [__generated_skill__divine_blessing, 2],
-                [__generated_skill__resuscitate, 1],
+                [__generated_skill__Ressuscitar, 1],
             ],
 
             defenseAtLevel1: 80,
@@ -19474,7 +19474,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [2],
             skills: [
                 [__generated_skill__wall_runner, 2],
-                [__generated_skill__resuscitate, 1],
+                [__generated_skill__Ressuscitar, 1],
                 [__generated_skill__affinity_sliding, 1],
             ],
 
@@ -20419,7 +20419,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [3],
             skills: [
                 [__generated_skill__diversion, 1],
-                [__generated_skill__agitator, 3],
+                [__generated_skill__Agitador, 3],
             ],
 
             defenseAtLevel1: 86,
@@ -20484,7 +20484,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [4, 1],
             skills: [
                 [__generated_skill__diversion, 1],
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
             ],
 
             defenseAtLevel1: 90,
@@ -20686,7 +20686,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "mr",
             decorationSlots: [3],
             skills: [
-                [__generated_skill__resuscitate, 2],
+                [__generated_skill__Ressuscitar, 2],
                 [__generated_skill__recovery_up, 1],
             ],
 
@@ -20798,7 +20798,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "mr",
             decorationSlots: [2, 2],
             skills: [
-                [__generated_skill__resuscitate, 1],
+                [__generated_skill__Ressuscitar, 1],
                 [__generated_skill__steadiness, 1],
                 [__generated_skill__recovery_up, 1],
             ],
@@ -21827,7 +21827,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [4],
             skills: [
                 [__generated_skill__counterstrike, 1],
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
             ],
 
             defenseAtLevel1: 86,
@@ -21856,7 +21856,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             skills: [
                 [__generated_skill__counterstrike, 1],
                 [__generated_skill__defense_boost, 1],
-                [__generated_skill__resentment, 2],
+                [__generated_skill__Indignação, 2],
             ],
 
             defenseAtLevel1: 86,
@@ -24202,7 +24202,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "mr",
             decorationSlots: [3],
             skills: [
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
                 [__generated_skill__heroics, 2],
                 [__generated_skill__fire_attack, 3],
             ],
@@ -24231,7 +24231,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "mr",
             decorationSlots: [4, 1],
             skills: [
-                [__generated_skill__resuscitate, 1],
+                [__generated_skill__Ressuscitar, 1],
                 [__generated_skill__heroics, 2],
             ],
 
@@ -24259,7 +24259,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "mr",
             decorationSlots: [3],
             skills: [
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
                 [__generated_skill__guard_up, 2],
                 [__generated_skill__heroics, 1],
             ],
@@ -24288,7 +24288,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "mr",
             decorationSlots: [3, 3],
             skills: [
-                [__generated_skill__resuscitate, 1],
+                [__generated_skill__Ressuscitar, 1],
                 [__generated_skill__guard_up, 1],
             ],
 
@@ -24316,8 +24316,8 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             tierID: "mr",
             decorationSlots: [3, 3],
             skills: [
-                [__generated_skill__resuscitate, 1],
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Ressuscitar, 1],
+                [__generated_skill__Indignação, 1],
             ],
 
             defenseAtLevel1: 112,
@@ -24349,7 +24349,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [4, 2],
             skills: [
                 [__generated_skill__weakness_exploit, 1],
-                [__generated_skill__resentment, 2],
+                [__generated_skill__Indignação, 2],
             ],
 
             defenseAtLevel1: 126,
@@ -24377,7 +24377,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [3, 2],
             skills: [
                 [__generated_skill__weakness_exploit, 1],
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
                 [__generated_skill__chain_crit, 1],
             ],
 
@@ -24406,7 +24406,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [4],
             skills: [
                 [__generated_skill__dereliction, 2],
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
             ],
 
             defenseAtLevel1: 126,
@@ -24462,7 +24462,7 @@ export const armourSetsArray: Readonly<ArmourSet[]> = [
             decorationSlots: [3, 2, 2],
             skills: [
                 [__generated_skill__dereliction, 1],
-                [__generated_skill__resentment, 1],
+                [__generated_skill__Indignação, 1],
             ],
 
             defenseAtLevel1: 126,

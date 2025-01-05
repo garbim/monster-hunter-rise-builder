@@ -159,7 +159,7 @@ function getMiscBuffContributions(
     if (miscBuffActive("Song: Affinity Up")) {
         affinityAdd += 20;
     }
-    if (miscBuffActive("Song: Elem. Attack Boost")) {
+    if (miscBuffActive("Song: Elem. Reforço de Ataque")) {
         eleMul *= 1.10;
     }
 

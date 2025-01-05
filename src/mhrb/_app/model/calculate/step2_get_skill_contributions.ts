@@ -244,8 +244,8 @@ function getSkillContributions(
             }
         }],
 
-        ["agitator", (lvl, lid)=>{
-            if (!calcState.skillIsActive("Agitator (AGI)")) return;
+        ["Agitador", (lvl, lid)=>{
+            if (!calcState.skillIsActive("Agitador (AGI)")) return;
             switch (lvl) {
                 case 1: v.rawAdd +=  4; v.affinityAdd +=  3; break;
                 case 2: v.rawAdd +=  8; v.affinityAdd +=  5; break;
@@ -379,7 +379,7 @@ function getSkillContributions(
                     invalidLevel(lid);
             }
             // TODO: Implement elemental resistances.
-            // TODO: Should Resuscitate also be active?
+            // TODO: Should Ressuscitar also be active?
         }],
 
         ["earplugs", nop],
@@ -500,7 +500,7 @@ function getSkillContributions(
         ["partbreaker", nop],
 
         ["peak_performance", (lvl, lid)=>{
-            if (!calcState.skillIsActive("Peak Performance (PP)")) return;
+            if (!calcState.skillIsActive("Desempenho Máximo (PP)")) return;
             switch (lvl) {
                 case 1: v.rawAdd +=  5; break;
                 case 2: v.rawAdd += 10; break;
@@ -540,8 +540,8 @@ function getSkillContributions(
             v.reloadSpeedLevel = lvl;
         }],
 
-        ["resentment", (lvl, lid)=>{
-            if (!calcState.skillIsActive("Resentment (RES)")) return;
+        ["Indignação", (lvl, lid)=>{
+            if (!calcState.skillIsActive("Indignação (RES)")) return;
             switch (lvl) {
                 case 1: v.rawAdd +=  5; break;
                 case 2: v.rawAdd += 10; break;
@@ -553,8 +553,8 @@ function getSkillContributions(
             }
         }],
 
-        ["resuscitate", (lvl, lid)=>{
-            if (!calcState.skillIsActive("Resuscitate (RSC)")) return;
+        ["Ressuscitar", (lvl, lid)=>{
+            if (!calcState.skillIsActive("Ressuscitar (RSC)")) return;
             switch (lvl) {
                 case 1: v.rawAdd +=  5; break;
                 case 2: v.rawAdd += 10; break;
@@ -589,7 +589,7 @@ function getSkillContributions(
         ["wall_runner", nop],
 
         ["weakness_exploit", (lvl, lid)=>{
-            if (!calcState.skillIsActive("Weakness Exploit (WEX)")) return;
+            if (!calcState.skillIsActive("Explor. de Fraqueza (WEX)")) return;
             switch (lvl) {
                 case 1: v.affinityAdd += 15; break;
                 case 2: v.affinityAdd += 30; break;
