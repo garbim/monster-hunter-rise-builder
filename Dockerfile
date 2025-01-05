@@ -1,8 +1,8 @@
 FROM node:18-slim
 
-WORKDIR /app
+WORKDIR /
 
-COPY package.json yarn.lock .yarnrc.yml ./
+COPY package.json ./
 COPY .yarn .yarn
 
 # Modificando esta linha para ser compatível com Yarn 3
@@ -18,7 +18,7 @@ RUN yarn build
 FROM nginx:alpine
 
 # Copy the built assets from builder stage
-COPY --from=0 ./ /usr/share/nginx/html
+COPY --from=0 / /usr/share/nginx/html
 
 # Copy nginx configuration
 COPY nginx.conf /etc/nginx/conf.d/default.conf
