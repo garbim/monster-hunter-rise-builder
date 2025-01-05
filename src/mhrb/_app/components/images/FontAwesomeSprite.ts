@@ -5,14 +5,12 @@
 
 import React from "react";
 const ele = React.createElement;
-/*
+
 import {
-    imgFASolidSprites,
-    imgFABrandsSprites,
+    imgFASolidSprites2,
+    imgFABrandsSprites2,
 } from "../../_images";
- */
-import imgFASolidSprites  from "../../../_images/fontawesome-free-web/sprites/solid.svg";
-import imgFABrandsSprites from "../../../_images/fontawesome-free-web/sprites/brands.svg";
+ 
 // TODO: Is prop forwarding here a good idea?
 
 type Props = {

@@ -15,6 +15,8 @@ import {
 
 import imgFASolidSprites  from "../_images/fontawesome-free-web/sprites/solid.svg";
 import imgFABrandsSprites from "../_images/fontawesome-free-web/sprites/brands.svg";
+import imgFASolidSprites2  from "../../public/images/solid.svg";
+import imgFABrandsSprites2 from "../../public/images/brands.svg";
 
 const imgPathMapEntries: [string, string][] = [];
 
@@ -970,5 +972,7 @@ export {
 
     imgFASolidSprites,
     imgFABrandsSprites,
+    imgFASolidSprites2,
+    imgFABrandsSprites2,
 };
 
