@@ -28,7 +28,7 @@ export function FontAwesomeSprite(props: Props) {
     console.assert(style.length > 0);
     console.assert(fragment.length > 0);
 
-    const spritesPath = (style === "solid") ? imgFASolidSprites : imgFABrandsSprites;
+    const spritesPath = (style === "solid") ? imgFASolidSprites2 : imgFABrandsSprites2;
 
     return ele("svg",
         otherProps,
