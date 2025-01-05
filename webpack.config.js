@@ -56,7 +56,7 @@ const config = (configArgs) => ({
             title: "MHR Builder",
             author: "simshadows",
             description: "A web-based build calculator for Monster Hunter Rise.",
-            canonical: "https://monsterhunter.simshadows.com/mhrb",
+            canonical: "https://monster-hunter-rise-builder.fly.dev/mhrb",
         })),
         new MiniCssExtractPlugin({
             filename: "[name].css",
