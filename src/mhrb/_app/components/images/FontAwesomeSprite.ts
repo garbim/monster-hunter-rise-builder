@@ -11,8 +11,8 @@ const ele = React.createElement;
     imgFABrandsSprites2
 } from "../../images";*/
 
-const imgFASolidSprites2  = "../../public/images/solid.svg";
-const imgFABrandsSprites2 = "../../public/images/brands.svg";
+const imgFASolidSprites2  = "./public/images/solid.svg";
+const imgFABrandsSprites2 = "./public/images/brands.svg";
  
 // TODO: Is prop forwarding here a good idea?
 
