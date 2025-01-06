@@ -522,13 +522,13 @@ def run():
     ###################
     # STEP 2: Weapons #
     ###################
-    #with mp.Pool(len(WEAPON_URLS)) as pool:
-    #    result = pool.map(op, WEAPON_URLS)
+    with mp.Pool(len(WEAPON_URLS)) as pool:
+        result = pool.map(op, WEAPON_URLS)
 
-    #    data = {}
-    #    for (weapon_category, obj) in result:
-    #        data[weapon_category] = obj
-    #    fwrite_json("downloaded_data/downloaded_data.json", data=data)
+        data = {}
+        for (weapon_category, obj) in result:
+            data[weapon_category] = obj
+        fwrite_json("downloaded_data/downloaded_data.json", data=data)
     return
 
 if __name__ == '__main__':
