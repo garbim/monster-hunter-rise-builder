@@ -52,7 +52,7 @@ module_dir_abs = os.path.dirname(os.path.abspath(__file__))
 def download(url):
     return BeautifulSoup(requests.get(url).content, "html.parser")
 
-def fwrite_json(path, data=Nenhum):
+def fwrite_json(path, data=None):
     with open(path, encoding="utf-8", mode="w") as f:
         f.write(json.dumps(data, sort_keys=True, indent=4))
     return
@@ -125,16 +125,16 @@ def scrape_weapon_category_page(weapon_category, url, tagset):
         weapon_page_url = c2.contents[1].contents[0].contents[0]["href"]
         decos = []
         elestat = {}
-        base_sharpness = Nenhum
-        max_sharpness = Nenhum
+        base_sharpness = None
+        max_sharpness = None
 
-        gunlance_stats = Nenhum
-        huntinghorn_songs = Nenhum
-        switchaxe_stats = Nenhum
-        chargeblade_stats = Nenhum
-        insectglaive_stats = Nenhum
-        bow_stats = Nenhum
-        bowgun_stats = Nenhum
+        gunlance_stats = None
+        huntinghorn_songs = None
+        switchaxe_stats = None
+        chargeblade_stats = None
+        insectglaive_stats = None
+        bow_stats = None
+        bowgun_stats = None
 
         num_decos = len(c2.contents[1].contents) - 1
         assert (num_decos >= 0) and (num_decos <= 3)
@@ -154,7 +154,7 @@ def scrape_weapon_category_page(weapon_category, url, tagset):
                     icon = c3.contents[0].contents[0]["src"]
                     elestat_value = int(c3.contents[1].strip())
 
-                    elestat_type = Nenhum
+                    elestat_type = None
                     if "ElementType1.png" in icon:
                         elestat_type = "fire"
                     elif "ElementType2.png" in icon:
@@ -174,7 +174,7 @@ def scrape_weapon_category_page(weapon_category, url, tagset):
                     elif "ElementType9.png" in icon:
                         elestat_type = "blast"
 
-                    assert elestat_type is not Nenhum
+                    assert elestat_type is not None
                     assert elestat_value > 0
 
                     assert elestat_type not in elestat
@@ -214,7 +214,7 @@ def scrape_weapon_category_page(weapon_category, url, tagset):
 
             # We see if there's a number at the end of the string
             substrs = special_mech_str.split()
-            phial_value = Nenhum
+            phial_value = None
             try:
                 phial_value = int(substrs[-1])
                 special_mech_str = " ".join(substrs[:-1])
@@ -246,7 +246,7 @@ def scrape_weapon_category_page(weapon_category, url, tagset):
             assert len(bow_stats["arc_shot"]) != 0
 
             bow_stats["charge_shot"] = []
-            bow_stats["base_charge_level_limit"] = Nenhum # We calculate this in the loop
+            bow_stats["base_charge_level_limit"] = None # We calculate this in the loop
             in_grey = False # For debugging
             for (i, c3) in enumerate(special_mech_2):
                 if len(c3.contents) == 0:
@@ -271,7 +271,7 @@ def scrape_weapon_category_page(weapon_category, url, tagset):
             bow_stats["compatible_coatings"] = {}
             def read_coating(c3, expected_coating_type):
                 coating_type_id = process_string_to_identifier(expected_coating_type)
-                compatibility = Nenhum # We calculate soon
+                compatibility = None # We calculate soon
 
                 classes = c3.get("class", [])
                 if len(classes) == 0:
@@ -318,7 +318,7 @@ def scrape_weapon_category_page(weapon_category, url, tagset):
             deviation_substrs = deviation_str.split()
             if len(deviation_substrs) == 2:
                 assert deviation_substrs[0] == "Deviation"
-                assert deviation_substrs[1] == "Nenhum" # Can only be Nenhum
+                assert deviation_substrs[1] == "None" # Can only be None
                 bowgun_stats["deviation"] = {
                     "severity": 0,
                     "left": False,
@@ -455,23 +455,23 @@ def scrape_weapon_category_page(weapon_category, url, tagset):
         data["name"] = str(weapon_name)
         data["decos"] = decos
         data["elestat"] = elestat
-        if base_sharpness is not Nenhum:
+        if base_sharpness is not None:
             data["base_sharpness"] = base_sharpness
-        if max_sharpness is not Nenhum:
+        if max_sharpness is not None:
             data["max_sharpness"] = max_sharpness
-        if gunlance_stats is not Nenhum:
+        if gunlance_stats is not None:
             data["gunlance_stats"] = gunlance_stats
-        if huntinghorn_songs is not Nenhum:
+        if huntinghorn_songs is not None:
             data["huntinghorn_songs"] = huntinghorn_songs
-        if switchaxe_stats is not Nenhum:
+        if switchaxe_stats is not None:
             data["switchaxe_stats"] = switchaxe_stats
-        if chargeblade_stats is not Nenhum:
+        if chargeblade_stats is not None:
             data["chargeblade_stats"] = chargeblade_stats
-        if insectglaive_stats is not Nenhum:
+        if insectglaive_stats is not None:
             data["insectglaive_stats"] = insectglaive_stats
-        if bow_stats is not Nenhum:
+        if bow_stats is not None:
             data["bow_stats"] = bow_stats
-        if bowgun_stats is not Nenhum:
+        if bowgun_stats is not None:
             data["bowgun_stats"] = bowgun_stats
 
         ret.append(data)
