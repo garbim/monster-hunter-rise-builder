@@ -27,20 +27,20 @@ import multiprocessing as mp
 from bs4 import BeautifulSoup, NavigableString
 
 WEAPON_URLS = [
-    ("greatsword"    , "https://mhrise.kiranico.com/data/weapons?scope=wp&value=0" , {"elestat", "melee"}),
-    ("longsword"     , "https://mhrise.kiranico.com/data/weapons?scope=wp&value=3" , {"elestat", "melee"}),
-    ("swordandshield", "https://mhrise.kiranico.com/data/weapons?scope=wp&value=1" , {"elestat", "melee"}),
-    ("dualblades"    , "https://mhrise.kiranico.com/data/weapons?scope=wp&value=2" , {"elestat", "melee"}),
-    ("lance"         , "https://mhrise.kiranico.com/data/weapons?scope=wp&value=6" , {"elestat", "melee"}),
-    ("gunlance"      , "https://mhrise.kiranico.com/data/weapons?scope=wp&value=7" , {"elestat", "melee"}),
-    ("hammer"        , "https://mhrise.kiranico.com/data/weapons?scope=wp&value=4" , {"elestat", "melee"}),
-    ("huntinghorn"   , "https://mhrise.kiranico.com/data/weapons?scope=wp&value=5" , {"elestat", "melee"}),
-    ("switchaxe"     , "https://mhrise.kiranico.com/data/weapons?scope=wp&value=8" , {"elestat", "melee"}),
-    ("chargeblade"   , "https://mhrise.kiranico.com/data/weapons?scope=wp&value=9" , {"elestat", "melee"}),
-    ("insectglaive"  , "https://mhrise.kiranico.com/data/weapons?scope=wp&value=10", {"elestat", "melee"}),
-    ("lightbowgun"   , "https://mhrise.kiranico.com/data/weapons?scope=wp&value=13", set()),
-    ("heavybowgun"   , "https://mhrise.kiranico.com/data/weapons?scope=wp&value=12", set()),
-    ("bow"           , "https://mhrise.kiranico.com/data/weapons?scope=wp&value=11", {"elestat"}),
+    ("greatsword"    , "https://mhrise.kiranico.com/pt-BR/data/weapons?scope=wp&value=0" , {"elestat", "melee"}),
+    ("longsword"     , "https://mhrise.kiranico.com/pt-BR/data/weapons?scope=wp&value=3" , {"elestat", "melee"}),
+    ("swordandshield", "https://mhrise.kiranico.com/pt-BR/data/weapons?scope=wp&value=1" , {"elestat", "melee"}),
+    ("dualblades"    , "https://mhrise.kiranico.com/pt-BR/data/weapons?scope=wp&value=2" , {"elestat", "melee"}),
+    ("lance"         , "https://mhrise.kiranico.com/pt-BR/data/weapons?scope=wp&value=6" , {"elestat", "melee"}),
+    ("gunlance"      , "https://mhrise.kiranico.com/pt-BR/data/weapons?scope=wp&value=7" , {"elestat", "melee"}),
+    ("hammer"        , "https://mhrise.kiranico.com/pt-BR/data/weapons?scope=wp&value=4" , {"elestat", "melee"}),
+    ("huntinghorn"   , "https://mhrise.kiranico.com/pt-BR/data/weapons?scope=wp&value=5" , {"elestat", "melee"}),
+    ("switchaxe"     , "https://mhrise.kiranico.com/pt-BR/data/weapons?scope=wp&value=8" , {"elestat", "melee"}),
+    ("chargeblade"   , "https://mhrise.kiranico.com/pt-BR/data/weapons?scope=wp&value=9" , {"elestat", "melee"}),
+    ("insectglaive"  , "https://mhrise.kiranico.com/pt-BR/data/weapons?scope=wp&value=10", {"elestat", "melee"}),
+    ("lightbowgun"   , "https://mhrise.kiranico.com/pt-BR/data/weapons?scope=wp&value=13", set()),
+    ("heavybowgun"   , "https://mhrise.kiranico.com/pt-BR/data/weapons?scope=wp&value=12", set()),
+    ("bow"           , "https://mhrise.kiranico.com/pt-BR/data/weapons?scope=wp&value=11", {"elestat"}),
 ]
 
 module_dir_abs = os.path.dirname(os.path.abspath(__file__))
@@ -515,7 +515,7 @@ def run():
     #######################
     # STEP 1: Decorations #
     #######################
-    deco_data = scrape_decos_page("https://mhrise.kiranico.com/data/decorations")
+    deco_data = scrape_decos_page("https://mhrise.kiranico.com/pt-BR/data/decorations")
     fwrite_json("downloaded_data/downloaded_data_decorations.json", data=deco_data)
     print("----------------------\n")
 
