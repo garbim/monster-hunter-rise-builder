@@ -1,25 +1,33 @@
-FROM node:18-alpine
-
-# Define o diretório de trabalho
+# Dockerfile.build
+FROM node:18-alpine as build
 WORKDIR /app
-
-# Instala Python e cria um link simbólico para garantir que python3 funcione
 RUN apk add --no-cache python3 && ln -sf python3 /usr/bin/python
 
-# Copia os arquivos necessários
-COPY package.json ./
+# Copia apenas os scripts e dados necessários para o scraping
+COPY dev_script/mhrd/kiranico_scrape ./dev_script/mhrd/kiranico_scrape
+RUN python3 dev_script/mhrd/kiranico_scrape/kiranico_scrape.py && \
+    python3 dev_script/mhrd/kiranico_scrape/process_downloaded_data.py
 
-# Instala o Yarn e as dependências
+# Dockerfile
+FROM node:18-alpine
+WORKDIR /app
+
+# Instala Python
+RUN apk add --no-cache python3 && ln -sf python3 /usr/bin/python
+
+# Copia os dados processados do estágio anterior
+COPY --from=build /app/data ./data
+
+# Copia e instala dependências
+COPY package.json ./
 RUN yarn install
 
-# Copia o restante dos arquivos do projeto
+# Copia o restante dos arquivos
 COPY . .
 
-# Compila o aplicativo para produção
+# Build da aplicação
 RUN yarn build
 
-# Define a porta usada pela aplicação
+# Configuração do servidor
 EXPOSE 8080
-
-# Comando para iniciar o servidor Python na interface 0.0.0.0 e porta 8080
 CMD ["python3", "-m", "http.server", "8080", "--bind", "0.0.0.0", "--directory", "./dist"]
