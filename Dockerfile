@@ -4,6 +4,7 @@ WORKDIR /app
 RUN apk add --no-cache python3 && ln -sf python3 /usr/bin/python
 
 RUN apk add --no-cache py3-requests py3-beautifulsoup4
+RUN apk add --no-cache gcompat
 # Copia toda a pasta dev_script
 COPY dev_scripts ./dev_scripts
 RUN python3 dev_scripts/mhrb/kiranico_scrape/kiranico_scrape.py && \

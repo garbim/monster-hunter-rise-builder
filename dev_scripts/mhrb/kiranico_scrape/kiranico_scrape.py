@@ -522,7 +522,10 @@ def run():
     ###################
     # STEP 2: Weapons #
     ###################
-    with mp.Pool(len(WEAPON_URLS)) as pool:
+    ## comentado para ver se o codigo de baixo funciona
+    #with mp.Pool(len(WEAPON_URLS)) as pool:
+    #    result = pool.map(op, WEAPON_URLS)
+    with mp.Pool(min(len(WEAPON_URLS), 14)) as pool:
         result = pool.map(op, WEAPON_URLS)
 
         data = {}
