@@ -3,6 +3,9 @@ FROM node:18-alpine as build
 WORKDIR /app
 RUN apk add --no-cache python3 && ln -sf python3 /usr/bin/python
 
+RUN python3 -m pip install requests
+RUN python3 -m pip install beautifulsoup4
+
 # Copia toda a pasta dev_script
 COPY dev_scripts ./dev_scripts
 RUN python3 dev_scripts/mhrb/kiranico_scrape/kiranico_scrape.py && \
