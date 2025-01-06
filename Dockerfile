@@ -5,8 +5,8 @@ RUN apk add --no-cache python3 && ln -sf python3 /usr/bin/python
 
 # Copia toda a pasta dev_script
 COPY dev_script ./dev_script
-RUN python3 dev_script/mhrd/kiranico_scrape/kiranico_scrape.py && \
-    python3 dev_script/mhrd/kiranico_scrape/process_downloaded_data.py
+RUN python3 dev_scripts/mhrb/kiranico_scrape/kiranico_scrape.py && \
+    python3 dev_scripts/mhrb/kiranico_scrape/process_downloaded_data.py
 
 # Dockerfile
 FROM node:18-alpine
