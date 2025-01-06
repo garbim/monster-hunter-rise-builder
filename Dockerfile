@@ -1,10 +1,12 @@
 # Dockerfile.build
 FROM node:18-alpine as build
 WORKDIR /app
-RUN apk add --no-cache python3 && ln -sf python3 /usr/bin/python
+# Instalar Python 3 e pip
+RUN apk add --no-cache python3 py3-pip && \
+    ln -sf python3 /usr/bin/python
 
-RUN python3 -m pip install requests
-RUN python3 -m pip install beautifulsoup4
+# Instalar bibliotecas Python necessárias
+RUN python3 -m pip install --no-cache-dir requests beautifulsoup4
 
 # Copia toda a pasta dev_script
 COPY dev_scripts ./dev_scripts
