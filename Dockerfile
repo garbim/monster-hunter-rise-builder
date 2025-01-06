@@ -3,8 +3,8 @@ FROM node:18-alpine as build
 WORKDIR /app
 RUN apk add --no-cache python3 && ln -sf python3 /usr/bin/python
 
-# Copia apenas os scripts e dados necessários para o scraping
-COPY dev_script/mhrd/kiranico_scrape ./dev_script/mhrd/kiranico_scrape
+# Copia toda a pasta dev_script
+COPY dev_script ./dev_script
 RUN python3 dev_script/mhrd/kiranico_scrape/kiranico_scrape.py && \
     python3 dev_script/mhrd/kiranico_scrape/process_downloaded_data.py
 
