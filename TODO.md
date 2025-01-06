@@ -12,7 +12,7 @@
 
     - I tested all bowgun rampage weapon rampage skills.
     - Narwa Soul rampage skill with various numbers of Ibushi armour
-        - Tested with `Raiobolt Great Sword I`
+        - Tested with `Thunderbolt Great Sword I`
         - No pieces --> 0% affinity, add head --> 4%, add arms --> 6%, add waist --> 10%, add legs --> 12%, add chest --> 40%
         - any piece on its own --> 4%
 
@@ -49,9 +49,9 @@
         - `Shrapnel Ammo 1`: `8`
         - `Shrapnel Ammo 2`: `6`
         - `Shrapnel Ammo 3`: `3`
-    - `Fogo Effect I`
+    - `Fire Effect I`
         - `Flaming Ammo`: `5`
-        - (Similarly for `Water Effect I`, `Raio Effect I`, and `Gelo Effect I`)
+        - (Similarly for `Water Effect I`, `Thunder Effect I`, and `Ice Effect I`)
 - `Rampage H. Bowgun II`
     - *Includes all the same as `Rampage H. Bowgun I`.*
     - `Recoil Down Boost`
@@ -123,10 +123,10 @@
         - `Shrapnel Ammo 1`: `7`
         - `Shrapnel Ammo 2`: `5`
         - `Shrapnel Ammo 3`: `2`
-    - `Fogo Effect I`
+    - `Fire Effect I`
         - `Flaming Ammo`: `4`
-        - (Similarly for `Water Effect I`, `Raio Effect I`, and `Gelo Effect I`)
-    - `Rapid Fogo (Normal)`
+        - (Similarly for `Water Effect I`, `Thunder Effect I`, and `Ice Effect I`)
+    - `Rapid Fire (Normal)`
         - `Normal Ammo 1` is now rapid fire
         - `Normal Ammo 2` is now rapid fire
 - `Rampage L. Bowgun II`

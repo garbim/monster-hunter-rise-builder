@@ -40,85 +40,85 @@ import {type RampageSkill} from "../../common/types";
 export const __generated_ramp__fire_boost_1: RampageSkill = {
     id: "fire_boost_1",
     shortID: "fib1",
-    name: "Fogo Boost I",
+    name: "Fire Boost I",
 };
 
 export const __generated_ramp__fire_boost_2: RampageSkill = {
     id: "fire_boost_2",
     shortID: "fib2",
-    name: "Fogo Boost II",
+    name: "Fire Boost II",
 };
 
 export const __generated_ramp__fire_boost_3: RampageSkill = {
     id: "fire_boost_3",
     shortID: "fib3",
-    name: "Fogo Boost III",
+    name: "Fire Boost III",
 };
 
 export const __generated_ramp__fire_boost_4: RampageSkill = {
     id: "fire_boost_4",
     shortID: "fib4",
-    name: "Fogo Boost IV",
+    name: "Fire Boost IV",
 };
 
 export const __generated_ramp__fire_1: RampageSkill = {
     id: "fire_1",
     shortID: "fix1",
-    name: "Fogo I",
+    name: "Fire I",
 };
 
 export const __generated_ramp__fire_2: RampageSkill = {
     id: "fire_2",
     shortID: "fix2",
-    name: "Fogo II",
+    name: "Fire II",
 };
 
 export const __generated_ramp__fire_3: RampageSkill = {
     id: "fire_3",
     shortID: "fix3",
-    name: "Fogo III",
+    name: "Fire III",
 };
 
 export const __generated_ramp__fire_4: RampageSkill = {
     id: "fire_4",
     shortID: "fix4",
-    name: "Fogo IV",
+    name: "Fire IV",
 };
 
 export const __generated_ramp__secondary_fire_1: RampageSkill = {
     id: "secondary_fire_1",
     shortID: "fis1",
-    name: "Secondary Fogo I",
+    name: "Secondary Fire I",
 };
 
 export const __generated_ramp__secondary_fire_2: RampageSkill = {
     id: "secondary_fire_2",
     shortID: "fis2",
-    name: "Secondary Fogo II",
+    name: "Secondary Fire II",
 };
 
 export const __generated_ramp__secondary_fire_3: RampageSkill = {
     id: "secondary_fire_3",
     shortID: "fis3",
-    name: "Secondary Fogo III",
+    name: "Secondary Fire III",
 };
 
 export const __generated_ramp__fire_effect_1: RampageSkill = {
     id: "fire_effect_1",
     shortID: "fie1",
-    name: "Fogo Effect I",
+    name: "Fire Effect I",
 };
 
 export const __generated_ramp__fire_effect_2: RampageSkill = {
     id: "fire_effect_2",
     shortID: "fie2",
-    name: "Fogo Effect II",
+    name: "Fire Effect II",
 };
 
 export const __generated_ramp__rapid_fire_fire: RampageSkill = {
     id: "rapid_fire_fire",
     shortID: "fir1",
-    name: "Rapid Fogo Fogo",
+    name: "Rapid Fire Fire",
 };
 
 export const __generated_ramp__water_boost_1: RampageSkill = {
@@ -202,175 +202,175 @@ export const __generated_ramp__water_effect_2: RampageSkill = {
 export const __generated_ramp__rapid_fire_water: RampageSkill = {
     id: "rapid_fire_water",
     shortID: "war1",
-    name: "Rapid Fogo Water",
+    name: "Rapid Fire Water",
 };
 
 export const __generated_ramp__thunder_boost_1: RampageSkill = {
     id: "thunder_boost_1",
     shortID: "thb1",
-    name: "Raio Boost I",
+    name: "Thunder Boost I",
 };
 
 export const __generated_ramp__thunder_boost_2: RampageSkill = {
     id: "thunder_boost_2",
     shortID: "thb2",
-    name: "Raio Boost II",
+    name: "Thunder Boost II",
 };
 
 export const __generated_ramp__thunder_boost_3: RampageSkill = {
     id: "thunder_boost_3",
     shortID: "thb3",
-    name: "Raio Boost III",
+    name: "Thunder Boost III",
 };
 
 export const __generated_ramp__thunder_boost_4: RampageSkill = {
     id: "thunder_boost_4",
     shortID: "thb4",
-    name: "Raio Boost IV",
+    name: "Thunder Boost IV",
 };
 
 export const __generated_ramp__thunder_1: RampageSkill = {
     id: "thunder_1",
     shortID: "thx1",
-    name: "Raio I",
+    name: "Thunder I",
 };
 
 export const __generated_ramp__thunder_2: RampageSkill = {
     id: "thunder_2",
     shortID: "thx2",
-    name: "Raio II",
+    name: "Thunder II",
 };
 
 export const __generated_ramp__thunder_3: RampageSkill = {
     id: "thunder_3",
     shortID: "thx3",
-    name: "Raio III",
+    name: "Thunder III",
 };
 
 export const __generated_ramp__thunder_4: RampageSkill = {
     id: "thunder_4",
     shortID: "thx4",
-    name: "Raio IV",
+    name: "Thunder IV",
 };
 
 export const __generated_ramp__secondary_thunder_1: RampageSkill = {
     id: "secondary_thunder_1",
     shortID: "ths1",
-    name: "Secondary Raio I",
+    name: "Secondary Thunder I",
 };
 
 export const __generated_ramp__secondary_thunder_2: RampageSkill = {
     id: "secondary_thunder_2",
     shortID: "ths2",
-    name: "Secondary Raio II",
+    name: "Secondary Thunder II",
 };
 
 export const __generated_ramp__secondary_thunder_3: RampageSkill = {
     id: "secondary_thunder_3",
     shortID: "ths3",
-    name: "Secondary Raio III",
+    name: "Secondary Thunder III",
 };
 
 export const __generated_ramp__thunder_effect_1: RampageSkill = {
     id: "thunder_effect_1",
     shortID: "the1",
-    name: "Raio Effect I",
+    name: "Thunder Effect I",
 };
 
 export const __generated_ramp__thunder_effect_2: RampageSkill = {
     id: "thunder_effect_2",
     shortID: "the2",
-    name: "Raio Effect II",
+    name: "Thunder Effect II",
 };
 
 export const __generated_ramp__rapid_fire_thunder: RampageSkill = {
     id: "rapid_fire_thunder",
     shortID: "thr1",
-    name: "Rapid Fogo Raio",
+    name: "Rapid Fire Thunder",
 };
 
 export const __generated_ramp__ice_boost_1: RampageSkill = {
     id: "ice_boost_1",
     shortID: "icb1",
-    name: "Gelo Boost I",
+    name: "Ice Boost I",
 };
 
 export const __generated_ramp__ice_boost_2: RampageSkill = {
     id: "ice_boost_2",
     shortID: "icb2",
-    name: "Gelo Boost II",
+    name: "Ice Boost II",
 };
 
 export const __generated_ramp__ice_boost_3: RampageSkill = {
     id: "ice_boost_3",
     shortID: "icb3",
-    name: "Gelo Boost III",
+    name: "Ice Boost III",
 };
 
 export const __generated_ramp__ice_boost_4: RampageSkill = {
     id: "ice_boost_4",
     shortID: "icb4",
-    name: "Gelo Boost IV",
+    name: "Ice Boost IV",
 };
 
 export const __generated_ramp__ice_1: RampageSkill = {
     id: "ice_1",
     shortID: "icx1",
-    name: "Gelo I",
+    name: "Ice I",
 };
 
 export const __generated_ramp__ice_2: RampageSkill = {
     id: "ice_2",
     shortID: "icx2",
-    name: "Gelo II",
+    name: "Ice II",
 };
 
 export const __generated_ramp__ice_3: RampageSkill = {
     id: "ice_3",
     shortID: "icx3",
-    name: "Gelo III",
+    name: "Ice III",
 };
 
 export const __generated_ramp__ice_4: RampageSkill = {
     id: "ice_4",
     shortID: "icx4",
-    name: "Gelo IV",
+    name: "Ice IV",
 };
 
 export const __generated_ramp__secondary_ice_1: RampageSkill = {
     id: "secondary_ice_1",
     shortID: "ics1",
-    name: "Secondary Gelo I",
+    name: "Secondary Ice I",
 };
 
 export const __generated_ramp__secondary_ice_2: RampageSkill = {
     id: "secondary_ice_2",
     shortID: "ics2",
-    name: "Secondary Gelo II",
+    name: "Secondary Ice II",
 };
 
 export const __generated_ramp__secondary_ice_3: RampageSkill = {
     id: "secondary_ice_3",
     shortID: "ics3",
-    name: "Secondary Gelo III",
+    name: "Secondary Ice III",
 };
 
 export const __generated_ramp__ice_effect_1: RampageSkill = {
     id: "ice_effect_1",
     shortID: "ice1",
-    name: "Gelo Effect I",
+    name: "Ice Effect I",
 };
 
 export const __generated_ramp__ice_effect_2: RampageSkill = {
     id: "ice_effect_2",
     shortID: "ice2",
-    name: "Gelo Effect II",
+    name: "Ice Effect II",
 };
 
 export const __generated_ramp__rapid_fire_ice: RampageSkill = {
     id: "rapid_fire_ice",
     shortID: "icr1",
-    name: "Rapid Fogo Gelo",
+    name: "Rapid Fire Ice",
 };
 
 export const __generated_ramp__dragon_boost_1: RampageSkill = {
@@ -454,7 +454,7 @@ export const __generated_ramp__dragon_effect_2: RampageSkill = {
 export const __generated_ramp__rapid_fire_dragon: RampageSkill = {
     id: "rapid_fire_dragon",
     shortID: "drr1",
-    name: "Rapid Fogo Dragão",
+    name: "Rapid Fire Dragão",
 };
 
 export const __generated_ramp__poison_boost_1: RampageSkill = {
@@ -1096,31 +1096,31 @@ export const __generated_ramp__add_normal_ammo_2: RampageSkill = {
 export const __generated_ramp__rapid_fire_normal: RampageSkill = {
     id: "rapid_fire_normal",
     shortID: "rfno",
-    name: "Rapid Fogo (Normal)",
+    name: "Rapid Fire (Normal)",
 };
 
 export const __generated_ramp__rapid_fire_piercing: RampageSkill = {
     id: "rapid_fire_piercing",
     shortID: "rfpi",
-    name: "Rapid Fogo (Piercing)",
+    name: "Rapid Fire (Piercing)",
 };
 
 export const __generated_ramp__rapid_fire_spread: RampageSkill = {
     id: "rapid_fire_spread",
     shortID: "rfsp",
-    name: "Rapid Fogo (Spread)",
+    name: "Rapid Fire (Spread)",
 };
 
 export const __generated_ramp__rapid_fire_shrapnel: RampageSkill = {
     id: "rapid_fire_shrapnel",
     shortID: "rfsh",
-    name: "Rapid Fogo (Shrapnel)",
+    name: "Rapid Fire (Shrapnel)",
 };
 
 export const __generated_ramp__rapid_fire_sticky: RampageSkill = {
     id: "rapid_fire_sticky",
     shortID: "rfst",
-    name: "Rapid Fogo (Sticky)",
+    name: "Rapid Fire (Sticky)",
 };
 
 export const __generated_ramp__recoil_down_boost: RampageSkill = {
@@ -1342,7 +1342,7 @@ export const __generated_ramp__small_monster_exploit: RampageSkill = {
 export const __generated_ramp__thunderblight_exploit: RampageSkill = {
     id: "thunderblight_exploit",
     shortID: "xthb",
-    name: "Raioblight Exploit",
+    name: "Thunderblight Exploit",
 };
 
 export const __generated_ramp__waterblight_exploit: RampageSkill = {

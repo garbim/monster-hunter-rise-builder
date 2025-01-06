@@ -8,7 +8,7 @@ Hardcoded parts for Longsword data
 # Specification to build the data
 # {category: [(tree name, parent_weapon_id, [(name, id, rarity), ...]), ...]}
 HARDCODED_LS_SPEC = [
-    ("Kamura Tree", Nenhum, [
+    ("Kamura Tree", None, [
         ("Kamura Blade I"    , "1a"),
         ("Kamura Blade II"   , "1b"),
         ("Kamura Blade III"  , "1c"),
@@ -51,7 +51,7 @@ HARDCODED_LS_SPEC = [
         ("Almudron Blade II", "8b"),
         ("Doom Bringer Blade", "8c"),
     ]),
-    ("Ore Tree", Nenhum, [
+    ("Ore Tree", None, [
         ("Iron Katana I", "9a"),
         ("Iron Katana II", "9b"),
         ("Iron Gospel", "9c"),
@@ -74,7 +74,7 @@ HARDCODED_LS_SPEC = [
         ("Hidden Saber II", "12b"),
         ("Deepest Night", "12c"),
     ]),
-    ("Raio Tree", "9b", [
+    ("Thunder Tree", "9b", [
         ("Eager Cleaver I", "13a"),
         ("Eager Cleaver II", "13b"),
         ("Devil Slicer", "13c"),
@@ -84,7 +84,7 @@ HARDCODED_LS_SPEC = [
         ("Kulu Katana II", "14b"),
         ("Kulu Slicer", "14c"),
     ]),
-    ("Gelo Tree", "14b", [
+    ("Ice Tree", "14b", [
         ("Chillblade I", "15a"),
         ("Chillblade II", "15b"),
         ("Rimeblossom", "15c"),
@@ -99,7 +99,7 @@ HARDCODED_LS_SPEC = [
         ("Wyvern Blade Blood II", "17b"),
         ("Wyvern Blade Maple", "17c"),
     ]),
-    ("Bone Tree", Nenhum, [
+    ("Bone Tree", None, [
         ("Serrated Jaw I", "18a"),
         ("Serrated Jaw II", "18b"),
         ("Serrated Maw", "18c"),
@@ -127,7 +127,7 @@ HARDCODED_LS_SPEC = [
         ("Ananta Blade II", "22b"),
         ("Shadow Slasher", "22c"),
     ]),
-    ("Bone Scythe Tree", Nenhum, [
+    ("Bone Scythe Tree", None, [
         ("Bone Scythe I", "23a"),
         ("Bone Scythe II", "23b"),
         ("Bone Reaper", "23c"),
@@ -174,62 +174,62 @@ HARDCODED_LS_SPEC = [
         ("Scythe of Menace II", "31b"),
         ("Big Menacing Scythe", "31c"),
     ]),
-    ("Magnamalo Tree", Nenhum, [
+    ("Magnamalo Tree", None, [
         ("Sinister Long Sword I", "32a"),
         ("Sinister Long Sword II", "32b"),
         ("Sinister Shade Sword", "32c"),
     ]),
-    ("Rajang Tree", Nenhum, [
+    ("Rajang Tree", None, [
         ("Demon Halberd I", "33a"),
         ("Demon Halberd II", "33b"),
         ("Great Demon Halberd", "33c"),
     ]),
-    ("Ibushi Tree", Nenhum, [
+    ("Ibushi Tree", None, [
         ("Azure Elder Long Sword I", "34a"),
         ("Azure Elder Long Sword II", "34b"),
         ("Abyssal Gale Sword", "34c"),
     ]),
-    ("Narwa Tree", Nenhum, [
-        ("Raiobolt Long Sword I", "35a"),
+    ("Narwa Tree", None, [
+        ("Thunderbolt Long Sword I", "35a"),
         ("Abyssal Storm Sword", "35b"),
     ]),
-    ("Bazelgeuse Tree", Nenhum, [
+    ("Bazelgeuse Tree", None, [
         ("Rookslayer Saber I", "36a"),
         ("Rookslayer Saber II", "36b"),
         ("Bazel Varga Rookslayer", "36c"),
     ]),
-    ("Kushala Daora Tree", Nenhum, [
+    ("Kushala Daora Tree", None, [
         ("Gelosteel Blade I", "37a"),
         ("Daora's Raid", "37b"),
     ]),
-    ("Teostra Tree", Nenhum, [
+    ("Teostra Tree", None, [
         ("Imperial Saber I", "38a"),
         ("Imperial Shimmer", "38b"),
     ]),
-    ("Chameleos Tree", Nenhum, [
+    ("Chameleos Tree", None, [
         ("Mirage Finsword I", "39a"),
         ("Phantom Mirage", "39b"),
     ]),
-    ("Valstrax Tree", Nenhum, [
+    ("Valstrax Tree", None, [
         ("Redwing Long Sword I", "40a"),
         ("Reddnaught Blade", "40b"),
     ]),
-    ("Death Stench Tree", Nenhum, [
+    ("Death Stench Tree", None, [
         ("Cawscythe I", "41a"),
         ("Cawscythe II", "41b"),
         ("Cawscythe III", "41c"),
         ("Squawkscythe", "41d"),
     ]),
-    ("Hand-Me-Down Tree", Nenhum, [
+    ("Hand-Me-Down Tree", None, [
         ("Hand-Me-Down Sword I", "42a"),
         ("Hand-Me-Down Sword II", "42b"),
         ("Kamura's Inheritance", "42c"),
     ]),
-    ("<TODO: Find out the name of this tree.>", Nenhum, [
+    ("<TODO: Find out the name of this tree.>", None, [
         ("Azure Star Blade I", "43a"),
         ("Azure Star \"Dragão Dance\"", "43b"),
     ]),
-    ("Rampage Tree", Nenhum, [
+    ("Rampage Tree", None, [
         ("Rampage Blade I"  , "ra"),
         ("Rampage Blade II" , "rb"),
         ("Rampage Blade III", "rc"),

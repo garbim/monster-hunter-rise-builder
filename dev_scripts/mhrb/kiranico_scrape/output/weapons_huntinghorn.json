@@ -497,7 +497,7 @@
             "rarity": 6,
             "endlineTag": "hr",
 
-            "name": "Despot's Raioclap",
+            "name": "Despot's Thunderclap",
             "attack": 180,
             "affinity": 0,
             "defense": 0,
@@ -2515,7 +2515,7 @@
             "huntinghornSongs": {"a_a":"tremors_negated", "x_x":"defense_up", "xa_xa":"health_recovery_s"}
         }
     },
-    "Bnahabra (Gelo)": {
+    "Bnahabra (Ice)": {
         "27a": {
             "rarity": 1,
             "endlineTag": "",
@@ -2832,7 +2832,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Raiobolt Horn I",
+            "name": "Thunderbolt Horn I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,

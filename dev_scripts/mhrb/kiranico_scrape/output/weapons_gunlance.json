@@ -3011,7 +3011,7 @@
             }
         }
     },
-    "Bnahabra (Gelo)": {
+    "Bnahabra (Ice)": {
         "28a": {
             "rarity": 2,
             "endlineTag": "",
@@ -3462,7 +3462,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Raiobolt Gunlance I",
+            "name": "Thunderbolt Gunlance I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,

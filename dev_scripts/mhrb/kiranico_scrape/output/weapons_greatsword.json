@@ -1115,7 +1115,7 @@
             "maxSharpness": [80,40,90,70,50,20]
         }
     },
-    "Fogo Tree": {
+    "Fire Tree": {
         "13a": {
             "rarity": 2,
             "endlineTag": "",
@@ -2685,7 +2685,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Raiobolt Great Sword I",
+            "name": "Thunderbolt Great Sword I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,

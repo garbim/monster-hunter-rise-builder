@@ -395,27 +395,27 @@
 {
     "id": "rapid_fire_normal",
     "shortID": "rfno",
-    "name": "Rapid Fogo (Normal)"
+    "name": "Rapid Fire (Normal)"
 },
 {
     "id": "rapid_fire_piercing",
     "shortID": "rfpi",
-    "name": "Rapid Fogo (Piercing)"
+    "name": "Rapid Fire (Piercing)"
 },
 {
     "id": "rapid_fire_spread",
     "shortID": "rfsp",
-    "name": "Rapid Fogo (Spread)"
+    "name": "Rapid Fire (Spread)"
 },
 {
     "id": "rapid_fire_shrapnel",
     "shortID": "rfsh",
-    "name": "Rapid Fogo (Shrapnel)"
+    "name": "Rapid Fire (Shrapnel)"
 },
 {
     "id": "rapid_fire_sticky",
     "shortID": "rfst",
-    "name": "Rapid Fogo (Sticky)"
+    "name": "Rapid Fire (Sticky)"
 },
 {
     "id": "recoil_down_boost",
@@ -603,7 +603,7 @@
 {
     "id": "thunderblight_exploit",
     "shortID": "xthb",
-    "name": "Raioblight Exploit"
+    "name": "Thunderblight Exploit"
 },
 {
     "id": "waterblight_exploit",

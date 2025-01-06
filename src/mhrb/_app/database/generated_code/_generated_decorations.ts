@@ -1034,7 +1034,7 @@ export const decosArray: Readonly<Decoration[]> = [
     },
     {
         id: 161,
-        name: "Hard Fogo Res Jewel 4",
+        name: "Hard Fire Res Jewel 4",
 
         slotSize: 4,
         rarity: 8,
@@ -1064,7 +1064,7 @@ export const decosArray: Readonly<Decoration[]> = [
     },
     {
         id: 163,
-        name: "Hard Raio Res Jewel 4",
+        name: "Hard Thunder Res Jewel 4",
 
         slotSize: 4,
         rarity: 8,
@@ -1079,7 +1079,7 @@ export const decosArray: Readonly<Decoration[]> = [
     },
     {
         id: 164,
-        name: "Hard Gelo Res Jewel 4",
+        name: "Hard Ice Res Jewel 4",
 
         slotSize: 4,
         rarity: 8,
@@ -2564,7 +2564,7 @@ export const decosArray: Readonly<Decoration[]> = [
     },
     {
         id: 97,
-        name: "Fogo Res Jewel 1",
+        name: "Fire Res Jewel 1",
 
         slotSize: 1,
         rarity: 4,
@@ -2594,7 +2594,7 @@ export const decosArray: Readonly<Decoration[]> = [
     },
     {
         id: 99,
-        name: "Raio Res Jewel 1",
+        name: "Thunder Res Jewel 1",
 
         slotSize: 1,
         rarity: 4,
@@ -2609,7 +2609,7 @@ export const decosArray: Readonly<Decoration[]> = [
     },
     {
         id: 100,
-        name: "Gelo Res Jewel 1",
+        name: "Ice Res Jewel 1",
 
         slotSize: 1,
         rarity: 4,

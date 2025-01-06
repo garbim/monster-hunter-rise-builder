@@ -188,7 +188,7 @@ class RampageSkillSelection extends React.Component<any, any> {
 
         check.isFunction(this.props.handleSelectRampSkill);
 
-        const text = (this.props.selectedRampSkillRO === null) ? "Nenhum" : this.props.selectedRampSkillRO.name;
+        const text = (this.props.selectedRampSkillRO === null) ? "None" : this.props.selectedRampSkillRO.name;
 
         if (this.state.ttl > 0) {
             return element("div",

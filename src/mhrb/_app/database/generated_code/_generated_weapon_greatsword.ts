@@ -1662,7 +1662,7 @@ const __generated_greatsword__13a: Greatsword = {
     id: "13a",
 
     name: "Barbaroi Blade I",
-    treeName: "Fogo Tree",
+    treeName: "Fire Tree",
     rarity: 2,
     endlineTag: "",
 
@@ -1697,7 +1697,7 @@ const __generated_greatsword__13b: Greatsword = {
     id: "13b",
 
     name: "Barbaroi Blade II",
-    treeName: "Fogo Tree",
+    treeName: "Fire Tree",
     rarity: 3,
     endlineTag: "",
 
@@ -1732,7 +1732,7 @@ const __generated_greatsword__13c: Greatsword = {
     id: "13c",
 
     name: "Crimson Goat",
-    treeName: "Fogo Tree",
+    treeName: "Fire Tree",
     rarity: 5,
     endlineTag: "hr",
 
@@ -3778,7 +3778,7 @@ const __generated_greatsword__32a: Greatsword = {
     category: "greatsword",
     id: "32a",
 
-    name: "Raiobolt Great Sword I",
+    name: "Thunderbolt Great Sword I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",

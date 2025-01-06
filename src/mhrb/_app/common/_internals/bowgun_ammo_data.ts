@@ -55,11 +55,11 @@ const hardcodedAmmoTypes: BowgunAmmoInfo[] = [
     },
     {
         id: "piercing_fire",
-        name: "Piercing Fogo Ammo",
-        shortName: "P. Fogo",
+        name: "Piercing Fire Ammo",
+        shortName: "P. Fire",
     },
     ...generateBowgunEleAmmoTypes("water"  , "Water"),
-    ...generateBowgunEleAmmoTypes("thunder", "Raio"),
+    ...generateBowgunEleAmmoTypes("thunder", "Thunder"),
     {
         id: "ice",
         name: "Freeze Ammo",
@@ -67,8 +67,8 @@ const hardcodedAmmoTypes: BowgunAmmoInfo[] = [
     },
     {
         id: "piercing_ice",
-        name: "Piercing Gelo Ammo",
-        shortName: "P. Gelo",
+        name: "Piercing Ice Ammo",
+        shortName: "P. Ice",
     },
     ...generateBowgunEleAmmoTypes("dragon" , "Dragão"),
 

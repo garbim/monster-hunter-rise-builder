@@ -1346,7 +1346,7 @@
             "maxSharpness": [60,40,190,50,40,20]
         }
     },
-    "Raio Tree": {
+    "Thunder Tree": {
         "16a": {
             "rarity": 4,
             "endlineTag": "",
@@ -1511,7 +1511,7 @@
             "maxSharpness": [100,50,50,80,60,10]
         }
     },
-    "Fogo Tree": {
+    "Fire Tree": {
         "18a": {
             "rarity": 1,
             "endlineTag": "",
@@ -2775,7 +2775,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Raiobolt Spear I",
+            "name": "Thunderbolt Spear I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,

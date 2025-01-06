@@ -8,7 +8,7 @@ Hardcoded parts for Bow data
 # Specification to build the data
 # {category: [(tree name, parent_weapon_id, [(name, id, rarity), ...]), ...]}
 HARDCODED_B_SPEC = [
-    ("Kamura Tree", Nenhum, [
+    ("Kamura Tree", None, [
         ("Kamura Iron Bow I"  , "1a"),
         ("Kamura Iron Bow II" , "1b"),
         ("Kamura Iron Bow III", "1c"),
@@ -43,9 +43,9 @@ HARDCODED_B_SPEC = [
         ("Flying Kadachi Striker", "6d"),
     ]),
     ("Barioth Tree", "1c", [
-        ("Gelo Crest I", "7a"),
-        ("Gelo Crest II", "7b"),
-        ("Gelo Crest III", "7c"),
+        ("Ice Crest I", "7a"),
+        ("Ice Crest II", "7b"),
+        ("Ice Crest III", "7c"),
         ("Edelweiss", "7d"),
     ]),
     ("Wroggi Tree", "1b", [
@@ -58,7 +58,7 @@ HARDCODED_B_SPEC = [
         ("Arzuros Bow II", "9b"),
         ("Arzuros' Honeypot", "9c"),
     ]),
-    ("Ore Tree", Nenhum, [
+    ("Ore Tree", None, [
         ("Iron Bow I", "10a"),
         ("Iron Bow II", "10b"),
         ("Steel Bow", "10c"),
@@ -71,7 +71,7 @@ HARDCODED_B_SPEC = [
         ("Yekla Arc II", "11b"),
         ("Herald's Battlebow", "11c"),
     ]),
-    ("Gelo Tree", "10d", [
+    ("Ice Tree", "10d", [
         ("Crystalline Flower I", "12a"),
         ("Crystalline Flower II", "12b"),
         ("Heaven's Glaze", "12c"),
@@ -101,7 +101,7 @@ HARDCODED_B_SPEC = [
         ("Khezu Bow II", "17b"),
         ("Galvanized Core", "17c"),
     ]),
-    ("Bone Tree", Nenhum, [
+    ("Bone Tree", None, [
         ("Bone Gun I", "18a"),
         ("Bone Gun II", "18b"),
         ("Hyper Bone Gun", "18c"),
@@ -145,7 +145,7 @@ HARDCODED_B_SPEC = [
         ("Baggi Bow II", "25b"),
         ("Hypnoshot", "25c"),
     ]),
-    ("Bnahabra Tree", Nenhum, [
+    ("Bnahabra Tree", None, [
         ("Arko Nulo I", "26a"),
         ("Arko Nulo II", "26b"),
         ("Arko Unu", "26c"),
@@ -153,91 +153,91 @@ HARDCODED_B_SPEC = [
         ("Arko Nulo Black II", "26e"),
         ("Arko Unu Black", "26f"),
     ]),
-    ("Bnahabra (Raio)", "26c", [
+    ("Bnahabra (Thunder)", "26c", [
         ("Arko Nulo Yellow I", "27a"),
         ("Arko Nulo Yellow II", "27b"),
         ("Arko Unu Yellow", "27c"),
     ]),
-    ("Bnahabra (Fogo)", "26a", [
+    ("Bnahabra (Fire)", "26a", [
         ("Arko Nulo Red I", "28a"),
         ("Arko Nulo Red II", "28b"),
         ("Arko Unu Red", "28c"),
     ]),
-    ("Bnahabra (Gelo)", "26a", [
+    ("Bnahabra (Ice)", "26a", [
         ("Arko Nulo White I", "29a"),
         ("Arko Nulo White II", "29b"),
         ("Arko Unu White", "29c"),
     ]),
-    ("Magnamalo Tree", Nenhum, [
+    ("Magnamalo Tree", None, [
         ("Sinister Bow I", "30a"),
         ("Sinister Bow II", "30b"),
         ("Sinister Soulpiercer", "30c"),
     ]),
-    ("Kelbi Tree", Nenhum, [
+    ("Kelbi Tree", None, [
         ("Kelbi Stingshot I", "31a"),
         ("Kelbi Stingshot II", "31b"),
         ("Kelbi Strongshot", "31c"),
     ]),
-    ("Rajang Tree", Nenhum, [
-        ("Beast Raiobow I", "32a"),
-        ("Beast Raiobow II", "32b"),
-        ("Beastking Raiobow", "32c"),
+    ("Rajang Tree", None, [
+        ("Beast Thunderbow I", "32a"),
+        ("Beast Thunderbow II", "32b"),
+        ("Beastking Thunderbow", "32c"),
     ]),
-    ("Ibushi Tree", Nenhum, [
+    ("Ibushi Tree", None, [
         ("Azure Elder Bow I", "33a"),
         ("Azure Elder Bow II", "33b"),
         ("Abyssal Gale Bow", "33c"),
     ]),
-    ("Narwa Tree", Nenhum, [
-        ("Raiobolt Bow I", "34a"),
+    ("Narwa Tree", None, [
+        ("Thunderbolt Bow I", "34a"),
         ("Abyssal Storm Bow", "34b"),
     ]),
-    ("Kushala Daora Tree", Nenhum, [
+    ("Kushala Daora Tree", None, [
         ("Gelosteel Bow I", "35a"),
         ("Daora's Sagittarii", "35b"),
     ]),
-    ("Teostra Tree", Nenhum, [
+    ("Teostra Tree", None, [
         ("Bow of Hope & Valor I", "36a"),
         ("Bow of Light & Courage", "36b"),
     ]),
-    ("Chameleos Tree", Nenhum, [
+    ("Chameleos Tree", None, [
         ("Genie's Grimoire I", "37a"),
         ("Demon's Guidance", "37b"),
     ]),
-    ("Valstrax Tree", Nenhum, [
+    ("Valstrax Tree", None, [
         ("Redwing Bow I", "38a"),
         ("Reddnaught Dragão Arc", "38b"),
     ]),
-    ("Speartuna Tree", Nenhum, [
+    ("Speartuna Tree", None, [
         ("Morsel Bowfish I", "39a"),
         ("Morsel Bowfish II", "39b"),
         ("Ample Bowfish", "39c"),
     ]),
-    ("Felyne Tree", Nenhum, [
+    ("Felyne Tree", None, [
         ("Felyne Bow I", "40a"),
         ("Felyne Bow II", "40b"),
         ("Felyne Trickbow", "40c"),
     ]),
-    ("Chaos Tree", Nenhum, [
+    ("Chaos Tree", None, [
         ("Chaos Bow I", "41a"),
         ("Chaos Bow II", "41b"),
         ("Chaotic Rapture", "41c"),
     ]),
-    ("Edel Tree", Nenhum, [
+    ("Edel Tree", None, [
         ("Ivory Bow I", "42a"),
         ("Ivory Bow II", "42b"),
         ("Frozen Bow", "42c"),
     ]),
-    ("Spio Tree", Nenhum, [
+    ("Spio Tree", None, [
         ("Arachnid Bow I", "43a"),
         ("Arachnid Bow II", "43b"),
         ("Arachnid Silverstring", "43c"),
     ]),
-    ("<TODO: Find out the name of this tree.>", Nenhum, [
+    ("<TODO: Find out the name of this tree.>", None, [
         ("Azure Era Wyrmbow I", "44a"),
         ("Azure Era \"Soaring Dragão\"", "44b"),
     ]),
-    ("Rampage Tree", Nenhum, [
+    ("Rampage Tree", None, [
         ("Rampage Bow I"  , "ra"),
         ("Rampage Bow II" , "rb"),
         ("Rampage Bow III", "rc"),

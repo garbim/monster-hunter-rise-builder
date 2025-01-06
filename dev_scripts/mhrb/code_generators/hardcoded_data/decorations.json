@@ -475,7 +475,7 @@
     "icon": "green"
 }],
 [161, {
-    "name": "Hard Fogo Res",
+    "name": "Hard Fire Res",
     "slotSize": 4,
     "rarity": 8,
     "skills": {"fire_resistance": 3},
@@ -491,7 +491,7 @@
     "icon": "blue"
 }],
 [163, {
-    "name": "Hard Raio Res",
+    "name": "Hard Thunder Res",
     "slotSize": 4,
     "rarity": 8,
     "skills": {"thunder_resistance": 3},
@@ -499,7 +499,7 @@
     "icon": "yellow"
 }],
 [164, {
-    "name": "Hard Gelo Res",
+    "name": "Hard Ice Res",
     "slotSize": 4,
     "rarity": 8,
     "skills": {"ice_resistance": 3},
@@ -1295,7 +1295,7 @@
     "icon": "purple"
 }],
 [97, {
-    "name": "Fogo Res",
+    "name": "Fire Res",
     "slotSize": 1,
     "rarity": 4,
     "skills": {"fire_resistance": 1},
@@ -1311,7 +1311,7 @@
     "icon": "blue"
 }],
 [99, {
-    "name": "Raio Res",
+    "name": "Thunder Res",
     "slotSize": 1,
     "rarity": 4,
     "skills": {"thunder_resistance": 1},
@@ -1319,7 +1319,7 @@
     "icon": "yellow"
 }],
 [100, {
-    "name": "Gelo Res",
+    "name": "Ice Res",
     "slotSize": 1,
     "rarity": 4,
     "skills": {"ice_resistance": 1},

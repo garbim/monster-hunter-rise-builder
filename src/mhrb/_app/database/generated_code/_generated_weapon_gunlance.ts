@@ -4068,7 +4068,7 @@ const __generated_gunlance__28a: Gunlance = {
     id: "28a",
 
     name: "Fiore Nulo White I",
-    treeName: "Bnahabra (Gelo)",
+    treeName: "Bnahabra (Ice)",
     rarity: 2,
     endlineTag: "",
 
@@ -4108,7 +4108,7 @@ const __generated_gunlance__28b: Gunlance = {
     id: "28b",
 
     name: "Fiore Nulo White II",
-    treeName: "Bnahabra (Gelo)",
+    treeName: "Bnahabra (Ice)",
     rarity: 3,
     endlineTag: "",
 
@@ -4149,7 +4149,7 @@ const __generated_gunlance__28c: Gunlance = {
     id: "28c",
 
     name: "Fiore Unu White",
-    treeName: "Bnahabra (Gelo)",
+    treeName: "Bnahabra (Ice)",
     rarity: 5,
     endlineTag: "hr",
 
@@ -4653,7 +4653,7 @@ const __generated_gunlance__33a: Gunlance = {
     category: "gunlance",
     id: "33a",
 
-    name: "Raiobolt Gunlance I",
+    name: "Thunderbolt Gunlance I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",

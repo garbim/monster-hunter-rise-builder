@@ -8206,7 +8206,7 @@ const __generated_heavybowgun__28a: HeavyBowgun = {
     category: "heavybowgun",
     id: "28a",
 
-    name: "Raiobolt Cannon I",
+    name: "Thunderbolt Cannon I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",

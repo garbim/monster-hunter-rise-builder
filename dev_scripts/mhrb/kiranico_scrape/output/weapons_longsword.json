@@ -1103,7 +1103,7 @@
             "maxSharpness": [70,40,100,90,70,30]
         }
     },
-    "Raio Tree": {
+    "Thunder Tree": {
         "13a": {
             "rarity": 2,
             "endlineTag": "",
@@ -1258,7 +1258,7 @@
             "maxSharpness": [80,80,70,60,60,0]
         }
     },
-    "Gelo Tree": {
+    "Ice Tree": {
         "15a": {
             "rarity": 4,
             "endlineTag": "",
@@ -2965,7 +2965,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Raiobolt Long Sword I",
+            "name": "Thunderbolt Long Sword I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,

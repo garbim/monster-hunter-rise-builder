@@ -106,7 +106,7 @@ data = defaultdict(lambda : defaultdict(dict))
 # Usefully, it also helps us check for duplicates.
 data_flat_per_category = defaultdict(dict)
 
-raw_data = Nenhum
+raw_data = None
 with open(SRC_FILE_PATH, encoding="utf-8", mode="r") as f:
     raw_data = json.loads(f.read())
 
@@ -178,7 +178,7 @@ for (weapon_category, category_data) in data_flat_per_category.items():
         ramp_skills_seen = [set(x) for x in weapon_data["ramp_skills"]]
 
         def traverse(d):
-            if d["parent_id"] == Nenhum:
+            if d["parent_id"] == None:
                 return # No parent
             d = category_data[d["parent_id"]] # Move up to parent
 
@@ -427,7 +427,7 @@ for (weapon_category, _) in data_spec.items():
 
             if "switchaxe_stats" in weapon_data:
                 phial_value_str = "null"
-                if weapon_data["switchaxe_stats"]["phial_value"] != Nenhum:
+                if weapon_data["switchaxe_stats"]["phial_value"] != None:
                     phial_value_str = str(weapon_data["switchaxe_stats"]["phial_value"])
 
                 special_mechanics += switchaxe_stats_fmt.format(

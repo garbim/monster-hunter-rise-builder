@@ -716,7 +716,7 @@
             "maxSharpness": [50,40,120,120,50,20]
         }
     },
-    "Gelo Tree": {
+    "Ice Tree": {
         "9a": {
             "rarity": 1,
             "endlineTag": "",
@@ -2684,7 +2684,7 @@
             "maxSharpness": [140,30,30,70,70,10]
         }
     },
-    "Bnahabra (Raio)": {
+    "Bnahabra (Thunder)": {
         "32a": {
             "rarity": 2,
             "endlineTag": "",
@@ -2737,7 +2737,7 @@
             "maxSharpness": [160,20,20,100,70,30]
         }
     },
-    "Bnahabra (Fogo)": {
+    "Bnahabra (Fire)": {
         "33a": {
             "rarity": 1,
             "endlineTag": "",
@@ -3036,7 +3036,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Raiobolt Sword I",
+            "name": "Thunderbolt Sword I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,

@@ -419,7 +419,7 @@ def scrape_weapon_category_page(weapon_category, url, tagset):
             ammo_stats["fire"]    = parse_row(c4c.contents[0], "Fir/P.", 3)
             ammo_stats["water"]   = parse_row(c4c.contents[1], "Wat/P.", 3)
             ammo_stats["thunder"] = parse_row(c4c.contents[2], "Thn/P.", 3)
-            ammo_stats["ice"]     = parse_row(c4c.contents[3], "Gelo/P.", 3)
+            ammo_stats["ice"]     = parse_row(c4c.contents[3], "Ice/P.", 3)
             ammo_stats["dragon"]  = parse_row(c4c.contents[4], "Dra/P.", 3)
 
             assert len(c4d) == 5 # Number of rows

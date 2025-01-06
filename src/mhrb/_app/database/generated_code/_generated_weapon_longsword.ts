@@ -1641,7 +1641,7 @@ const __generated_longsword__13a: Longsword = {
     id: "13a",
 
     name: "Eager Cleaver I",
-    treeName: "Raio Tree",
+    treeName: "Thunder Tree",
     rarity: 2,
     endlineTag: "",
 
@@ -1676,7 +1676,7 @@ const __generated_longsword__13b: Longsword = {
     id: "13b",
 
     name: "Eager Cleaver II",
-    treeName: "Raio Tree",
+    treeName: "Thunder Tree",
     rarity: 4,
     endlineTag: "",
 
@@ -1711,7 +1711,7 @@ const __generated_longsword__13c: Longsword = {
     id: "13c",
 
     name: "Devil Slicer",
-    treeName: "Raio Tree",
+    treeName: "Thunder Tree",
     rarity: 5,
     endlineTag: "hr",
 
@@ -1852,7 +1852,7 @@ const __generated_longsword__15a: Longsword = {
     id: "15a",
 
     name: "Chillblade I",
-    treeName: "Gelo Tree",
+    treeName: "Ice Tree",
     rarity: 4,
     endlineTag: "",
 
@@ -1889,7 +1889,7 @@ const __generated_longsword__15b: Longsword = {
     id: "15b",
 
     name: "Chillblade II",
-    treeName: "Gelo Tree",
+    treeName: "Ice Tree",
     rarity: 5,
     endlineTag: "",
 
@@ -1927,7 +1927,7 @@ const __generated_longsword__15c: Longsword = {
     id: "15c",
 
     name: "Rimeblossom",
-    treeName: "Gelo Tree",
+    treeName: "Ice Tree",
     rarity: 6,
     endlineTag: "hr",
 
@@ -4163,7 +4163,7 @@ const __generated_longsword__35a: Longsword = {
     category: "longsword",
     id: "35a",
 
-    name: "Raiobolt Long Sword I",
+    name: "Thunderbolt Long Sword I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",

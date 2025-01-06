@@ -1366,7 +1366,7 @@
             }
         }
     },
-    "Raio Tree": {
+    "Thunder Tree": {
         "13a": {
             "rarity": 3,
             "endlineTag": "",
@@ -3360,7 +3360,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Raiobolt Axe I",
+            "name": "Thunderbolt Axe I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,

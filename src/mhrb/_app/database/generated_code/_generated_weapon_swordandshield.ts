@@ -1108,7 +1108,7 @@ const __generated_swordandshield__9a: SwordAndShield = {
     id: "9a",
 
     name: "Frost Edge I",
-    treeName: "Gelo Tree",
+    treeName: "Ice Tree",
     rarity: 1,
     endlineTag: "",
 
@@ -1142,7 +1142,7 @@ const __generated_swordandshield__9b: SwordAndShield = {
     id: "9b",
 
     name: "Frost Edge II",
-    treeName: "Gelo Tree",
+    treeName: "Ice Tree",
     rarity: 2,
     endlineTag: "",
 
@@ -1176,7 +1176,7 @@ const __generated_swordandshield__9c: SwordAndShield = {
     id: "9c",
 
     name: "Hi Frost Edge",
-    treeName: "Gelo Tree",
+    treeName: "Ice Tree",
     rarity: 5,
     endlineTag: "hr",
 
@@ -3780,7 +3780,7 @@ const __generated_swordandshield__32a: SwordAndShield = {
     id: "32a",
 
     name: "Secta Nulo Yellow I",
-    treeName: "Bnahabra (Raio)",
+    treeName: "Bnahabra (Thunder)",
     rarity: 2,
     endlineTag: "",
 
@@ -3815,7 +3815,7 @@ const __generated_swordandshield__32b: SwordAndShield = {
     id: "32b",
 
     name: "Secta Unu Yellow",
-    treeName: "Bnahabra (Raio)",
+    treeName: "Bnahabra (Thunder)",
     rarity: 5,
     endlineTag: "hr",
 
@@ -3851,7 +3851,7 @@ const __generated_swordandshield__33a: SwordAndShield = {
     id: "33a",
 
     name: "Secta Nulo Red I",
-    treeName: "Bnahabra (Fogo)",
+    treeName: "Bnahabra (Fire)",
     rarity: 1,
     endlineTag: "",
 
@@ -3885,7 +3885,7 @@ const __generated_swordandshield__33b: SwordAndShield = {
     id: "33b",
 
     name: "Secta Nulo Red II",
-    treeName: "Bnahabra (Fogo)",
+    treeName: "Bnahabra (Fire)",
     rarity: 2,
     endlineTag: "",
 
@@ -3921,7 +3921,7 @@ const __generated_swordandshield__33c: SwordAndShield = {
     id: "33c",
 
     name: "Secta Unu Red",
-    treeName: "Bnahabra (Fogo)",
+    treeName: "Bnahabra (Fire)",
     rarity: 4,
     endlineTag: "hr",
 
@@ -4256,7 +4256,7 @@ const __generated_swordandshield__37a: SwordAndShield = {
     category: "swordandshield",
     id: "37a",
 
-    name: "Raiobolt Sword I",
+    name: "Thunderbolt Sword I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",

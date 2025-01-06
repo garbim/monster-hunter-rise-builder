@@ -40,7 +40,7 @@ import {type Skill} from "../../common/types";
 export const __generated_skill__fire_attack: Skill = {
     id: "fire_attack",
     shortId: 1,
-    name: "Fogo Attack",
+    name: "Fire Attack",
     maxLevels: 5,
 
     iconImgID: "skill_icon_red",
@@ -64,7 +64,7 @@ export const __generated_skill__water_attack: Skill = {
 export const __generated_skill__thunder_attack: Skill = {
     id: "thunder_attack",
     shortId: 3,
-    name: "Raio Attack",
+    name: "Thunder Attack",
     maxLevels: 5,
 
     iconImgID: "skill_icon_yellow",
@@ -76,7 +76,7 @@ export const __generated_skill__thunder_attack: Skill = {
 export const __generated_skill__ice_attack: Skill = {
     id: "ice_attack",
     shortId: 4,
-    name: "Gelo Attack",
+    name: "Ice Attack",
     maxLevels: 5,
 
     iconImgID: "skill_icon_lightblue",
@@ -148,7 +148,7 @@ export const __generated_skill__blast_attack: Skill = {
 export const __generated_skill__fire_resistance: Skill = {
     id: "fire_resistance",
     shortId: 10,
-    name: "Fogo Resistance",
+    name: "Fire Resistance",
     maxLevels: 3,
 
     iconImgID: "skill_icon_red",
@@ -172,7 +172,7 @@ export const __generated_skill__water_resistance: Skill = {
 export const __generated_skill__thunder_resistance: Skill = {
     id: "thunder_resistance",
     shortId: 12,
-    name: "Raio Resistance",
+    name: "Thunder Resistance",
     maxLevels: 3,
 
     iconImgID: "skill_icon_yellow",
@@ -184,7 +184,7 @@ export const __generated_skill__thunder_resistance: Skill = {
 export const __generated_skill__ice_resistance: Skill = {
     id: "ice_resistance",
     shortId: 13,
-    name: "Gelo Resistance",
+    name: "Ice Resistance",
     maxLevels: 3,
 
     iconImgID: "skill_icon_lightblue",
@@ -1024,7 +1024,7 @@ export const __generated_skill__quick_sheathe: Skill = {
 export const __generated_skill__rapid_fire_up: Skill = {
     id: "rapid_fire_up",
     shortId: 83,
-    name: "Rapid Fogo Up",
+    name: "Rapid Fire Up",
     maxLevels: 3,
 
     iconImgID: "skill_icon_white",
@@ -1276,7 +1276,7 @@ export const __generated_skill__teostra_blessing: Skill = {
 export const __generated_skill__thunder_alignment: Skill = {
     id: "thunder_alignment",
     shortId: 104,
-    name: "Raio Alignment",
+    name: "Thunder Alignment",
     maxLevels: 5,
 
     iconImgID: "skill_icon_yellow",

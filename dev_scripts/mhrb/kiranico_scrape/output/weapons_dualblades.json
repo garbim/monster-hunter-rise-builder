@@ -1006,7 +1006,7 @@
             "maxSharpness": [60,80,80,50,80,0]
         }
     },
-    "Gelo Tree": {
+    "Ice Tree": {
         "12a": {
             "rarity": 3,
             "endlineTag": "",
@@ -1177,7 +1177,7 @@
             "maxSharpness": [70,40,100,90,70,30]
         }
     },
-    "Raio Tree": {
+    "Thunder Tree": {
         "14a": {
             "rarity": 2,
             "endlineTag": "",
@@ -1957,7 +1957,7 @@
             "maxSharpness": [80,90,30,50,80,20]
         }
     },
-    "Fogo Tree": {
+    "Fire Tree": {
         "23a": {
             "rarity": 2,
             "endlineTag": "",
@@ -2491,7 +2491,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Raiobolt Blades I",
+            "name": "Thunderbolt Blades I",
             "attack": 160,
             "affinity": 0,
             "defense": 0,
@@ -2678,7 +2678,7 @@
             "rarity": 7,
             "endlineTag": "hr",
 
-            "name": "Fogo and Gelo",
+            "name": "Fire and Ice",
             "attack": 180,
             "affinity": 10,
             "defense": 0,

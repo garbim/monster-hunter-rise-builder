@@ -36,7 +36,7 @@ export function SelectPetalace(props) {
             if (petalaceRO == null) {
                 return element(EquipInfoBox,
                     {
-                    eqName: "Nenhum",
+                    eqName: "None",
                     },
                     element("div",
                         {

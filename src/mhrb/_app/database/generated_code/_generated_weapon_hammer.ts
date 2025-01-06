@@ -896,7 +896,7 @@ const __generated_hammer__7a: Hammer = {
     id: "7a",
 
     name: "Gun Hammer I",
-    treeName: "Fogo Tree",
+    treeName: "Fire Tree",
     rarity: 2,
     endlineTag: "",
 
@@ -931,7 +931,7 @@ const __generated_hammer__7b: Hammer = {
     id: "7b",
 
     name: "Gun Hammer II",
-    treeName: "Fogo Tree",
+    treeName: "Fire Tree",
     rarity: 4,
     endlineTag: "",
 
@@ -967,7 +967,7 @@ const __generated_hammer__7c: Hammer = {
     id: "7c",
 
     name: "Deadeye Revolver",
-    treeName: "Fogo Tree",
+    treeName: "Fire Tree",
     rarity: 5,
     endlineTag: "hr",
 
@@ -1206,7 +1206,7 @@ const __generated_hammer__9a: Hammer = {
     id: "9a",
 
     name: "Great Nova I",
-    treeName: "Raio Tree",
+    treeName: "Thunder Tree",
     rarity: 5,
     endlineTag: "",
 
@@ -1243,7 +1243,7 @@ const __generated_hammer__9b: Hammer = {
     id: "9b",
 
     name: "Great Nova II",
-    treeName: "Raio Tree",
+    treeName: "Thunder Tree",
     rarity: 5,
     endlineTag: "",
 
@@ -1280,7 +1280,7 @@ const __generated_hammer__9c: Hammer = {
     id: "9c",
 
     name: "Super Nova",
-    treeName: "Raio Tree",
+    treeName: "Thunder Tree",
     rarity: 6,
     endlineTag: "hr",
 
@@ -2148,7 +2148,7 @@ const __generated_hammer__17c: Hammer = {
     category: "hammer",
     id: "17c",
 
-    name: "Bag o' Raio",
+    name: "Bag o' Thunder",
     treeName: "Khezu Tree",
     rarity: 4,
     endlineTag: "hr",
@@ -2187,7 +2187,7 @@ const __generated_hammer__18a: Hammer = {
     id: "18a",
 
     name: "Frozen Core I",
-    treeName: "Gelo Tree",
+    treeName: "Ice Tree",
     rarity: 1,
     endlineTag: "",
 
@@ -2221,7 +2221,7 @@ const __generated_hammer__18b: Hammer = {
     id: "18b",
 
     name: "Frozen Core II",
-    treeName: "Gelo Tree",
+    treeName: "Ice Tree",
     rarity: 2,
     endlineTag: "",
 
@@ -2255,7 +2255,7 @@ const __generated_hammer__18c: Hammer = {
     id: "18c",
 
     name: "Cocytus",
-    treeName: "Gelo Tree",
+    treeName: "Ice Tree",
     rarity: 4,
     endlineTag: "hr",
 
@@ -3195,7 +3195,7 @@ const __generated_hammer__26a: Hammer = {
     category: "hammer",
     id: "26a",
 
-    name: "Usurper's Raio I",
+    name: "Usurper's Thunder I",
     treeName: "Zinogre Tree",
     rarity: 3,
     endlineTag: "",
@@ -3231,7 +3231,7 @@ const __generated_hammer__26b: Hammer = {
     category: "hammer",
     id: "26b",
 
-    name: "Usurper's Raio II",
+    name: "Usurper's Thunder II",
     treeName: "Zinogre Tree",
     rarity: 5,
     endlineTag: "",
@@ -4231,7 +4231,7 @@ const __generated_hammer__36a: Hammer = {
     category: "hammer",
     id: "36a",
 
-    name: "Raiobolt Hammer I",
+    name: "Thunderbolt Hammer I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",

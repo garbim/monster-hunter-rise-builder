@@ -1936,7 +1936,7 @@ const __generated_switchaxe__13a: SwitchAxe = {
     id: "13a",
 
     name: "The Shredder I",
-    treeName: "Raio Tree",
+    treeName: "Thunder Tree",
     rarity: 3,
     endlineTag: "",
 
@@ -1976,7 +1976,7 @@ const __generated_switchaxe__13b: SwitchAxe = {
     id: "13b",
 
     name: "The Shredder II",
-    treeName: "Raio Tree",
+    treeName: "Thunder Tree",
     rarity: 3,
     endlineTag: "",
 
@@ -2017,7 +2017,7 @@ const __generated_switchaxe__13c: SwitchAxe = {
     id: "13c",
 
     name: "The Power Shredder",
-    treeName: "Raio Tree",
+    treeName: "Thunder Tree",
     rarity: 5,
     endlineTag: "hr",
 
@@ -4526,7 +4526,7 @@ const __generated_switchaxe__32a: SwitchAxe = {
     category: "switchaxe",
     id: "32a",
 
-    name: "Raiobolt Axe I",
+    name: "Thunderbolt Axe I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",

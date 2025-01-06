@@ -41,7 +41,7 @@ def _ele(name, short_id_prefix):
         [{
             "id":      f"rapid_fire_{id_prefix}",
             "shortID": f"{short_id_prefix}r1",
-            "name":    f"Rapid Fogo {name}",
+            "name":    f"Rapid Fire {name}",
         }],
     )
 
@@ -67,10 +67,10 @@ def _stat(name, short_id_prefix, generate_effect):
 
 def get_procedural_rampage_skills():
     return list(chain(
-        _ele("Fogo"      , "fi"),
+        _ele("Fire"      , "fi"),
         _ele("Water"     , "wa"),
-        _ele("Raio"   , "th"),
-        _ele("Gelo"       , "ic"),
+        _ele("Thunder"   , "th"),
+        _ele("Ice"       , "ic"),
         _ele("Dragão"    , "dr"),
         _stat("Poison"   , "po", True ),
         _stat("Paralysis", "pa", True ),

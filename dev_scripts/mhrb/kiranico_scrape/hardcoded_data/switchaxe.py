@@ -8,7 +8,7 @@ Hardcoded parts for Switch Axe data
 # Specification to build the data
 # {category: [(tree name, parent_weapon_id, [(name, id, rarity), ...]), ...]}
 HARDCODED_SA_SPEC = [
-    ("Kamura Tree", Nenhum, [
+    ("Kamura Tree", None, [
         ("Kamura Iron Axe I"  , "1a"),
         ("Kamura Iron Axe II" , "1b"),
         ("Kamura Iron Axe III", "1c"),
@@ -53,7 +53,7 @@ HARDCODED_SA_SPEC = [
         ("Amber Slash III", "8c"),
         ("Amber Hoarfrost", "8d"),
     ]),
-    ("Ore Tree", Nenhum, [
+    ("Ore Tree", None, [
         ("Proto Iron Axe I", "9a"),
         ("Proto Iron Axe II", "9b"),
         ("Improved Steel Axe", "9c"),
@@ -76,7 +76,7 @@ HARDCODED_SA_SPEC = [
         ("General's Strongaxe II", "12b"),
         ("Conqueress", "12c"),
     ]),
-    ("Raio Tree", "9c", [
+    ("Thunder Tree", "9c", [
         ("The Shredder I", "13a"),
         ("The Shredder II", "13b"),
         ("The Power Shredder", "13c"),
@@ -108,7 +108,7 @@ HARDCODED_SA_SPEC = [
         ("Snowfall Axe III", "18c"),
         ("Dewdrop Dream", "18d"),
     ]),
-    ("Bone Tree", Nenhum, [
+    ("Bone Tree", None, [
         ("Bone Axe I", "19a"),
         ("Bone Axe II", "19b"),
         ("Daidalos Axe", "19c"),
@@ -163,67 +163,67 @@ HARDCODED_SA_SPEC = [
         ("Longear Axe III", "28c"),
         ("Longear Weiss", "28d"),
     ]),
-    ("Magnamalo Tree", Nenhum, [
+    ("Magnamalo Tree", None, [
         ("Sinister Axe I", "29a"),
         ("Sinister Axe II", "29b"),
         ("Sinister Shadowslice", "29c"),
     ]),
-    ("Rajang Tree", Nenhum, [
+    ("Rajang Tree", None, [
         ("Undying Axe I", "30a"),
         ("Undying Axe II", "30b"),
         ("Undying Light", "30c"),
     ]),
-    ("Ibushi Tree", Nenhum, [
+    ("Ibushi Tree", None, [
         ("Azure Elder Axe I", "31a"),
         ("Azure Elder Axe II", "31b"),
         ("Abyssal Gale Axe", "31c"),
     ]),
-    ("Narwa Tree", Nenhum, [
-        ("Raiobolt Axe I", "32a"),
+    ("Narwa Tree", None, [
+        ("Thunderbolt Axe I", "32a"),
         ("Abyssal Storm Axe", "32b"),
     ]),
-    ("Bazelgeuse Tree", Nenhum, [
+    ("Bazelgeuse Tree", None, [
         ("Rookslayer Axe I", "33a"),
         ("Rookslayer Axe II", "33b"),
         ("Bazelrush Rookslayer", "33c"),
     ]),
-    ("Kushala Daora Tree", Nenhum, [
+    ("Kushala Daora Tree", None, [
         ("Daora's Farasa I", "34a"),
         ("Daora's Janah", "34b"),
     ]),
-    ("Teostra Tree", Nenhum, [
+    ("Teostra Tree", None, [
         ("Teostra's Arx I", "35a"),
         ("Teostra's Castle", "35b"),
     ]),
-    ("Chameleos Tree", Nenhum, [
+    ("Chameleos Tree", None, [
         ("Waxglare Wand I", "36a"),
         ("Balor's Mirage", "36b"),
     ]),
-    ("Valstrax Tree", Nenhum, [
+    ("Valstrax Tree", None, [
         ("Redwing Switch Axe I", "37a"),
         ("Reddnaught Dunat", "37b"),
     ]),
-    ("Smithy Tree", Nenhum, [
+    ("Smithy Tree", None, [
         ("Origami Axe I", "38a"),
         ("Origami Axe II", "38b"),
         ("Petal Cloud", "38c"),
     ]),
-    ("Felyne Tree", Nenhum, [
+    ("Felyne Tree", None, [
         ("Grim Cat I", "39a"),
         ("Grim Cat II", "39b"),
         ("Grimmige Katze", "39c"),
     ]),
-    ("Death Stench Tree", Nenhum, [
+    ("Death Stench Tree", None, [
         ("Infernal Axe I", "40a"),
         ("Infernal Axe II", "40b"),
         ("Hellish Edge", "40c"),
     ]),
-    ("Shell-Studded Tree", Nenhum, [
+    ("Shell-Studded Tree", None, [
         ("Sleepy Shellslice I", "41a"),
         ("Sleepy Shellslice II", "41b"),
         ("Schale Batis", "41c"),
     ]),
-    ("Rampage Tree", Nenhum, [
+    ("Rampage Tree", None, [
         ("Rampage Slicer I"  , "ra"),
         ("Rampage Slicer II" , "rb"),
         ("Rampage Slicer III", "rc"),

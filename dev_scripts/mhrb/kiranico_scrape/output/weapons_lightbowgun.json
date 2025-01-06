@@ -3373,7 +3373,7 @@
             "rarity": 2,
             "endlineTag": "",
 
-            "name": "Valkyrie Fogo I",
+            "name": "Valkyrie Fire I",
             "attack": 100,
             "affinity": 0,
             "defense": 0,
@@ -3434,7 +3434,7 @@
             "rarity": 5,
             "endlineTag": "",
 
-            "name": "Valkyrie Fogo II",
+            "name": "Valkyrie Fire II",
             "attack": 180,
             "affinity": 0,
             "defense": 0,
@@ -5599,7 +5599,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Raiobolt Bowgun I",
+            "name": "Thunderbolt Bowgun I",
             "attack": 170,
             "affinity": 0,
             "defense": 0,

@@ -879,7 +879,7 @@ const __generated_huntinghorn__5c: HuntingHorn = {
     category: "huntinghorn",
     id: "5c",
 
-    name: "Despot's Raioclap",
+    name: "Despot's Thunderclap",
     treeName: "Zinogre Tree",
     rarity: 6,
     endlineTag: "hr",
@@ -3867,7 +3867,7 @@ const __generated_huntinghorn__27a: HuntingHorn = {
     id: "27a",
 
     name: "Vicello Nulo White I",
-    treeName: "Bnahabra (Gelo)",
+    treeName: "Bnahabra (Ice)",
     rarity: 1,
     endlineTag: "",
 
@@ -3906,7 +3906,7 @@ const __generated_huntinghorn__27b: HuntingHorn = {
     id: "27b",
 
     name: "Vicello Nulo White II",
-    treeName: "Bnahabra (Gelo)",
+    treeName: "Bnahabra (Ice)",
     rarity: 3,
     endlineTag: "",
 
@@ -3947,7 +3947,7 @@ const __generated_huntinghorn__27c: HuntingHorn = {
     id: "27c",
 
     name: "Vicello Unu White",
-    treeName: "Bnahabra (Gelo)",
+    treeName: "Bnahabra (Ice)",
     rarity: 5,
     endlineTag: "hr",
 
@@ -4338,7 +4338,7 @@ const __generated_huntinghorn__31a: HuntingHorn = {
     category: "huntinghorn",
     id: "31a",
 
-    name: "Raiobolt Horn I",
+    name: "Thunderbolt Horn I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",

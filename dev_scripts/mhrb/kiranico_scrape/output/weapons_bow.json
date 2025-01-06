@@ -969,7 +969,7 @@
             "rarity": 2,
             "endlineTag": "",
 
-            "name": "Gelo Crest I",
+            "name": "Ice Crest I",
             "attack": 100,
             "affinity": 20,
             "defense": 0,
@@ -1011,7 +1011,7 @@
             "rarity": 3,
             "endlineTag": "",
 
-            "name": "Gelo Crest II",
+            "name": "Ice Crest II",
             "attack": 120,
             "affinity": 25,
             "defense": 0,
@@ -1053,7 +1053,7 @@
             "rarity": 5,
             "endlineTag": "",
 
-            "name": "Gelo Crest III",
+            "name": "Ice Crest III",
             "attack": 180,
             "affinity": 25,
             "defense": 0,
@@ -1773,7 +1773,7 @@
             }
         }
     },
-    "Gelo Tree": {
+    "Ice Tree": {
         "12a": {
             "rarity": 4,
             "endlineTag": "",
@@ -4004,7 +4004,7 @@
             }
         }
     },
-    "Bnahabra (Raio)": {
+    "Bnahabra (Thunder)": {
         "27a": {
             "rarity": 3,
             "endlineTag": "",
@@ -4135,7 +4135,7 @@
             }
         }
     },
-    "Bnahabra (Fogo)": {
+    "Bnahabra (Fire)": {
         "28a": {
             "rarity": 2,
             "endlineTag": "",
@@ -4263,7 +4263,7 @@
             }
         }
     },
-    "Bnahabra (Gelo)": {
+    "Bnahabra (Ice)": {
         "29a": {
             "rarity": 1,
             "endlineTag": "",
@@ -4638,7 +4638,7 @@
             "rarity": 5,
             "endlineTag": "",
 
-            "name": "Beast Raiobow I",
+            "name": "Beast Thunderbow I",
             "attack": 190,
             "affinity": 0,
             "defense": 0,
@@ -4677,7 +4677,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Beast Raiobow II",
+            "name": "Beast Thunderbow II",
             "attack": 210,
             "affinity": 0,
             "defense": 0,
@@ -4717,7 +4717,7 @@
             "rarity": 7,
             "endlineTag": "hr",
 
-            "name": "Beastking Raiobow",
+            "name": "Beastking Thunderbow",
             "attack": 220,
             "affinity": 0,
             "defense": 0,
@@ -4882,7 +4882,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Raiobolt Bow I",
+            "name": "Thunderbolt Bow I",
             "attack": 180,
             "affinity": 0,
             "defense": 0,

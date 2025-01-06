@@ -8,7 +8,7 @@ Hardcoded parts for Light Bowgun data
 # Specification to build the data
 # {category: [(tree name, parent_weapon_id, [(name, id, rarity), ...]), ...]}
 HARDCODED_LBG_SPEC = [
-    ("Kamura Tree", Nenhum, [
+    ("Kamura Tree", None, [
         ("Kamura L. Bowgun I"    , "1a"),
         ("Kamura L. Bowgun II"   , "1b"),
         ("Kamura L. Bowgun III"  , "1c"),
@@ -54,7 +54,7 @@ HARDCODED_LBG_SPEC = [
         ("Gossgun III", "8c"),
         ("Abominable Bowgun", "8d"),
     ]),
-    ("Ore Tree", Nenhum, [
+    ("Ore Tree", None, [
         ("Hunter's Rifle I", "9a"),
         ("Hunter's Rifle II", "9b"),
         ("Sniper Shot", "9c"),
@@ -94,11 +94,11 @@ HARDCODED_LBG_SPEC = [
         ("Furious Flammengewehr", "15c"),
     ]),
     ("Rathian Tree", "14b", [
-        ("Valkyrie Fogo I", "16a"),
-        ("Valkyrie Fogo II", "16b"),
+        ("Valkyrie Fire I", "16a"),
+        ("Valkyrie Fire II", "16b"),
         ("Valkyrie Blaze", "16c"),
     ]),
-    ("Bone Tree", Nenhum, [
+    ("Bone Tree", None, [
         ("Cross Bowgun I", "17a"),
         ("Cross Bowgun II", "17b"),
         ("Cross Blitz", "17c"),
@@ -137,57 +137,57 @@ HARDCODED_LBG_SPEC = [
         ("Royal Launcher II", "23b"),
         ("Royal Torrent", "23c"),
     ]),
-    ("Magnamalo Tree", Nenhum, [
+    ("Magnamalo Tree", None, [
         ("Sinister Bowgun I", "24a"),
         ("Sinister Bowgun II", "24b"),
         ("Sinister Shadow Bolt", "24c"),
     ]),
-    ("Rajang Tree", Nenhum, [
+    ("Rajang Tree", None, [
         ("Rajang Barrage I", "25a"),
         ("Rajang Barrage II", "25b"),
         ("Ten Thousand Volts", "25c"),
     ]),
-    ("Ibushi Tree", Nenhum, [
+    ("Ibushi Tree", None, [
         ("Azure Elder Bowgun I", "26a"),
         ("Azure Elder Bowgun II", "26b"),
         ("Abyssal Gale Bolt", "26c"),
     ]),
-    ("Narwa Tree", Nenhum, [
-        ("Raiobolt Bowgun I", "27a"),
+    ("Narwa Tree", None, [
+        ("Thunderbolt Bowgun I", "27a"),
         ("Abyssal Storm Bolt", "27b"),
     ]),
-    ("Bazelgeuse Tree", Nenhum, [
+    ("Bazelgeuse Tree", None, [
         ("Rookslayer Bowgun I", "28a"),
         ("Rookslayer Bowgun II", "28b"),
         ("Bazelfetter Rookslayer", "28c"),
     ]),
-    ("Kushala Daora Tree", Nenhum, [
+    ("Kushala Daora Tree", None, [
         ("Gelosteel Wasp I", "29a"),
         ("Daora's Hornet", "29b"),
     ]),
-    ("Teostra Tree", Nenhum, [
+    ("Teostra Tree", None, [
         ("Teostra's Dart I", "30a"),
         ("Teostra's Flamebolt", "30b"),
     ]),
-    ("Chameleos Tree", Nenhum, [
+    ("Chameleos Tree", None, [
         ("Blessed Lamp I", "31a"),
         ("Cursed Lamp", "31b"),
     ]),
-    ("Valstrax Tree", Nenhum, [
+    ("Valstrax Tree", None, [
         ("Redwing Shooter I", "32a"),
         ("Reddnaught Bowgun", "32b"),
     ]),
-    ("Canyne Tree", Nenhum, [
+    ("Canyne Tree", None, [
         ("Wooden Dog Bowgun I", "33a"),
         ("Wooden Dog Bowgun II", "33b"),
         ("Watchdog's Howl", "33c"),
     ]),
-    ("Makluva Tree", Nenhum, [
+    ("Makluva Tree", None, [
         ("Springnight Shot I", "34a"),
         ("Springnight Shot II", "34b"),
         ("Springnight Spawn", "34c"),
     ]),
-    ("Rampage Tree", Nenhum, [
+    ("Rampage Tree", None, [
         ("Rampage L. Bowgun I"  , "ra"),
         ("Rampage L. Bowgun II" , "rb"),
         ("Rampage L. Bowgun III", "rc"),

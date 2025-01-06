@@ -8,7 +8,7 @@ Hardcoded parts for Hunting Horn data
 # Specification to build the data
 # {category: [(tree name, parent_weapon_id, [(name, id, rarity), ...]), ...]}
 HARDCODED_HH_SPEC = [
-    ("Kamura Tree", Nenhum, [
+    ("Kamura Tree", None, [
         ("Kamura Chorus I"  , "1a"),
         ("Kamura Chorus II" , "1b"),
         ("Kamura Chorus III", "1c"),
@@ -34,7 +34,7 @@ HARDCODED_HH_SPEC = [
     ("Zinogre Tree", "4a", [
         ("Usurper's Growl I", "5a"),
         ("Usurper's Growl II", "5b"),
-        ("Despot's Raioclap", "5c"),
+        ("Despot's Thunderclap", "5c"),
     ]),
     ("Arzuros Tree", "1b", [
         ("Zurogong Primo I", "6a"),
@@ -56,7 +56,7 @@ HARDCODED_HH_SPEC = [
         ("Frilled Flute II", "9b"),
         ("Illusory Flute", "9c"),
     ]),
-    ("Ore Tree", Nenhum, [
+    ("Ore Tree", None, [
         ("Iron Horn I", "10a"),
         ("Wind Horn", "10b"),
         ("Metal Bagpipe I", "10c"),
@@ -104,7 +104,7 @@ HARDCODED_HH_SPEC = [
         ("Droth Drone II", "18b"),
         ("Droth Roar", "18c"),
     ]),
-    ("Bone Tree", Nenhum, [
+    ("Bone Tree", None, [
         ("Bone Horn I", "19a"),
         ("Bone Horn II", "19b"),
         ("Hardened Bone Horn", "19c"),
@@ -136,7 +136,7 @@ HARDCODED_HH_SPEC = [
         ("Khezu Horn II", "24b"),
         ("Khezu Flute", "24c"),
     ]),
-    ("Bnahabra Tree", Nenhum, [
+    ("Bnahabra Tree", None, [
         ("Vicello Nulo I", "25a"),
         ("Vicello Nulo II", "25b"),
         ("Vicello Unu", "25c"),
@@ -149,73 +149,73 @@ HARDCODED_HH_SPEC = [
         ("Vicello Nulo Green II", "26b"),
         ("Vicello Unu Green", "26c"),
     ]),
-    ("Bnahabra (Gelo)", "25a", [
+    ("Bnahabra (Ice)", "25a", [
         ("Vicello Nulo White I", "27a"),
         ("Vicello Nulo White II", "27b"),
         ("Vicello Unu White", "27c"),
     ]),
-    ("Magnamalo Tree", Nenhum, [
+    ("Magnamalo Tree", None, [
         ("Sinister Strum I", "28a"),
         ("Sinister Strum II", "28b"),
         ("Sinister Shadestrum", "28c"),
     ]),
-    ("Rajang Tree", Nenhum, [
+    ("Rajang Tree", None, [
         ("Denden Daiko I", "29a"),
         ("Denden Daiko II", "29b"),
         ("Denden Doomsounder", "29c"),
     ]),
-    ("Ibushi Tree", Nenhum, [
+    ("Ibushi Tree", None, [
         ("Azure Elder Horn I", "30a"),
         ("Azure Elder Horn II", "30b"),
         ("Abyssal Gale Horn", "30c"),
     ]),
-    ("Narwa Tree", Nenhum, [
-        ("Raiobolt Horn I", "31a"),
+    ("Narwa Tree", None, [
+        ("Thunderbolt Horn I", "31a"),
         ("Abyssal Storm Horn", "31b"),
     ]),
-    ("Bazelgeuse Tree", Nenhum, [
+    ("Bazelgeuse Tree", None, [
         ("Rookslayer Drum I", "32a"),
         ("Rookslayer Drum II", "32b"),
         ("Bazelreid Rookslayer", "32c"),
     ]),
-    ("Kushala Daora Tree", Nenhum, [
+    ("Kushala Daora Tree", None, [
         ("Daora's Taus I", "33a"),
         ("Daora's Baphophone", "33b"),
     ]),
-    ("Teostra Tree", Nenhum, [
+    ("Teostra Tree", None, [
         ("Teostra's Tiple I", "34a"),
         ("Teostra's Orph\u00e9e", "34b"), # Will need to be fixed to include the accent
     ]),
-    ("Chameleos Tree", Nenhum, [
+    ("Chameleos Tree", None, [
         ("Blessed Ocarina I", "35a"),
         ("Cursed Ocarina", "35b"),
     ]),
-    ("Valstrax Tree", Nenhum, [
+    ("Valstrax Tree", None, [
         ("Redwing Flute I", "36a"),
         ("Reddnaught Ritmico", "36b"),
     ]),
-    ("Chaos Tree", Nenhum, [
+    ("Chaos Tree", None, [
         ("Poison Fungasax I", "37a"),
         ("Poison Fungasax II", "37b"),
         ("Toxic Fungasax", "37c"),
     ]),
-    ("Magia Tree", Nenhum, [
+    ("Magia Tree", None, [
         ("Magia Charm I", "38a"),
         ("Magia Charm II", "38b"),
         ("Magia Charm III", "38c"),
         ("Magia Charmbell", "38d"),
     ]),
-    ("Spio Tree", Nenhum, [
+    ("Spio Tree", None, [
         ("Cornupion I", "39a"),
         ("Cornupion II", "39b"),
         ("Webbed Cornupion", "39c"),
     ]),
-    ("Bombadgy Tree", Nenhum, [
+    ("Bombadgy Tree", None, [
         ("Grass Flute I", "40a"),
         ("Grass Flute II", "40b"),
         ("Bombadgy's Cry", "40c"),
     ]),
-    ("Rampage Tree", Nenhum, [
+    ("Rampage Tree", None, [
         ("Rampage Agitato I"  , "ra"),
         ("Rampage Agitato II" , "rb"),
         ("Rampage Agitato III", "rc"),

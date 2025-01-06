@@ -3719,7 +3719,7 @@ const __generated_insectglaive__27a: InsectGlaive = {
     id: "27a",
 
     name: "Rielle Nulo White I",
-    treeName: "Bnahabra (Gelo)",
+    treeName: "Bnahabra (Ice)",
     rarity: 3,
     endlineTag: "",
 
@@ -3759,7 +3759,7 @@ const __generated_insectglaive__27b: InsectGlaive = {
     id: "27b",
 
     name: "Rielle Nulo White II",
-    treeName: "Bnahabra (Gelo)",
+    treeName: "Bnahabra (Ice)",
     rarity: 5,
     endlineTag: "",
 
@@ -3799,7 +3799,7 @@ const __generated_insectglaive__27c: InsectGlaive = {
     id: "27c",
 
     name: "Rielle Unu White",
-    treeName: "Bnahabra (Gelo)",
+    treeName: "Bnahabra (Ice)",
     rarity: 6,
     endlineTag: "hr",
 
@@ -4291,7 +4291,7 @@ const __generated_insectglaive__32a: InsectGlaive = {
     category: "insectglaive",
     id: "32a",
 
-    name: "Raiobolt Glaive I",
+    name: "Thunderbolt Glaive I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",

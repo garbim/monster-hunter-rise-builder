@@ -56,13 +56,13 @@ imgPathMapEntries.push(
 
 import imgEleresFogoIcon    from "../_images/elementalres_fire_icon_inkscapesourcefile.svg";
 import imgEleresWaterIcon   from "../_images/elementalres_water_icon_inkscapesourcefile.svg";
-import imgEleresRaioIcon from "../_images/elementalres_thunder_icon_inkscapesourcefile.svg";
+import imgEleresThunderIcon from "../_images/elementalres_thunder_icon_inkscapesourcefile.svg";
 import imgEleresGeloIcon     from "../_images/elementalres_ice_icon_inkscapesourcefile.svg";
 import imgEleresDragãoIcon  from "../_images/elementalres_dragon_icon_inkscapesourcefile.svg";
 imgPathMapEntries.push(
     ["eleres_fire_icon"   , imgEleresFogoIcon   ],
     ["eleres_water_icon"  , imgEleresWaterIcon  ],
-    ["eleres_thunder_icon", imgEleresRaioIcon],
+    ["eleres_thunder_icon", imgEleresThunderIcon],
     ["eleres_ice_icon"    , imgEleresGeloIcon    ],
     ["eleres_dragon_icon" , imgEleresDragãoIcon ],
 );

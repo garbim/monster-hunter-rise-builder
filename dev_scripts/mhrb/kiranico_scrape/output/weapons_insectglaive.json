@@ -2728,7 +2728,7 @@
             }
         }
     },
-    "Bnahabra (Gelo)": {
+    "Bnahabra (Ice)": {
         "27a": {
             "rarity": 3,
             "endlineTag": "",
@@ -3166,7 +3166,7 @@
             "rarity": 6,
             "endlineTag": "",
 
-            "name": "Raiobolt Glaive I",
+            "name": "Thunderbolt Glaive I",
             "attack": 170,
             "affinity": 0,
             "defense": 0,

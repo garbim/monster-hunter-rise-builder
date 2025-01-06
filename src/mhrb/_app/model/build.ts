@@ -490,7 +490,7 @@ class Build {
                     legs:  makeArmourRenderingProps("legs"),
                 },
             talismanRO: {
-                    name: (renderNenhumTalisman) ? "Nenhum" : "Talisman",
+                    name: (renderNenhumTalisman) ? "None" : "Talisman",
                     skills: talismanSkillNamesArray,
                     decosArray: this._getDecoArrayRenderingProp("talisman"),
                 },

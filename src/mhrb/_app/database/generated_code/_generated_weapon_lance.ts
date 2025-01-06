@@ -1977,7 +1977,7 @@ const __generated_lance__16a: Lance = {
     id: "16a",
 
     name: "Drill Lance I",
-    treeName: "Raio Tree",
+    treeName: "Thunder Tree",
     rarity: 4,
     endlineTag: "",
 
@@ -2013,7 +2013,7 @@ const __generated_lance__16b: Lance = {
     id: "16b",
 
     name: "Drill Lance II",
-    treeName: "Raio Tree",
+    treeName: "Thunder Tree",
     rarity: 5,
     endlineTag: "",
 
@@ -2050,7 +2050,7 @@ const __generated_lance__16c: Lance = {
     id: "16c",
 
     name: "Gigadrill Lance",
-    treeName: "Raio Tree",
+    treeName: "Thunder Tree",
     rarity: 6,
     endlineTag: "hr",
 
@@ -2198,7 +2198,7 @@ const __generated_lance__18a: Lance = {
     id: "18a",
 
     name: "Heat Lance I",
-    treeName: "Fogo Tree",
+    treeName: "Fire Tree",
     rarity: 1,
     endlineTag: "",
 
@@ -2233,7 +2233,7 @@ const __generated_lance__18b: Lance = {
     id: "18b",
 
     name: "Heat Lance II",
-    treeName: "Fogo Tree",
+    treeName: "Fire Tree",
     rarity: 3,
     endlineTag: "",
 
@@ -2269,7 +2269,7 @@ const __generated_lance__18c: Lance = {
     id: "18c",
 
     name: "Heatstinger",
-    treeName: "Fogo Tree",
+    treeName: "Fire Tree",
     rarity: 5,
     endlineTag: "hr",
 
@@ -3916,7 +3916,7 @@ const __generated_lance__33a: Lance = {
     category: "lance",
     id: "33a",
 
-    name: "Raiobolt Spear I",
+    name: "Thunderbolt Spear I",
     treeName: "Narwa Tree",
     rarity: 6,
     endlineTag: "",
