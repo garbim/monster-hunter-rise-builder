@@ -18,8 +18,3 @@ kill_timeout = 5
   cpu_kind = "shared"
   cpus = 1
   memory_mb = 256  # Ajustado para o plano gratuito
-
-[mounts]
-  source = "data"
-  destination = "/data"
-  initial_size = "1GB"  # Dentro do limite gratuito de 3GB
